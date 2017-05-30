@@ -1,0 +1,3 @@
+<keymap version="1" name="OpsManager Rubymine" parent="Pivotal Common">
+  <action id="CompareTwoFiles" />
+</keymap>

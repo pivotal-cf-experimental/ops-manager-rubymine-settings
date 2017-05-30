@@ -1,0 +1,32 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="post-success-message-to-slack" type="ActionScript" />
+      <mapping pattern="generate-example-product2" type="Bash" />
+      <mapping pattern="run-network-integration-specs" type="Bash" />
+      <mapping pattern="whats_deployed" type="Bash" />
+      <mapping pattern="opsmanager-version" type="Bash" />
+      <mapping pattern="recreate-gcp-workers" type="Bash" />
+      <mapping pattern="recreate-vsphere-workers" type="Bash" />
+      <mapping pattern="collapse_namespace" type="Bash" />
+      <mapping pattern="deps" type="PLAIN_TEXT" />
+      <mapping pattern="post-cve-message-to-slack" type="PLAIN_TEXT" />
+      <mapping pattern="run-upgrade-azure" type="PLAIN_TEXT" />
+      <mapping pattern="publish-google-images" type="PLAIN_TEXT" />
+      <mapping pattern="build-google-upgrade-tfvars" type="PLAIN_TEXT" />
+      <mapping pattern="post-triggered-message-to-slack" type="PLAIN_TEXT" />
+      <mapping pattern="build-pivotal-file" type="PLAIN_TEXT" />
+      <mapping pattern="terraform-azure" type="PLAIN_TEXT" />
+      <mapping pattern="hopper" type="PLAIN_TEXT" />
+      <mapping pattern="create-release-image" type="PLAIN_TEXT" />
+      <mapping pattern="post-failure-message-to-slack" type="PLAIN_TEXT" />
+      <mapping ext="ignore" type="PLAIN_TEXT" />
+      <mapping pattern="get-stemcell-version" type="Ruby" />
+      <mapping pattern="get-opsmanager-version" type="Ruby" />
+      <mapping pattern="generate_metadata" type="Ruby" />
+      <mapping pattern="amelia-earhart" type="YAML" />
+      <mapping pattern="curie" type="YAML" />
+      <mapping pattern="johnson" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
