@@ -684,6 +684,7 @@
     </library>
     <library name="json_pure (v1.8.3, ruby-2.3.4-p301) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json_pure/1.8.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/json_pure-1.8.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/json_pure-1.8.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/json_pure-1.8.3/data" />
@@ -693,6 +694,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/json_pure-1.8.3/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json_pure/1.8.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/json_pure-1.8.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/json_pure-1.8.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/json_pure-1.8.3/data" />
@@ -846,6 +848,7 @@
     </library>
     <library name="nokogiri (v1.6.6.2, ruby-2.3.4-p301) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.6.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nokogiri-1.6.6.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nokogiri-1.6.6.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nokogiri-1.6.6.2/lib" />
@@ -853,6 +856,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nokogiri-1.6.6.2/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.6.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nokogiri-1.6.6.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nokogiri-1.6.6.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/nokogiri-1.6.6.2/lib" />
