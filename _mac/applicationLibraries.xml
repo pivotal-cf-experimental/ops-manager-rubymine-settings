@@ -5928,6 +5928,7 @@
     </library>
     <library name="nokogiri (v1.7.2, ruby-2.0.0-p648) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/nokogiri/1.7.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nokogiri-1.7.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nokogiri-1.7.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nokogiri-1.7.2/lib" />
@@ -5936,6 +5937,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nokogiri-1.7.2/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/nokogiri/1.7.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nokogiri-1.7.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nokogiri-1.7.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nokogiri-1.7.2/lib" />
@@ -6304,6 +6306,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/pdf-reader-1.4.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/pdf-reader-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="pg (v0.18.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/pg-0.18.4/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/pg-0.18.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/pg-0.18.4/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/pg-0.18.4/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/pg-0.18.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/pg-0.18.4/sample" />
       </SOURCES>
     </library>
     <library name="pg (v0.18.4, ruby-2.3.4-p301) [gem]">
