@@ -1,0 +1,12 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="&lt;noname&gt;">
+      <action id="EditorLineStart" />
+      <action id="EditorLineStart" />
+      <shortuct text="control HOME" />
+      <shortuct text="control HOME" />
+      <action id="EditorLineStartWithSelection" />
+      <action id="EditorRight" />
+    </macro>
+  </component>
+</application>
