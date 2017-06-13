@@ -4518,30 +4518,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/references" />
       </SOURCES>
     </library>
-    <library name="json (v2.1.0, ruby-2.4.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json_pure/1.8.3" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/data" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/java" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/tests" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/tools" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/diagrams" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/references" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json_pure/1.8.3" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/data" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/java" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/tests" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/tools" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/diagrams" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/references" />
-      </SOURCES>
-    </library>
     <library name="json_pure (v1.8.6, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/json_pure/1.8.6" />
