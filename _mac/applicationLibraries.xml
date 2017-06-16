@@ -1830,6 +1830,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/binding_of_caller-0.7.2/lib" />
       </SOURCES>
     </library>
+    <library name="blobstore_client (v1.3232.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/blobstore_client-1.3232.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/blobstore_client-1.3232.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/blobstore_client-1.3232.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/blobstore_client-1.3232.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/blobstore_client-1.3232.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/blobstore_client-1.3232.0/config" />
+      </SOURCES>
+    </library>
+    <library name="blobstore_client (v1.3232.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/blobstore_client-1.3232.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/blobstore_client-1.3232.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/blobstore_client-1.3232.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/blobstore_client-1.3232.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/blobstore_client-1.3232.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/blobstore_client-1.3232.0/config" />
+      </SOURCES>
+    </library>
     <library name="blobstore_client (v1.3232.24.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/blobstore_client-1.3232.24.0/bin" />
@@ -1878,6 +1902,26 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/blobstore_client-1.3262.24.0/config" />
       </SOURCES>
     </library>
+    <library name="bosh-template (v1.3232.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh-template-1.3232.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh-template-1.3232.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh-template-1.3232.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh-template-1.3232.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bosh-template (v1.3232.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh-template-1.3232.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh-template-1.3232.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh-template-1.3232.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh-template-1.3232.0/lib" />
+      </SOURCES>
+    </library>
     <library name="bosh-template (v1.3232.24.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh-template-1.3232.24.0/bin" />
@@ -1918,6 +1962,26 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh-template-1.3262.24.0/lib" />
       </SOURCES>
     </library>
+    <library name="bosh_cli (v1.3232.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh_cli-1.3232.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh_cli-1.3232.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh_cli-1.3232.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh_cli-1.3232.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bosh_cli (v1.3232.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh_cli-1.3232.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh_cli-1.3232.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh_cli-1.3232.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh_cli-1.3232.0/lib" />
+      </SOURCES>
+    </library>
     <library name="bosh_cli (v1.3232.24.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh_cli-1.3232.24.0/bin" />
@@ -1956,6 +2020,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh_cli-1.3262.26.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh_cli-1.3262.26.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bosh_common (v1.3232.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh_common-1.3232.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh_common-1.3232.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bosh_common (v1.3232.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh_common-1.3232.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh_common-1.3232.0/lib" />
       </SOURCES>
     </library>
     <library name="bosh_common (v1.3232.24.0, ruby-2.0.0-p648) [gem]">
@@ -7148,6 +7228,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jmespath-1.1.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="jmespath (v1.2.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jmespath-1.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jmespath-1.2.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="jmespath (v1.2.4, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jmespath-1.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jmespath-1.2.4/lib" />
       </SOURCES>
     </library>
     <library name="jmespath (v1.3.1, ruby-2.0.0-p648) [gem]">
