@@ -1,3 +1,6 @@
 <keymap version="1" name="OpsManager Rubymine" parent="Pivotal Common">
   <action id="CompareTwoFiles" />
+  <action id="Macro.Run all tests in file">
+    <keyboard-shortcut first-keystroke="ctrl meta alt r" />
+  </action>
 </keymap>
