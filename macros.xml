@@ -8,5 +8,10 @@
       <action id="EditorLineStartWithSelection" />
       <action id="EditorRight" />
     </macro>
+    <macro name="Run all tests in file">
+      <action id="EditorTextStart" />
+      <action id="RunClass" />
+      <action id="Back" />
+    </macro>
   </component>
 </application>
