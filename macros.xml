@@ -1,15 +1,7 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="&lt;noname&gt;">
-      <action id="EditorLineStart" />
-      <action id="EditorLineStart" />
-      <shortuct text="control HOME" />
-      <shortuct text="control HOME" />
-      <action id="EditorLineStartWithSelection" />
-      <action id="EditorRight" />
-    </macro>
     <macro name="Run all tests in file">
-      <action id="EditorTextStart" />
+      <action id="EditorTextEnd" />
       <action id="RunClass" />
       <action id="Back" />
     </macro>
