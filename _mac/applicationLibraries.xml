@@ -2422,6 +2422,7 @@
     </library>
     <library name="capybara-webkit (v1.9.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/capybara-webkit/1.9.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/capybara-webkit-1.9.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/capybara-webkit-1.9.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/capybara-webkit-1.9.0/src" />
@@ -2429,6 +2430,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/capybara-webkit-1.9.0/templates" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/capybara-webkit/1.9.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/capybara-webkit-1.9.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/capybara-webkit-1.9.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/capybara-webkit-1.9.0/src" />
