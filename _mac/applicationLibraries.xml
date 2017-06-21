@@ -3386,6 +3386,36 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/cookiejar-0.3.3/lib" />
       </SOURCES>
     </library>
+    <library name="cowsay (v0.3.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/cowsay-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/cowsay-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/cowsay-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/cowsay-0.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="cowsay (v0.3.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/cowsay-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/cowsay-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/cowsay-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/cowsay-0.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="cowsay (v0.3.0, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/cowsay-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/cowsay-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/cowsay-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/cowsay-0.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="crack (v0.4.3, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/crack-0.4.3/lib" />
@@ -8892,6 +8922,42 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/logging-2.2.2/script" />
       </SOURCES>
     </library>
+    <library name="lolcat (v42.24.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/lolcat-42.24.1/ass" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/lolcat-42.24.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/lolcat-42.24.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/lolcat-42.24.1/ass" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/lolcat-42.24.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/lolcat-42.24.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="lolcat (v42.24.1, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/lolcat-42.24.1/ass" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/lolcat-42.24.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/lolcat-42.24.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/lolcat-42.24.1/ass" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/lolcat-42.24.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/lolcat-42.24.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="lolcat (v42.24.1, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/lolcat-42.24.1/ass" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/lolcat-42.24.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/lolcat-42.24.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/lolcat-42.24.1/ass" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/lolcat-42.24.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/lolcat-42.24.1/lib" />
+      </SOURCES>
+    </library>
     <library name="loofah (v2.0.3, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/loofah-2.0.3/lib" />
@@ -11074,6 +11140,36 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/padrino-support-0.13.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="paint (v2.0.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/paint-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/paint-2.0.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/paint-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/paint-2.0.0/data" />
+      </SOURCES>
+    </library>
+    <library name="paint (v2.0.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/paint-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/paint-2.0.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/paint-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/paint-2.0.0/data" />
+      </SOURCES>
+    </library>
+    <library name="paint (v2.0.0, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/paint-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/paint-2.0.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/paint-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/paint-2.0.0/data" />
       </SOURCES>
     </library>
     <library name="parallel (v1.11.2, ruby-2.0.0-p648) [gem]">
