@@ -8750,6 +8750,7 @@
     </library>
     <library name="nokogiri (v1.8.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/nokogiri/1.8.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nokogiri-1.8.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nokogiri-1.8.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nokogiri-1.8.0/lib" />
@@ -8758,6 +8759,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nokogiri-1.8.0/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/nokogiri/1.8.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nokogiri-1.8.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nokogiri-1.8.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nokogiri-1.8.0/lib" />
@@ -9276,11 +9278,13 @@
     </library>
     <library name="pg (v0.20.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/pg/0.20.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/pg-0.20.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/pg-0.20.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/pg-0.20.0/sample" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/pg/0.20.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/pg-0.20.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/pg-0.20.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/pg-0.20.0/sample" />
