@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="run-jasmine-specs" type="Bash" />
       <mapping pattern="fly-execute" type="Bash" />
       <mapping pattern="build-image" type="Bash" />
       <mapping ext="10" type="Bash" />
