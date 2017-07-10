@@ -7528,11 +7528,13 @@
     </library>
     <library name="nio4r (v2.1.0, ruby-2.3.4-p301) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nio4r/2.1.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nio4r-2.1.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nio4r-2.1.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nio4r-2.1.0/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nio4r/2.1.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nio4r-2.1.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nio4r-2.1.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nio4r-2.1.0/tasks" />
