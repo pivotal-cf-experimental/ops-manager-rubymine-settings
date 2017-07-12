@@ -7,6 +7,7 @@
       <mapping ext="10" type="Bash" />
       <mapping pattern="deps" type="PLAIN_TEXT" />
       <mapping ext="zsh" type="PLAIN_TEXT" />
+      <mapping pattern="delete_old_aws_snapshots" type="Ruby" />
     </extensionMap>
   </component>
 </application>
