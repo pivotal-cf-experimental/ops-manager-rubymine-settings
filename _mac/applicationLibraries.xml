@@ -1,5 +1,21 @@
 <application>
   <component name="libraryTable">
+    <library name="actioncable (v5.0.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/actioncable-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/actioncable-5.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="actioncable (v5.0.4, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/actioncable-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/actioncable-5.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v4.2.7.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/actionmailer-4.2.7.1/lib" />
@@ -38,6 +54,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/actionmailer-4.2.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionmailer (v5.0.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/actionmailer-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/actionmailer-5.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionmailer (v5.0.4, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/actionmailer-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/actionmailer-5.0.4/lib" />
       </SOURCES>
     </library>
     <library name="actionpack (v4.2.7.1, ruby-2.0.0-p648) [gem]">
@@ -80,6 +112,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/actionpack-4.2.8/lib" />
       </SOURCES>
     </library>
+    <library name="actionpack (v5.0.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/actionpack-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/actionpack-5.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionpack (v5.0.4, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/actionpack-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/actionpack-5.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="actionview (v4.2.7.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/actionview-4.2.7.1/lib" />
@@ -118,6 +166,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/actionview-4.2.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v5.0.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/actionview-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/actionview-5.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v5.0.4, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/actionview-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/actionview-5.0.4/lib" />
       </SOURCES>
     </library>
     <library name="active_attr (v0.10.1, ruby-2.0.0-p648) [gem]">
@@ -210,6 +274,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activejob-4.2.8/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v5.0.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activejob-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activejob-5.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="activejob (v5.0.4, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activejob-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activejob-5.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel (v4.2.7.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/activemodel-4.2.7.1/lib" />
@@ -248,6 +328,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activemodel-4.2.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v5.0.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activemodel-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activemodel-5.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v5.0.4, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activemodel-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activemodel-5.0.4/lib" />
       </SOURCES>
     </library>
     <library name="activerecord (v4.2.7.1, ruby-2.0.0-p648) [gem]">
@@ -290,6 +386,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activerecord-4.2.8/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord (v5.0.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activerecord-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activerecord-5.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord (v5.0.4, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activerecord-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activerecord-5.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="activerecord_sane_schema_dumper (v0.2, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activerecord_sane_schema_dumper-0.2/lib" />
@@ -312,6 +424,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activerecord_sane_schema_dumper-0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord_sane_schema_dumper (v1.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activerecord_sane_schema_dumper-1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activerecord_sane_schema_dumper-1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord_sane_schema_dumper (v1.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activerecord_sane_schema_dumper-1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activerecord_sane_schema_dumper-1.0/lib" />
       </SOURCES>
     </library>
     <library name="activesupport (v4.2.5.1, ruby-2.0.0-p648) [gem]">
@@ -432,6 +560,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activesupport-5.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v5.0.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activesupport-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activesupport-5.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v5.0.4, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activesupport-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/activesupport-5.0.4/lib" />
       </SOURCES>
     </library>
     <library name="activesupport (v5.1.1, ruby-2.0.0-p648) [gem]">
@@ -736,6 +880,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/arel-6.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="arel (v7.1.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/arel-7.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/arel-7.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="arel (v7.1.4, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/arel-7.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/arel-7.1.4/lib" />
       </SOURCES>
     </library>
     <library name="Ascii85 (v1.0.2, ruby-2.0.0-p648) [gem]">
@@ -1574,6 +1734,28 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/better_errors-2.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="bindex (v0.5.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bindex-0.5.0/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bindex-0.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bindex-0.5.0/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bindex-0.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bindex (v0.5.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bindex/0.5.0" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bindex-0.5.0/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bindex-0.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/bindex/0.5.0" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bindex-0.5.0/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bindex-0.5.0/lib" />
       </SOURCES>
     </library>
     <library name="binding_of_caller (v0.7.2, ruby-2.0.0-p648) [gem]">
@@ -9830,6 +10012,32 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/netrc-0.11.0/data" />
       </SOURCES>
     </library>
+    <library name="nio4r (v2.1.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nio4r-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nio4r-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nio4r-2.1.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nio4r-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nio4r-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nio4r-2.1.0/tasks" />
+      </SOURCES>
+    </library>
+    <library name="nio4r (v2.1.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nio4r/2.1.0" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nio4r-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nio4r-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nio4r-2.1.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nio4r/2.1.0" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nio4r-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nio4r-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nio4r-2.1.0/tasks" />
+      </SOURCES>
+    </library>
     <library name="nokogiri (v1.5.6, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/nokogiri-1.5.6/bin" />
@@ -11308,6 +11516,38 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rails-4.2.8/guides" />
       </SOURCES>
     </library>
+    <library name="rails (v5.0.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rails-5.0.4" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rails-5.0.4" />
+      </SOURCES>
+    </library>
+    <library name="rails (v5.0.4, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rails-5.0.4" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rails-5.0.4" />
+      </SOURCES>
+    </library>
+    <library name="rails-controller-testing (v1.0.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rails-controller-testing-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rails-controller-testing-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-controller-testing (v1.0.2, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rails-controller-testing-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rails-controller-testing-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rails-deprecated_sanitizer (v1.0.3, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rails-deprecated_sanitizer-1.0.3/lib" />
@@ -11354,6 +11594,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rails-dom-testing-1.0.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-dom-testing (v2.0.3, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rails-dom-testing-2.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rails-dom-testing-2.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-dom-testing (v2.0.3, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rails-dom-testing-2.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rails-dom-testing-2.0.3/lib" />
       </SOURCES>
     </library>
     <library name="rails-html-sanitizer (v1.0.3, ruby-2.0.0-p648) [gem]">
@@ -11428,6 +11684,26 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/railties-4.2.8/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/railties-4.2.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="railties (v5.0.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/railties-5.0.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/railties-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/railties-5.0.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/railties-5.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="railties (v5.0.4, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/railties-5.0.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/railties-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/railties-5.0.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/railties-5.0.4/lib" />
       </SOURCES>
     </library>
     <library name="rainbow (v2.1.0, ruby-2.0.0-p648) [gem]">
@@ -15264,6 +15540,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/web-console-2.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="web-console (v3.5.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/web-console-3.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/web-console-3.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="web-console (v3.5.1, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/web-console-3.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/web-console-3.5.1/lib" />
       </SOURCES>
     </library>
     <library name="webmock (v1.24.2, ruby-2.0.0-p648) [gem]">
