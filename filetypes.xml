@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="prepare-environment-with-vm-shepherd" type="PLAIN_TEXT" />
+      <mapping pattern="pre_build_aws-gov" type="PLAIN_TEXT" />
       <mapping pattern="deps" type="PLAIN_TEXT" />
       <mapping ext="zsh" type="PLAIN_TEXT" />
       <mapping ext="10" type="Bash" />
