@@ -2126,6 +2126,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.1/task" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.15.3, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.3/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.3/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.3/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.3/task" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.3/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.3/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.3/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.3/task" />
+      </SOURCES>
+    </library>
     <library name="bundler-audit (v0.5.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-audit-0.5.0/bin" />
