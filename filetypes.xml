@@ -1,14 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="prepare-environment-with-vm-shepherd" type="PLAIN_TEXT" />
-      <mapping pattern="pre_build_aws-gov" type="PLAIN_TEXT" />
-      <mapping pattern="deps" type="PLAIN_TEXT" />
-      <mapping ext="zsh" type="PLAIN_TEXT" />
-      <mapping ext="10" type="Bash" />
       <mapping pattern="build-image" type="Bash" />
+      <mapping pattern="publish-amis-with-gov" type="Bash" />
       <mapping pattern="fly-execute" type="Bash" />
       <mapping pattern="run-jasmine-specs" type="Bash" />
+      <mapping ext="10" type="Bash" />
+      <mapping pattern="deps" type="PLAIN_TEXT" />
+      <mapping pattern="prepare-environment-with-vm-shepherd" type="PLAIN_TEXT" />
+      <mapping pattern="create-release-images-with-gov" type="PLAIN_TEXT" />
+      <mapping pattern="pre_build_aws-gov" type="PLAIN_TEXT" />
+      <mapping pattern="create-release-images-without-gov" type="PLAIN_TEXT" />
+      <mapping ext="zsh" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
