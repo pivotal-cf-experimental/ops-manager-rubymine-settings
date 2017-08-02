@@ -11070,6 +11070,48 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/rack-c1437097dcdf/example" />
       </SOURCES>
     </library>
+    <library name="rack (v2.0.1@c14370, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/rack-c1437097dcdf/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/rack-c1437097dcdf/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/rack-c1437097dcdf/contrib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/rack-c1437097dcdf/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/rack-c1437097dcdf/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/rack-c1437097dcdf/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/rack-c1437097dcdf/contrib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/rack-c1437097dcdf/example" />
+      </SOURCES>
+    </library>
+    <library name="rack (v2.0.1@c35658, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/rack-c356589d945a/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/rack-c356589d945a/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/rack-c356589d945a/contrib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/rack-c356589d945a/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/rack-c356589d945a/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/rack-c356589d945a/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/rack-c356589d945a/contrib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/rack-c356589d945a/example" />
+      </SOURCES>
+    </library>
+    <library name="rack (v2.0.1@c35658, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/rack-c356589d945a/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/rack-c356589d945a/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/rack-c356589d945a/contrib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/rack-c356589d945a/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/rack-c356589d945a/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/rack-c356589d945a/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/rack-c356589d945a/contrib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/rack-c356589d945a/example" />
+      </SOURCES>
+    </library>
     <library name="rack (v2.0.2, ruby-2.3.4-p301) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rack-2.0.2/bin" />
