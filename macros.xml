@@ -98,5 +98,6 @@
       <action id="EditorDelete" />
       <action id="EditorDelete" />
     </macro>
+    <macro name="open_keyboard_shortcuts" />
   </component>
 </application>
