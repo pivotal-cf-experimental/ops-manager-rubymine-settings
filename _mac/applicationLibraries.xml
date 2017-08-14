@@ -10350,6 +10350,26 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/mustache-1.0.5/man" />
       </SOURCES>
     </library>
+    <library name="mustermann (v1.0.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/mustermann-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/mustermann-1.0.0/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/mustermann-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/mustermann-1.0.0/bench" />
+      </SOURCES>
+    </library>
+    <library name="mustermann (v1.0.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/mustermann-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/mustermann-1.0.0/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/mustermann-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/mustermann-1.0.0/bench" />
+      </SOURCES>
+    </library>
     <library name="mysql2 (v0.4.3, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/mysql2-0.4.3/ext" />
@@ -12508,6 +12528,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rack-mini-profiler-0.10.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v2.0.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rack-protection-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rack-protection-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v2.0.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rack-protection-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rack-protection-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="rack-test (v0.6.3, ruby-2.0.0-p648) [gem]">
@@ -15366,6 +15402,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/signet-0.7.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/signet-0.7.3/tasks" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/signet-0.7.3/website" />
+      </SOURCES>
+    </library>
+    <library name="sinatra (v2.0.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sinatra-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sinatra-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="sinatra (v2.0.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sinatra-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sinatra-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="slim (v3.0.6, ruby-2.0.0-p648) [gem]">
