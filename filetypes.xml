@@ -13,6 +13,8 @@
       <mapping pattern="monit" type="PLAIN_TEXT" />
       <mapping pattern="prepare-environment-with-vm-shepherd" type="PLAIN_TEXT" />
       <mapping ext="zsh" type="PLAIN_TEXT" />
+      <mapping pattern="installation_version" type="Ruby" />
+      <mapping pattern="opsman_stemcell_version" type="Ruby" />
     </extensionMap>
   </component>
 </application>
