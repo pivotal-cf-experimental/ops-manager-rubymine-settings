@@ -4892,6 +4892,42 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/diff-lcs-1.3/autotest" />
       </SOURCES>
     </library>
+    <library name="domain_name (v0.5.20160310, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/domain_name-0.5.20160310/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/domain_name-0.5.20160310/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/domain_name-0.5.20160310/tool" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/domain_name-0.5.20160310/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/domain_name-0.5.20160310/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/domain_name-0.5.20160310/tool" />
+      </SOURCES>
+    </library>
+    <library name="domain_name (v0.5.20160310, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/domain_name-0.5.20160310/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/domain_name-0.5.20160310/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/domain_name-0.5.20160310/tool" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/domain_name-0.5.20160310/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/domain_name-0.5.20160310/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/domain_name-0.5.20160310/tool" />
+      </SOURCES>
+    </library>
+    <library name="domain_name (v0.5.20160310, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/domain_name-0.5.20160310/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/domain_name-0.5.20160310/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/domain_name-0.5.20160310/tool" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/domain_name-0.5.20160310/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/domain_name-0.5.20160310/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/domain_name-0.5.20160310/tool" />
+      </SOURCES>
+    </library>
     <library name="domain_name (v0.5.20161129, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/domain_name-0.5.20161129/lib" />
@@ -8488,6 +8524,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/highline-1.7.8/site" />
       </SOURCES>
     </library>
+    <library name="http-cookie (v1.0.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/http-cookie-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/http-cookie-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="http-cookie (v1.0.2, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/http-cookie-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/http-cookie-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="http-cookie (v1.0.2, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/http-cookie-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/http-cookie-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="http-cookie (v1.0.3, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/http-cookie-1.0.3/lib" />
@@ -11292,6 +11352,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/mixlib-shellout-2.2.7/lib" />
       </SOURCES>
     </library>
+    <library name="ms_rest (v0.3.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ms_rest-0.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ms_rest-0.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="ms_rest (v0.3.1, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ms_rest-0.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ms_rest-0.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="ms_rest (v0.3.1, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ms_rest-0.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ms_rest-0.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="ms_rest (v0.6.2, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ms_rest-0.6.2/lib" />
@@ -11338,6 +11422,30 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ms_rest-0.6.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="ms_rest_azure (v0.3.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ms_rest_azure-0.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ms_rest_azure-0.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="ms_rest_azure (v0.3.1, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ms_rest_azure-0.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ms_rest_azure-0.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="ms_rest_azure (v0.3.1, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ms_rest_azure-0.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ms_rest_azure-0.3.1/lib" />
       </SOURCES>
     </library>
     <library name="ms_rest_azure (v0.6.2, ruby-2.0.0-p648) [gem]">
@@ -12672,6 +12780,42 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/bundler/gems/omniauth-uaa-oauth2-f892fd3415f9/lib" />
+      </SOURCES>
+    </library>
+    <library name="ops_manager_ui_drivers (v2.35.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ops_manager_ui_drivers-2.35.2/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ops_manager_ui_drivers-2.35.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ops_manager_ui_drivers-2.35.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ops_manager_ui_drivers-2.35.2/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ops_manager_ui_drivers-2.35.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ops_manager_ui_drivers-2.35.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="ops_manager_ui_drivers (v2.35.2, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ops_manager_ui_drivers-2.35.2/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ops_manager_ui_drivers-2.35.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ops_manager_ui_drivers-2.35.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ops_manager_ui_drivers-2.35.2/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ops_manager_ui_drivers-2.35.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ops_manager_ui_drivers-2.35.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="ops_manager_ui_drivers (v2.35.2, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ops_manager_ui_drivers-2.35.2/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ops_manager_ui_drivers-2.35.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ops_manager_ui_drivers-2.35.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ops_manager_ui_drivers-2.35.2/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ops_manager_ui_drivers-2.35.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ops_manager_ui_drivers-2.35.2/lib" />
       </SOURCES>
     </library>
     <library name="os (v0.9.6, ruby-2.0.0-p648) [gem]">
@@ -16988,6 +17132,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/selenium-webdriver-2.53.0/lib" />
       </SOURCES>
     </library>
+    <library name="selenium-webdriver (v3.0.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/selenium-webdriver-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/selenium-webdriver-3.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.0.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/selenium-webdriver-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/selenium-webdriver-3.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.0.0, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/selenium-webdriver-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/selenium-webdriver-3.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="selenium-webdriver (v3.3.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/selenium-webdriver-3.3.0/lib" />
@@ -17288,6 +17456,42 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/signet-0.7.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/signet-0.7.3/tasks" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/signet-0.7.3/website" />
+      </SOURCES>
+    </library>
+    <library name="slim (v3.0.6, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/slim-3.0.6/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/slim-3.0.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/slim-3.0.6/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/slim-3.0.6/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/slim-3.0.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/slim-3.0.6/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="slim (v3.0.6, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/slim-3.0.6/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/slim-3.0.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/slim-3.0.6/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/slim-3.0.6/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/slim-3.0.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/slim-3.0.6/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="slim (v3.0.6, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/slim-3.0.6/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/slim-3.0.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/slim-3.0.6/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/slim-3.0.6/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/slim-3.0.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/slim-3.0.6/benchmarks" />
       </SOURCES>
     </library>
     <library name="slop (v3.6.0, ruby-2.0.0-p648) [gem]">
@@ -17750,6 +17954,30 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/systemu-2.6.5/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/systemu-2.6.5/samples" />
+      </SOURCES>
+    </library>
+    <library name="temple (v0.7.6, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/temple-0.7.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/temple-0.7.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="temple (v0.7.6, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/temple-0.7.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/temple-0.7.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="temple (v0.7.6, ruby-2.4.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/temple-0.7.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/temple-0.7.6/lib" />
       </SOURCES>
     </library>
     <library name="temple (v0.8.0, ruby-2.0.0-p648) [gem]">
