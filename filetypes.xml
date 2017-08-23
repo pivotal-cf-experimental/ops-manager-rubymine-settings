@@ -17,6 +17,7 @@
       <mapping pattern="installation_version" type="Ruby" />
       <mapping pattern="upgrade_stemcells" type="Ruby" />
       <mapping pattern="opsman_stemcell_version" type="Ruby" />
+      <mapping pattern="upgrade_compiled_release_from_dk" type="Ruby" />
     </extensionMap>
   </component>
 </application>
