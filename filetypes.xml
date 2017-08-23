@@ -5,6 +5,7 @@
       <mapping pattern="publish-amis-with-gov" type="Bash" />
       <mapping pattern="fly-execute" type="Bash" />
       <mapping pattern="run-jasmine-specs" type="Bash" />
+      <mapping pattern="update_stemcell" type="Bash" />
       <mapping ext="10" type="Bash" />
       <mapping pattern="deps" type="PLAIN_TEXT" />
       <mapping pattern="create-release-images-without-gov" type="PLAIN_TEXT" />
@@ -14,6 +15,7 @@
       <mapping pattern="prepare-environment-with-vm-shepherd" type="PLAIN_TEXT" />
       <mapping ext="zsh" type="PLAIN_TEXT" />
       <mapping pattern="installation_version" type="Ruby" />
+      <mapping pattern="upgrade_stemcells" type="Ruby" />
       <mapping pattern="opsman_stemcell_version" type="Ruby" />
     </extensionMap>
   </component>
