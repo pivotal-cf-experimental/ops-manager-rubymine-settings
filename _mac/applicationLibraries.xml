@@ -1784,6 +1784,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-2.10.3/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk (v2.10.7, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-2.10.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-2.10.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk (v2.10.7, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-2.10.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-2.10.7/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.2.28, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-2.2.28/lib" />
@@ -1854,6 +1870,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-core-2.10.3/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-core-2.10.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-core-2.10.3/apis" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v2.10.7, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-core-2.10.7/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-core-2.10.7/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-core-2.10.7/apis" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-core-2.10.7/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-core-2.10.7/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-core-2.10.7/apis" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v2.10.7, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-core-2.10.7/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-core-2.10.7/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-core-2.10.7/apis" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-core-2.10.7/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-core-2.10.7/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-core-2.10.7/apis" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v2.2.0, ruby-2.0.0-p648) [gem]">
@@ -1978,6 +2018,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-resources-2.10.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resources (v2.10.7, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-resources-2.10.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-resources-2.10.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resources (v2.10.7, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-resources-2.10.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/aws-sdk-resources-2.10.7/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-resources (v2.2.0, ruby-2.0.0-p648) [gem]">
@@ -2164,6 +2220,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/azure_mgmt_compute-0.10.0/lib" />
       </SOURCES>
     </library>
+    <library name="azure_mgmt_compute (v0.4.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/azure_mgmt_compute-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/azure_mgmt_compute-0.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="azure_mgmt_compute (v0.4.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/azure_mgmt_compute-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/azure_mgmt_compute-0.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="azure_mgmt_compute (v0.8.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/azure_mgmt_compute-0.8.0/lib" />
@@ -2210,6 +2282,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/azure_mgmt_network-0.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="azure_mgmt_network (v0.4.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/azure_mgmt_network-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/azure_mgmt_network-0.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="azure_mgmt_network (v0.4.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/azure_mgmt_network-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/azure_mgmt_network-0.4.0/lib" />
       </SOURCES>
     </library>
     <library name="azure_mgmt_network (v0.8.0, ruby-2.0.0-p648) [gem]">
@@ -2260,6 +2348,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/azure_mgmt_resources-0.10.0/lib" />
       </SOURCES>
     </library>
+    <library name="azure_mgmt_resources (v0.4.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/azure_mgmt_resources-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/azure_mgmt_resources-0.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="azure_mgmt_resources (v0.4.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/azure_mgmt_resources-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/azure_mgmt_resources-0.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="azure_mgmt_resources (v0.8.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/azure_mgmt_resources-0.8.0/lib" />
@@ -2306,6 +2410,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/azure_mgmt_storage-0.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="azure_mgmt_storage (v0.4.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/azure_mgmt_storage-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/azure_mgmt_storage-0.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="azure_mgmt_storage (v0.4.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/azure_mgmt_storage-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/azure_mgmt_storage-0.4.0/lib" />
       </SOURCES>
     </library>
     <library name="azure_mgmt_storage (v0.8.0, ruby-2.0.0-p648) [gem]">
@@ -2660,6 +2780,26 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bosh_common-1.3262.24.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="brakeman (v3.2.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/brakeman-3.2.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/brakeman-3.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/brakeman-3.2.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/brakeman-3.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="brakeman (v3.2.1, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/brakeman-3.2.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/brakeman-3.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/brakeman-3.2.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/brakeman-3.2.1/lib" />
       </SOURCES>
     </library>
     <library name="brakeman (v3.4.1, ruby-2.0.0-p648) [gem]">
@@ -4156,6 +4296,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/concurrent-ruby-0.9.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="concurrent-ruby (v1.0.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/concurrent-ruby-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/concurrent-ruby-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="concurrent-ruby (v1.0.2, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/concurrent-ruby-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/concurrent-ruby-1.0.2/lib" />
       </SOURCES>
     </library>
     <library name="concurrent-ruby (v1.0.4, ruby-2.0.0-p648) [gem]">
@@ -8810,6 +8966,26 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/i18n-0.8.4/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/i18n-0.8.4/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v0.8.6, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/i18n-0.8.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/i18n-0.8.6/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/i18n-0.8.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/i18n-0.8.6/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v0.8.6, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/i18n-0.8.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/i18n-0.8.6/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/i18n-0.8.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/i18n-0.8.6/gemfiles" />
       </SOURCES>
     </library>
     <library name="inflecto (v0.0.2, ruby-2.0.0-p648) [gem]">
@@ -15358,6 +15534,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rbvmomi-1.11.2/devel" />
       </SOURCES>
     </library>
+    <library name="rbvmomi (v1.11.3, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rbvmomi-1.11.3/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rbvmomi-1.11.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rbvmomi-1.11.3/devel" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rbvmomi-1.11.3/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rbvmomi-1.11.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rbvmomi-1.11.3/devel" />
+      </SOURCES>
+    </library>
+    <library name="rbvmomi (v1.11.3, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rbvmomi-1.11.3/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rbvmomi-1.11.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rbvmomi-1.11.3/devel" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rbvmomi-1.11.3/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rbvmomi-1.11.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rbvmomi-1.11.3/devel" />
+      </SOURCES>
+    </library>
     <library name="rbvmomi (v1.8.2, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rbvmomi-1.8.2/bin" />
@@ -16752,6 +16952,26 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ruby-rc4-0.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="ruby2ruby (v2.3.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ruby2ruby-2.3.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ruby2ruby-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ruby2ruby-2.3.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ruby2ruby-2.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby2ruby (v2.3.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ruby2ruby-2.3.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ruby2ruby-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ruby2ruby-2.3.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ruby2ruby-2.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby_dep (v1.5.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ruby_dep-1.5.0/lib" />
@@ -16766,6 +16986,26 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ruby_dep-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby_parser (v3.8.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ruby_parser-3.8.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ruby_parser-3.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ruby_parser-3.8.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ruby_parser-3.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby_parser (v3.8.1, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ruby_parser-3.8.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ruby_parser-3.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ruby_parser-3.8.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ruby_parser-3.8.1/lib" />
       </SOURCES>
     </library>
     <library name="ruby_vcloud_sdk (v0.7.4, ruby-2.0.0-p648) [gem]">
@@ -16938,6 +17178,38 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sass-3.4.21/extra" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sass-3.4.21/rails" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sass-3.4.21/vendor" />
+      </SOURCES>
+    </library>
+    <library name="sass (v3.4.22, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sass-3.4.22/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sass-3.4.22/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sass-3.4.22/extra" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sass-3.4.22/rails" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sass-3.4.22/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sass-3.4.22/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sass-3.4.22/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sass-3.4.22/extra" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sass-3.4.22/rails" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sass-3.4.22/vendor" />
+      </SOURCES>
+    </library>
+    <library name="sass (v3.4.22, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sass-3.4.22/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sass-3.4.22/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sass-3.4.22/extra" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sass-3.4.22/rails" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sass-3.4.22/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sass-3.4.22/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sass-3.4.22/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sass-3.4.22/extra" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sass-3.4.22/rails" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sass-3.4.22/vendor" />
       </SOURCES>
     </library>
     <library name="sass (v3.4.23, ruby-2.0.0-p648) [gem]">
@@ -17326,6 +17598,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/serverspec-2.39.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/serverspec-2.39.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="sexp_processor (v4.7.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sexp_processor-4.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sexp_processor-4.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="sexp_processor (v4.7.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sexp_processor-4.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/sexp_processor-4.7.0/lib" />
       </SOURCES>
     </library>
     <library name="sfl (v2.2, ruby-2.0.0-p648) [gem]">
@@ -18032,6 +18320,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/terminal-table-1.4.5/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/terminal-table-1.4.5/tasks" />
+      </SOURCES>
+    </library>
+    <library name="terminal-table (v1.5.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/terminal-table-1.5.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/terminal-table-1.5.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="terminal-table (v1.5.2, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/terminal-table-1.5.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/terminal-table-1.5.2/lib" />
       </SOURCES>
     </library>
     <library name="test-unit (v2.0.0.0, ruby-2.0.0-p648) [gem]">
