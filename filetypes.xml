@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="build-number-version-bumper" type="Bash" />
+      <mapping pattern="generate-example-product2" type="Bash" />
       <mapping pattern="build-image" type="Bash" />
       <mapping pattern="publish-amis-with-gov" type="Bash" />
       <mapping pattern="fly-execute" type="Bash" />
