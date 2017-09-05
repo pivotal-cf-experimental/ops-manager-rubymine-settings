@@ -8,6 +8,7 @@
       <mapping pattern="fly-execute" type="Bash" />
       <mapping pattern="run-jasmine-specs" type="Bash" />
       <mapping ext="10" type="Bash" />
+      <mapping ext="12" type="Bash" />
       <mapping pattern="deps" type="PLAIN_TEXT" />
       <mapping pattern="create-release-images-without-gov" type="PLAIN_TEXT" />
       <mapping pattern="create-release-images-with-gov" type="PLAIN_TEXT" />
