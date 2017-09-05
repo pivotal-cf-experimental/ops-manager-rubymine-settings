@@ -6,6 +6,7 @@
       <mapping pattern="build-image" type="Bash" />
       <mapping pattern="publish-amis-with-gov" type="Bash" />
       <mapping pattern="fly-execute" type="Bash" />
+      <mapping pattern="get-full-build-number" type="Bash" />
       <mapping pattern="run-jasmine-specs" type="Bash" />
       <mapping ext="10" type="Bash" />
       <mapping ext="12" type="Bash" />
