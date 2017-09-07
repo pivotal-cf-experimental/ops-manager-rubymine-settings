@@ -12192,6 +12192,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/public_suffix-2.0.5/data" />
       </SOURCES>
     </library>
+    <library name="public_suffix (v3.0.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/public_suffix-3.0.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/public_suffix-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/public_suffix-3.0.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/public_suffix-3.0.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/public_suffix-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/public_suffix-3.0.0/data" />
+      </SOURCES>
+    </library>
+    <library name="public_suffix (v3.0.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/public_suffix-3.0.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/public_suffix-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/public_suffix-3.0.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/public_suffix-3.0.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/public_suffix-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/public_suffix-3.0.0/data" />
+      </SOURCES>
+    </library>
     <library name="puma (v3.9.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/puma-3.9.1/bin" />
