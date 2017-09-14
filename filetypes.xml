@@ -9,6 +9,7 @@
       <mapping pattern="fly-execute" type="Bash" />
       <mapping pattern="update_stemcell" type="Bash" />
       <mapping pattern="run-jasmine-specs" type="Bash" />
+      <mapping pattern="publish-google-images-internal-only" type="Bash" />
       <mapping pattern="get-cred" type="Bash" />
       <mapping ext="10" type="Bash" />
       <mapping ext="12" type="Bash" />
