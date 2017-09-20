@@ -22,8 +22,10 @@
       <mapping pattern="stack_failed" type="PLAIN_TEXT" />
       <mapping pattern="pre_build_aws-gov" type="PLAIN_TEXT" />
       <mapping pattern="monit" type="PLAIN_TEXT" />
+      <mapping pattern="dell_azure_stack" type="PLAIN_TEXT" />
       <mapping pattern="prepare-environment-with-vm-shepherd" type="PLAIN_TEXT" />
       <mapping ext="ca" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="zsh" type="PLAIN_TEXT" />
       <mapping pattern="make_version_file" type="Ruby" />
       <mapping pattern="installation_version" type="Ruby" />
