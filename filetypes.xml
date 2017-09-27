@@ -5,22 +5,30 @@
       <mapping pattern="generate-example-product2" type="Bash" />
       <mapping pattern="build-image" type="Bash" />
       <mapping pattern="publish-amis-with-gov" type="Bash" />
-      <mapping pattern="get-full-build-number" type="Bash" />
       <mapping pattern="fly-execute" type="Bash" />
-      <mapping pattern="update_stemcell" type="Bash" />
+      <mapping pattern="get-full-build-number" type="Bash" />
       <mapping pattern="run-jasmine-specs" type="Bash" />
+      <mapping pattern="update_stemcell" type="Bash" />
+      <mapping pattern="make_tmp_version_file" type="Bash" />
       <mapping pattern="generate-release-metadata-internal" type="Bash" />
       <mapping pattern="publish-google-images-internal-only" type="Bash" />
       <mapping pattern="get-cred" type="Bash" />
       <mapping ext="10" type="Bash" />
       <mapping ext="12" type="Bash" />
       <mapping pattern="deps" type="PLAIN_TEXT" />
-      <mapping pattern="create-release-images-with-gov" type="PLAIN_TEXT" />
-      <mapping pattern="pre_build_aws-gov" type="PLAIN_TEXT" />
+      <mapping pattern="public_succeeded" type="PLAIN_TEXT" />
       <mapping pattern="create-release-images-without-gov" type="PLAIN_TEXT" />
+      <mapping pattern="create-release-images-with-gov" type="PLAIN_TEXT" />
+      <mapping pattern="stack_succeeded" type="PLAIN_TEXT" />
+      <mapping pattern="stack_failed" type="PLAIN_TEXT" />
+      <mapping pattern="pre_build_aws-gov" type="PLAIN_TEXT" />
       <mapping pattern="monit" type="PLAIN_TEXT" />
+      <mapping pattern="dell_azure_stack" type="PLAIN_TEXT" />
       <mapping pattern="prepare-environment-with-vm-shepherd" type="PLAIN_TEXT" />
+      <mapping ext="ca" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="zsh" type="PLAIN_TEXT" />
+      <mapping pattern="make_version_file" type="Ruby" />
       <mapping pattern="installation_version" type="Ruby" />
       <mapping pattern="upgrade_stemcells" type="Ruby" />
       <mapping pattern="opsman_stemcell_version" type="Ruby" />
