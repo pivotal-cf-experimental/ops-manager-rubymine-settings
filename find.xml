@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.rake" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,16 +14,21 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.rb</mask>
-      <mask>*.r</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
-      <mask>*</mask>
       <mask>*h</mask>
       <mask>*ha</mask>
       <mask>*ham</mask>
       <mask>*haml</mask>
       <mask>*haml*</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.r</mask>
+      <mask>*.ralke</mask>
+      <mask>*.ralk</mask>
+      <mask>*.ral</mask>
+      <mask>*.ra</mask>
+      <mask>*.rake</mask>
     </recentFileMasks>
   </component>
 </application>
