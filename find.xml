@@ -1,11 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*context.rb" />
+    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -16,7 +14,6 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.rb</mask>
       <mask>co.rb</mask>
       <mask>con.rb</mask>
       <mask>cont.rb</mask>
@@ -24,6 +21,7 @@
       <mask>contex.rb</mask>
       <mask>context.rb</mask>
       <mask>*context.rb</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
