@@ -15094,6 +15094,34 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/thin-1.7.0/example" />
       </SOURCES>
     </library>
+    <library name="thin (v1.7.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/thin-1.7.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/thin-1.7.2/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/thin-1.7.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/thin-1.7.2/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/thin-1.7.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/thin-1.7.2/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/thin-1.7.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/thin-1.7.2/example" />
+      </SOURCES>
+    </library>
+    <library name="thin (v1.7.2, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/thin-1.7.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/thin-1.7.2/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/thin-1.7.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/thin-1.7.2/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/thin-1.7.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/thin-1.7.2/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/thin-1.7.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/thin-1.7.2/example" />
+      </SOURCES>
+    </library>
     <library name="thor (v0.19.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/thor-0.19.1/bin" />
