@@ -944,46 +944,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/agent_client-1.3262.24.0/lib" />
       </SOURCES>
     </library>
-    <library name="annotate (v2.7.0, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/annotate-2.7.0/bin" />
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/annotate-2.7.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/annotate-2.7.0/bin" />
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/annotate-2.7.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="annotate (v2.7.0, ruby-2.3.4-p301) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/annotate-2.7.0/bin" />
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/annotate-2.7.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/annotate-2.7.0/bin" />
-        <root url="file://$USER_HOME$/.rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/annotate-2.7.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="annotate (v2.7.2, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/annotate-2.7.2/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/annotate-2.7.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/annotate-2.7.2/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/annotate-2.7.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="annotate (v2.7.2, ruby-2.3.4-p301) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/annotate-2.7.2/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/annotate-2.7.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/annotate-2.7.2/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/annotate-2.7.2/lib" />
-      </SOURCES>
-    </library>
     <library name="annotate (v2.7.2, ruby-2.4.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/annotate-2.7.2/bin" />
@@ -2570,6 +2530,38 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.3/man" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.3/task" />
+      </SOURCES>
+    </library>
+    <library name="bundler (v1.15.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.4/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.4/task" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.4/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.4/task" />
+      </SOURCES>
+    </library>
+    <library name="bundler (v1.15.4, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.4/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.4/task" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.4/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/bundler-1.15.4/task" />
       </SOURCES>
     </library>
     <library name="bundler-audit (v0.5.0, ruby-2.0.0-p648) [gem]">
