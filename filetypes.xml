@@ -9,6 +9,7 @@
       <mapping pattern="build-image" type="Bash" />
       <mapping pattern="generate-example-product2" type="Bash" />
       <mapping pattern="generate-release-metadata-internal" type="Bash" />
+      <mapping pattern="output-environment" type="Bash" />
       <mapping pattern="update_stemcell" type="Bash" />
       <mapping pattern="publish-google-images-internal-only" type="Bash" />
       <mapping pattern="make_tmp_version_file" type="Bash" />
