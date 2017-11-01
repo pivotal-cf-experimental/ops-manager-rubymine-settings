@@ -24,6 +24,10 @@
       <mask>*.r</mask>
       <mask>*.</mask>
       <mask>*</mask>
+      <mask>.</mask>
+      <mask>.r</mask>
+      <mask>.rb</mask>
+      <mask>rb</mask>
     </recentFileMasks>
   </component>
 </application>
