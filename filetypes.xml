@@ -26,6 +26,7 @@
       <mapping pattern="deps" type="PLAIN_TEXT" />
       <mapping pattern="monit" type="PLAIN_TEXT" />
       <mapping pattern="stack_succeeded" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="stack_failed" type="PLAIN_TEXT" />
       <mapping ext="ca" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
