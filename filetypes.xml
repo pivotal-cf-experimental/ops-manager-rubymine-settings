@@ -9,6 +9,7 @@
       <mapping pattern="build-image" type="Bash" />
       <mapping pattern="generate-example-product2" type="Bash" />
       <mapping pattern="generate-release-metadata-internal" type="Bash" />
+      <mapping pattern="output-environment" type="Bash" />
       <mapping pattern="update_stemcell" type="Bash" />
       <mapping pattern="publish-google-images-internal-only" type="Bash" />
       <mapping pattern="make_tmp_version_file" type="Bash" />
@@ -26,6 +27,7 @@
       <mapping pattern="deps" type="PLAIN_TEXT" />
       <mapping pattern="monit" type="PLAIN_TEXT" />
       <mapping pattern="stack_succeeded" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="stack_failed" type="PLAIN_TEXT" />
       <mapping ext="ca" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
