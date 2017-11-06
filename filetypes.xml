@@ -9,7 +9,6 @@
       <mapping pattern="build-image" type="Bash" />
       <mapping pattern="generate-example-product2" type="Bash" />
       <mapping pattern="generate-release-metadata-internal" type="Bash" />
-      <mapping pattern="output-environment" type="Bash" />
       <mapping pattern="update_stemcell" type="Bash" />
       <mapping pattern="publish-google-images-internal-only" type="Bash" />
       <mapping pattern="make_tmp_version_file" type="Bash" />
@@ -17,6 +16,7 @@
       <mapping pattern="publish-amis-with-gov" type="Bash" />
       <mapping ext="10" type="Bash" />
       <mapping ext="12" type="Bash" />
+      <mapping pattern="Dockerfile-for-bosh-compilation" type="Dockerfile" />
       <mapping pattern="pre_build_aws-gov" type="PLAIN_TEXT" />
       <mapping pattern="prepare-environment-with-vm-shepherd" type="PLAIN_TEXT" />
       <mapping pattern="create-release-images-with-gov" type="PLAIN_TEXT" />
