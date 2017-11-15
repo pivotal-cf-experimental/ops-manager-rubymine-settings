@@ -24,6 +24,7 @@
       <mapping pattern="dell_azure_stack" type="PLAIN_TEXT" />
       <mapping pattern="priority-units" type="PLAIN_TEXT" />
       <mapping pattern="public_succeeded" type="PLAIN_TEXT" />
+      <mapping pattern="profile" type="PLAIN_TEXT" />
       <mapping pattern="create-release-images-without-gov" type="PLAIN_TEXT" />
       <mapping pattern="deps" type="PLAIN_TEXT" />
       <mapping pattern="monit" type="PLAIN_TEXT" />
