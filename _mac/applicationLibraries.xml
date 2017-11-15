@@ -3562,6 +3562,38 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-12.8.1/lib-backcompat" />
       </SOURCES>
     </library>
+    <library name="chef (v13.6.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-13.6.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-13.6.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-13.6.4/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-13.6.4/distro" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-13.6.4/acceptance" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-13.6.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-13.6.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-13.6.4/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-13.6.4/distro" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-13.6.4/acceptance" />
+      </SOURCES>
+    </library>
+    <library name="chef (v13.6.4, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-13.6.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-13.6.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-13.6.4/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-13.6.4/distro" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-13.6.4/acceptance" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-13.6.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-13.6.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-13.6.4/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-13.6.4/distro" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-13.6.4/acceptance" />
+      </SOURCES>
+    </library>
     <library name="chef-config (v12.21.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-config-12.21.1/lib" />
@@ -3600,6 +3632,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-config-12.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="chef-config (v13.6.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-config-13.6.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-config-13.6.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="chef-config (v13.6.4, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-config-13.6.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/chef-config-13.6.4/lib" />
       </SOURCES>
     </library>
     <library name="chef-zero (v13.1.0, ruby-2.0.0-p648) [gem]">
