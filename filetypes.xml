@@ -33,6 +33,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="stack_failed" type="PLAIN_TEXT" />
       <mapping ext="ca" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="zsh" type="PLAIN_TEXT" />
       <mapping pattern="opsman_stemcell_version" type="Ruby" />
