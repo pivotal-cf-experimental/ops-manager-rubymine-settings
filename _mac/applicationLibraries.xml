@@ -5086,6 +5086,70 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.35.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="fog (v1.38.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.38.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.38.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.38.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.38.0/benchs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.38.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.38.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.38.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.38.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.38.0/benchs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.38.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog (v1.38.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.38.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.38.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.38.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.38.0/benchs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.38.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.38.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.38.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.38.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.38.0/benchs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.38.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog (v1.42.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.42.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.42.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.42.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.42.0/benchs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.42.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.42.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.42.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.42.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.42.0/benchs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.42.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog (v1.42.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.42.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.42.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.42.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.42.0/benchs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.42.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.42.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.42.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.42.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.42.0/benchs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-1.42.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="fog-aliyun (v0.1.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-aliyun-0.1.0/bin" />
@@ -5114,6 +5178,26 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-aliyun-0.1.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-aliyun-0.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="fog-aliyun (v0.2.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-aliyun-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-aliyun-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-aliyun-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-aliyun-0.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="fog-aliyun (v0.2.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-aliyun-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-aliyun-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-aliyun-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-aliyun-0.2.0/lib" />
       </SOURCES>
     </library>
     <library name="fog-atmos (v0.1.0, ruby-2.0.0-p648) [gem]">
@@ -5400,6 +5484,54 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-core-1.45.0/lib" />
       </SOURCES>
     </library>
+    <library name="fog-digitalocean (v0.3.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-digitalocean-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-digitalocean-0.3.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-digitalocean-0.3.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-digitalocean-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-digitalocean-0.3.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-digitalocean-0.3.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-digitalocean (v0.3.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-digitalocean-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-digitalocean-0.3.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-digitalocean-0.3.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-digitalocean-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-digitalocean-0.3.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-digitalocean-0.3.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-dnsimple (v1.0.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-dnsimple-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-dnsimple-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-dnsimple-1.0.0/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-dnsimple-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-dnsimple-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-dnsimple-1.0.0/tests" />
+      </SOURCES>
+    </library>
+    <library name="fog-dnsimple (v1.0.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-dnsimple-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-dnsimple-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-dnsimple-1.0.0/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-dnsimple-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-dnsimple-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-dnsimple-1.0.0/tests" />
+      </SOURCES>
+    </library>
     <library name="fog-dynect (v0.0.3, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-dynect-0.0.3/lib" />
@@ -5470,6 +5602,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-ecloud-0.3.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-ecloud-0.3.0/tests" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-ecloud-0.3.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-google (v0.1.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-google-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-google-0.1.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-google-0.1.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-google-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-google-0.1.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-google-0.1.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-google (v0.1.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-google-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-google-0.1.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-google-0.1.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-google-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-google-0.1.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-google-0.1.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="fog-google (v0.2.0, ruby-2.0.0-p648) [gem]">
@@ -5554,6 +5710,50 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-google-0.6.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-google-0.6.0/tasks" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-google-0.6.0/tests" />
+      </SOURCES>
+    </library>
+    <library name="fog-internet-archive (v0.0.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-internet-archive-0.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-internet-archive-0.0.1/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-internet-archive-0.0.1/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-internet-archive-0.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-internet-archive-0.0.1/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-internet-archive-0.0.1/tests" />
+      </SOURCES>
+    </library>
+    <library name="fog-internet-archive (v0.0.1, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-internet-archive-0.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-internet-archive-0.0.1/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-internet-archive-0.0.1/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-internet-archive-0.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-internet-archive-0.0.1/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-internet-archive-0.0.1/tests" />
+      </SOURCES>
+    </library>
+    <library name="fog-joyent (v0.0.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-joyent-0.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-joyent-0.0.1/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-joyent-0.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-joyent-0.0.1/tests" />
+      </SOURCES>
+    </library>
+    <library name="fog-joyent (v0.0.1, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-joyent-0.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-joyent-0.0.1/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-joyent-0.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-joyent-0.0.1/tests" />
       </SOURCES>
     </library>
     <library name="fog-json (v1.0.2, ruby-2.0.0-p648) [gem]">
@@ -5656,6 +5856,50 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-local-0.4.0/tests" />
       </SOURCES>
     </library>
+    <library name="fog-openstack (v0.1.22, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-openstack-0.1.22/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-openstack-0.1.22/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-openstack-0.1.22/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-openstack-0.1.22/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-openstack-0.1.22/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-openstack-0.1.22/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-openstack (v0.1.22, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-openstack-0.1.22/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-openstack-0.1.22/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-openstack-0.1.22/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-openstack-0.1.22/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-openstack-0.1.22/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-openstack-0.1.22/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-ovirt (v0.1.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-ovirt-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-ovirt-0.1.1/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-ovirt-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-ovirt-0.1.1/tests" />
+      </SOURCES>
+    </library>
+    <library name="fog-ovirt (v0.1.1, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-ovirt-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-ovirt-0.1.1/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-ovirt-0.1.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-ovirt-0.1.1/tests" />
+      </SOURCES>
+    </library>
     <library name="fog-powerdns (v0.1.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-powerdns-0.1.1/bin" />
@@ -5744,6 +5988,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-profitbricks-3.0.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-profitbricks-3.0.0/tests" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-profitbricks-3.0.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-rackspace (v0.1.5, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-rackspace-0.1.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-rackspace-0.1.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-rackspace-0.1.5/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-rackspace-0.1.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-rackspace-0.1.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-rackspace-0.1.5/tests" />
+      </SOURCES>
+    </library>
+    <library name="fog-rackspace (v0.1.5, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-rackspace-0.1.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-rackspace-0.1.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-rackspace-0.1.5/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-rackspace-0.1.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-rackspace-0.1.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-rackspace-0.1.5/tests" />
       </SOURCES>
     </library>
     <library name="fog-radosgw (v0.0.5, ruby-2.0.0-p648) [gem]">
@@ -6068,6 +6336,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-voxel-0.1.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-voxel-0.1.0/tests" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-voxel-0.1.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-vsphere (v1.2.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-vsphere-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-vsphere-1.2.1/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-vsphere-1.2.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-vsphere-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-vsphere-1.2.1/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-vsphere-1.2.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-vsphere (v1.2.1, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-vsphere-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-vsphere-1.2.1/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-vsphere-1.2.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-vsphere-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-vsphere-1.2.1/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/fog-vsphere-1.2.1/gemfiles" />
       </SOURCES>
     </library>
     <library name="fog-xenserver (v0.2.3, ruby-2.0.0-p648) [gem]">
@@ -7590,6 +7882,52 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-1.8.6/tests" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-1.8.6/tools" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-1.8.6/diagrams" />
+      </SOURCES>
+    </library>
+    <library name="json (v2.1.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/java" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/tools" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/diagrams" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/references" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/java" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/tools" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/diagrams" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/references" />
+      </SOURCES>
+    </library>
+    <library name="json (v2.1.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/2.1.0" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/java" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/tools" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/diagrams" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/references" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/2.1.0" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/java" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/tools" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/diagrams" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-2.1.0/references" />
       </SOURCES>
     </library>
     <library name="json_pure (v1.8.6, ruby-2.0.0-p648) [gem]">
@@ -12160,6 +12498,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rb-inotify-0.9.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="rbovirt (v0.1.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rbovirt-0.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rbovirt-0.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="rbovirt (v0.1.4, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rbovirt-0.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rbovirt-0.1.4/lib" />
       </SOURCES>
     </library>
     <library name="rbvmomi (v1.11.3, ruby-2.0.0-p648) [gem]">
