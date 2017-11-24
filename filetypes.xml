@@ -3,12 +3,10 @@
     <extensionMap>
       <mapping pattern="fly-execute" type="Bash" />
       <mapping pattern="update_stemcell" type="Bash" />
-      <mapping pattern="commandeer_environment_for_testing_code_locally" type="Bash" />
       <mapping pattern="run-jasmine-specs" type="Bash" />
       <mapping pattern="get-full-build-number" type="Bash" />
       <mapping pattern="v2-bosh-gcp" type="Bash" />
       <mapping pattern="get-cred" type="Bash" />
-      <mapping pattern="prepare_docker_machine_for_local_deploys" type="Bash" />
       <mapping pattern="build-image" type="Bash" />
       <mapping pattern="generate-example-product2" type="Bash" />
       <mapping pattern="generate-release-metadata-internal" type="Bash" />
