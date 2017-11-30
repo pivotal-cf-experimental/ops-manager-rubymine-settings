@@ -8930,6 +8930,46 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jquery-rails-4.3.1/vendor" />
       </SOURCES>
     </library>
+    <library name="json (v1.8.3, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/java" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/tools" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/diagrams" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/java" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/tools" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/diagrams" />
+      </SOURCES>
+    </library>
+    <library name="json (v1.8.3, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/java" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/tools" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/diagrams" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/java" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/tools" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json_pure-1.8.3/diagrams" />
+      </SOURCES>
+    </library>
     <library name="json (v1.8.6, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/json-1.8.6/ext" />
