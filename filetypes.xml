@@ -10,6 +10,7 @@
       <mapping pattern="build-image" type="Bash" />
       <mapping pattern="generate-example-product2" type="Bash" />
       <mapping pattern="generate-release-metadata-internal" type="Bash" />
+      <mapping pattern="check-for-publish-build-number-on-pivnet" type="Bash" />
       <mapping pattern="publish-google-images-internal-only" type="Bash" />
       <mapping pattern="make_tmp_version_file" type="Bash" />
       <mapping pattern="build-number-version-bumper" type="Bash" />
@@ -25,10 +26,10 @@
       <mapping pattern="dell_azure_stack" type="PLAIN_TEXT" />
       <mapping pattern="priority-units" type="PLAIN_TEXT" />
       <mapping pattern="public_succeeded" type="PLAIN_TEXT" />
-      <mapping pattern="interfaces" type="PLAIN_TEXT" />
       <mapping pattern="create-release-images-without-gov" type="PLAIN_TEXT" />
       <mapping pattern="deps" type="PLAIN_TEXT" />
       <mapping pattern="monit" type="PLAIN_TEXT" />
+      <mapping pattern="interfaces" type="PLAIN_TEXT" />
       <mapping pattern="stack_succeeded" type="PLAIN_TEXT" />
       <mapping pattern="profile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
