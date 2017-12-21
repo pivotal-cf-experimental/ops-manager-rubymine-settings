@@ -13478,22 +13478,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rspec-3.6.0/lib" />
       </SOURCES>
     </library>
-    <library name="rspec (v3.7.0, ruby-2.0.0-p648) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rspec-3.7.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rspec-3.7.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec (v3.7.0, ruby-2.3.4-p301) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rspec-3.7.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rspec-3.7.0/lib" />
-      </SOURCES>
-    </library>
     <library name="rspec (v3.7.0, ruby-2.4.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rspec-3.7.0/lib" />
