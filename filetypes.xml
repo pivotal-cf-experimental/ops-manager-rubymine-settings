@@ -8,10 +8,10 @@
       <mapping pattern="v2-bosh-gcp" type="Bash" />
       <mapping pattern="get-cred" type="Bash" />
       <mapping pattern="capture-dpkg" type="Bash" />
-      <mapping pattern="build-image" type="Bash" />
       <mapping pattern="generate-example-product2" type="Bash" />
-      <mapping pattern="generate-release-metadata-internal" type="Bash" />
+      <mapping pattern="build-image" type="Bash" />
       <mapping pattern="download_dpkg_files" type="Bash" />
+      <mapping pattern="generate-release-metadata-internal" type="Bash" />
       <mapping pattern="update_stemcell" type="Bash" />
       <mapping pattern="publish-google-images-internal-only" type="Bash" />
       <mapping pattern="make_tmp_version_file" type="Bash" />
