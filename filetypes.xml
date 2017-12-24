@@ -14,6 +14,7 @@
       <mapping pattern="download_dpkg_files" type="Bash" />
       <mapping pattern="generate-release-metadata-internal" type="Bash" />
       <mapping pattern="run_ops_manager_on_docker" type="Bash" />
+      <mapping pattern="target_docker_cli_to_docker_machine" type="Bash" />
       <mapping pattern="publish-google-images-internal-only" type="Bash" />
       <mapping pattern="make_tmp_version_file" type="Bash" />
       <mapping pattern="build-number-version-bumper" type="Bash" />
