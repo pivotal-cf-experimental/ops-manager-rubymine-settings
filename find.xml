@@ -2,7 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
@@ -12,7 +14,6 @@
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>co.rb</mask>
       <mask>con.rb</mask>
@@ -23,13 +24,19 @@
       <mask>*context.rb</mask>
       <mask>*.rb</mask>
       <mask>*.r</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.ha</mask>
       <mask>*.ham</mask>
       <mask>*.haml</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.scss</mask>
+      <mask>*.scs</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.css</mask>
+      <mask>*.cs</mask>
     </recentFileMasks>
   </component>
 </application>
