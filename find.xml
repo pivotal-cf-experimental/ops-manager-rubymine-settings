@@ -2,24 +2,18 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="localCaseSensitive" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>co.rb</mask>
       <mask>con.rb</mask>
       <mask>cont.rb</mask>
       <mask>conte.rb</mask>
       <mask>contex.rb</mask>
       <mask>context.rb</mask>
       <mask>*context.rb</mask>
+      <mask>*.rb</mask>
+      <mask>*.r</mask>
       <mask>*.h</mask>
       <mask>*.ha</mask>
       <mask>*.ham</mask>
@@ -32,12 +26,16 @@
       <mask>*.s</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
-      <mask>rb</mask>
-      <mask>r</mask>
-      <mask>*</mask>
+      <mask>*.c</mask>
       <mask>*.</mask>
-      <mask>*.r</mask>
-      <mask>*.rb</mask>
+      <mask>*</mask>
+      <mask>*c</mask>
+      <mask>*co</mask>
+      <mask>*cont</mask>
+      <mask>*contro</mask>
+      <mask>*control</mask>
+      <mask>*controller</mask>
+      <mask>*controller*</mask>
     </recentFileMasks>
   </component>
 </application>
