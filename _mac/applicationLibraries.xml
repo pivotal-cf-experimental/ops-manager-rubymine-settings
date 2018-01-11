@@ -9948,9 +9948,11 @@
     </library>
     <library name="json (v1.8.3, ruby-2.3.4-p301) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.3" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.4/lib/ruby/2.3.0/json/add" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.3" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.4/lib/ruby/2.3.0/json/add" />
       </SOURCES>
     </library>
@@ -20802,6 +20804,7 @@
     </library>
     <library name="yajl-ruby (v1.2.2, ruby-2.3.4-p301) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/yajl-ruby/1.2.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/yajl-ruby-1.2.2/script" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/yajl-ruby-1.2.2/benchmark" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/yajl-ruby-1.2.2/lib" />
@@ -20809,6 +20812,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/yajl-ruby-1.2.2/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/yajl-ruby/1.2.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/yajl-ruby-1.2.2/script" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/yajl-ruby-1.2.2/benchmark" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/yajl-ruby-1.2.2/lib" />
