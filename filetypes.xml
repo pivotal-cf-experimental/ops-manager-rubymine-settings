@@ -38,6 +38,7 @@
       <mapping pattern="profile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="dirs" type="PLAIN_TEXT" />
+      <mapping pattern=".pretterrc" type="PLAIN_TEXT" />
       <mapping pattern="stack_failed" type="PLAIN_TEXT" />
       <mapping ext="ca" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
