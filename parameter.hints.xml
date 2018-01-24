@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Ruby">
+        <added pattern="*.to(*,*,*)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
