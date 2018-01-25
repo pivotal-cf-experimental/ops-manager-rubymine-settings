@@ -4546,6 +4546,24 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rack-protection-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="rack-proxy (v0.6.3, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rack-proxy-0.6.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rack-proxy-0.6.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-reverse-proxy (v0.12.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rack-reverse-proxy-0.12.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rack-reverse-proxy-0.12.0/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rack-reverse-proxy-0.12.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rack-reverse-proxy-0.12.0/script" />
+      </SOURCES>
+    </library>
     <library name="rack-test (v0.6.3, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rack-test-0.6.3/lib" />
