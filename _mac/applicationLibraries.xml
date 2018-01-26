@@ -4340,6 +4340,7 @@
     </library>
     <library name="eventmachine (v1.2.5, ruby-2.0.0-p648) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/eventmachine/1.2.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/eventmachine-1.2.5/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/eventmachine-1.2.5/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/eventmachine-1.2.5/java" />
@@ -4347,6 +4348,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/eventmachine-1.2.5/rakelib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/eventmachine/1.2.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/eventmachine-1.2.5/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/eventmachine-1.2.5/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/eventmachine-1.2.5/java" />
@@ -10920,6 +10922,7 @@
     </library>
     <library name="nokogiri (v1.8.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/nokogiri/1.8.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nokogiri-1.8.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nokogiri-1.8.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nokogiri-1.8.1/lib" />
@@ -10928,6 +10931,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nokogiri-1.8.1/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/nokogiri/1.8.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nokogiri-1.8.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nokogiri-1.8.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/nokogiri-1.8.1/lib" />
