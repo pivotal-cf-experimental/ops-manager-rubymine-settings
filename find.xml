@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../web/ui/spec/dispatchers/stemcells_dispatcher_spec.js [web]'" />
-    <option name="defaultScopeName" value="File '.../web/ui/spec/dispatchers/stemcells_dispatcher_spec.js [web]'" />
+    <option name="customScope" value="File '.../web/ui/app/components/staged_stemcell_selector.js [web]'" />
+    <option name="defaultScopeName" value="File '.../web/ui/app/components/staged_stemcell_selector.js [web]'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../web/ui/spec/dispatchers/stemcells_dispatcher_spec.js [web]'" />
+    <option name="SEARCH_SCOPE" value="File '.../web/ui/app/components/staged_stemcell_selector.js [web]'" />
     <recentFileMasks>
       <mask>cont.rb</mask>
       <mask>conte.rb</mask>
