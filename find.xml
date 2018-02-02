@@ -1,12 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="customScope" value="File '.../web/ui/app/components/flash.js [web]'" />
+    <option name="defaultScopeName" value="File '.../web/ui/app/components/flash.js [web]'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="File '.../web/ui/app/components/flash.js [web]'" />
     <recentFileMasks>
-      <mask>con.rb</mask>
       <mask>cont.rb</mask>
       <mask>conte.rb</mask>
       <mask>contex.rb</mask>
@@ -28,7 +27,6 @@
       <mask>*.cs</mask>
       <mask>*.c</mask>
       <mask>*.</mask>
-      <mask>*</mask>
       <mask>*c</mask>
       <mask>*co</mask>
       <mask>*cont</mask>
@@ -36,6 +34,8 @@
       <mask>*control</mask>
       <mask>*controller</mask>
       <mask>*controller*</mask>
+      <mask>*</mask>
+      <mask>*js</mask>
     </recentFileMasks>
   </component>
 </application>
