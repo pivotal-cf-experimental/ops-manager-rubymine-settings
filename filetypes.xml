@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="fly-execute" type="Bash" />
-      <mapping pattern="run-web-specs" type="Bash" />
       <mapping pattern="check-for-publish-build-number-on-pivnet" type="Bash" />
       <mapping pattern="run-jasmine-specs" type="Bash" />
       <mapping pattern="get-full-build-number" type="Bash" />
@@ -13,6 +12,7 @@
       <mapping pattern="generate-example-product2" type="Bash" />
       <mapping pattern="build-image" type="Bash" />
       <mapping pattern="download_dpkg_files" type="Bash" />
+      <mapping pattern="generate_component" type="Bash" />
       <mapping pattern="generate-release-metadata-internal" type="Bash" />
       <mapping pattern="target_docker_cli_to_docker_machine" type="Bash" />
       <mapping pattern="update_stemcell" type="Bash" />
