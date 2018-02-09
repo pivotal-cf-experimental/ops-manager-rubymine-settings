@@ -6412,6 +6412,36 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ffi-1.9.18/libtest" />
       </SOURCES>
     </library>
+    <library name="ffi (v1.9.21, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ffi-1.9.21/gen" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ffi-1.9.21/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ffi-1.9.21/libtest" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ffi-1.9.21/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ffi-1.9.21/gen" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ffi-1.9.21/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ffi-1.9.21/libtest" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ffi-1.9.21/ext" />
+      </SOURCES>
+    </library>
+    <library name="ffi (v1.9.21, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.21" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ffi-1.9.21/gen" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ffi-1.9.21/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ffi-1.9.21/libtest" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ffi-1.9.21/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.21" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ffi-1.9.21/gen" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ffi-1.9.21/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ffi-1.9.21/libtest" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ffi-1.9.21/ext" />
+      </SOURCES>
+    </library>
     <library name="ffi-yajl (v2.2.3, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ffi-yajl-2.2.3/ext" />
@@ -9508,6 +9538,26 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jasmine-core-2.6.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="jasmine_selenium_runner (v3.0.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jasmine_selenium_runner-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jasmine_selenium_runner-3.0.0/release_notes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jasmine_selenium_runner-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jasmine_selenium_runner-3.0.0/release_notes" />
+      </SOURCES>
+    </library>
+    <library name="jasmine_selenium_runner (v3.0.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jasmine_selenium_runner-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jasmine_selenium_runner-3.0.0/release_notes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jasmine_selenium_runner-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jasmine_selenium_runner-3.0.0/release_notes" />
       </SOURCES>
     </library>
     <library name="jbuilder (v2.7.0, ruby-2.0.0-p648) [gem]">
@@ -18150,6 +18200,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/selenium-webdriver-3.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.9.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/selenium-webdriver-3.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/selenium-webdriver-3.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.9.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/selenium-webdriver-3.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/selenium-webdriver-3.9.0/lib" />
       </SOURCES>
     </library>
     <library name="semi_semantic (v1.1.0, ruby-2.0.0-p648) [gem]">
