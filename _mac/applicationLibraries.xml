@@ -9422,6 +9422,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jasmine-2.6.0/release_notes" />
       </SOURCES>
     </library>
+    <library name="jasmine (v3.0.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jasmine-3.0.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jasmine-3.0.0/release_notes" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jasmine-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jasmine-3.0.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jasmine-3.0.0/release_notes" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jasmine-3.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="jasmine (v3.0.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jasmine-3.0.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jasmine-3.0.0/release_notes" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jasmine-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jasmine-3.0.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jasmine-3.0.0/release_notes" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/jasmine-3.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="jasmine-core (v2.4.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.3.4/lib/ruby/gems/2.3.0/gems/jasmine-core-2.4.1/lib" />
@@ -15498,6 +15522,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rake-12.2.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rake-12.2.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rake-12.2.1/exe" />
+      </SOURCES>
+    </library>
+    <library name="rake (v12.3.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rake-12.3.0/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rake-12.3.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rake-12.3.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rake-12.3.0/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rake-12.3.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rake-12.3.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="rake (v12.3.0, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rake-12.3.0/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rake-12.3.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rake-12.3.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rake-12.3.0/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rake-12.3.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/rake-12.3.0/bin" />
       </SOURCES>
     </library>
     <library name="rake-compiler (v0.9.7, ruby-2.0.0-p648) [gem]">
