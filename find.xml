@@ -5,13 +5,13 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
       <mask>cont.rb</mask>
       <mask>conte.rb</mask>
       <mask>contex.rb</mask>
       <mask>context.rb</mask>
       <mask>*context.rb</mask>
-      <mask>*.rb</mask>
       <mask>*.r</mask>
       <mask>*.h</mask>
       <mask>*.ha</mask>
@@ -36,6 +36,7 @@
       <mask>*controller*</mask>
       <mask>*</mask>
       <mask>*js</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
