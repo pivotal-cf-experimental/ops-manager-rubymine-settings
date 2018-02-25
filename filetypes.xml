@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="fly-execute" type="Bash" />
       <mapping pattern="update_stemcell" type="Bash" />
+      <mapping pattern="claim_and_write_reminder_to_unclaim" type="Bash" />
       <mapping pattern="check-for-publish-build-number-on-pivnet" type="Bash" />
       <mapping pattern="run-jasmine-specs" type="Bash" />
       <mapping pattern="get-full-build-number" type="Bash" />
