@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="fly-execute" type="Bash" />
+      <mapping pattern="claim_and_write_reminder_to_unclaim" type="Bash" />
       <mapping pattern="check-for-publish-build-number-on-pivnet" type="Bash" />
       <mapping pattern="run-jasmine-specs" type="Bash" />
       <mapping pattern="get-full-build-number" type="Bash" />
@@ -14,6 +15,7 @@
       <mapping pattern="download_dpkg_files" type="Bash" />
       <mapping pattern="generate_component" type="Bash" />
       <mapping pattern="generate-release-metadata-internal" type="Bash" />
+      <mapping pattern="run_upgrade_specs_on_vbox" type="Bash" />
       <mapping pattern="target_docker_cli_to_docker_machine" type="Bash" />
       <mapping pattern="update_stemcell" type="Bash" />
       <mapping pattern="publish-google-images-internal-only" type="Bash" />
@@ -46,6 +48,7 @@
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="zsh" type="PLAIN_TEXT" />
       <mapping pattern="opsman_stemcell_version" type="Ruby" />
+      <mapping pattern="stories_since_release" type="Ruby" />
       <mapping pattern="make_version_file" type="Ruby" />
       <mapping pattern="installation_version" type="Ruby" />
       <mapping pattern="upgrade_stemcells" type="Ruby" />
