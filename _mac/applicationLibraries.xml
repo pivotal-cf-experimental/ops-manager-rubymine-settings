@@ -3250,10 +3250,12 @@
     </library>
     <library name="debase (v0.2.1, ruby-2.3.4-p301) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debase/0.2.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/debase-0.2.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/debase-0.2.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debase/0.2.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/debase-0.2.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/debase-0.2.1/lib" />
       </SOURCES>
@@ -3328,9 +3330,11 @@
     </library>
     <library name="debase-ruby_core_source (v0.9.9, ruby-2.3.4-p301) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debase-ruby_core_source/0.9.9" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/debase-ruby_core_source-0.9.9/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/debase-ruby_core_source/0.9.9" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/debase-ruby_core_source-0.9.9/lib" />
       </SOURCES>
     </library>
