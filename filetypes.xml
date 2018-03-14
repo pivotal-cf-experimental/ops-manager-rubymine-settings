@@ -32,12 +32,13 @@
       <mapping pattern="pre_build_aws-gov" type="PLAIN_TEXT" />
       <mapping pattern="create-release-images-with-gov" type="PLAIN_TEXT" />
       <mapping pattern="dell_azure_stack" type="PLAIN_TEXT" />
+      <mapping pattern="monit" type="PLAIN_TEXT" />
       <mapping pattern="priority-units" type="PLAIN_TEXT" />
+      <mapping pattern="haiku" type="PLAIN_TEXT" />
       <mapping pattern="public_succeeded" type="PLAIN_TEXT" />
-      <mapping pattern="profile" type="PLAIN_TEXT" />
       <mapping pattern="create-release-images-without-gov" type="PLAIN_TEXT" />
       <mapping pattern="deps" type="PLAIN_TEXT" />
-      <mapping pattern="monit" type="PLAIN_TEXT" />
+      <mapping pattern="profile" type="PLAIN_TEXT" />
       <mapping pattern="interfaces" type="PLAIN_TEXT" />
       <mapping pattern="stack_succeeded" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
@@ -51,8 +52,8 @@
       <mapping pattern="opsman_stemcell_version" type="Ruby" />
       <mapping pattern="make_version_file" type="Ruby" />
       <mapping pattern="installation_version" type="Ruby" />
-      <mapping pattern="upgrade_stemcells" type="Ruby" />
       <mapping pattern="upgrade_compiled_release_from_dk" type="Ruby" />
+      <mapping pattern="upgrade_stemcells" type="Ruby" />
       <mapping ext="ovf" type="XML" />
     </extensionMap>
   </component>
