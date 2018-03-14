@@ -36,6 +36,7 @@
       <mapping pattern="priority-units" type="PLAIN_TEXT" />
       <mapping pattern="haiku" type="PLAIN_TEXT" />
       <mapping pattern="public_succeeded" type="PLAIN_TEXT" />
+      <mapping pattern="profile" type="PLAIN_TEXT" />
       <mapping pattern="create-release-images-without-gov" type="PLAIN_TEXT" />
       <mapping pattern="deps" type="PLAIN_TEXT" />
       <mapping pattern="profile" type="PLAIN_TEXT" />
@@ -50,10 +51,11 @@
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="zsh" type="PLAIN_TEXT" />
       <mapping pattern="opsman_stemcell_version" type="Ruby" />
+      <mapping pattern="stories_since_release" type="Ruby" />
       <mapping pattern="make_version_file" type="Ruby" />
       <mapping pattern="installation_version" type="Ruby" />
-      <mapping pattern="upgrade_compiled_release_from_dk" type="Ruby" />
       <mapping pattern="upgrade_stemcells" type="Ruby" />
+      <mapping pattern="upgrade_compiled_release_from_dk" type="Ruby" />
       <mapping ext="ovf" type="XML" />
     </extensionMap>
   </component>
