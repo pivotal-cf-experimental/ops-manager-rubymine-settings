@@ -6,6 +6,7 @@
       <mapping pattern="claim_and_write_reminder_to_unclaim" type="Bash" />
       <mapping pattern="run_ops_manager_on_docker" type="Bash" />
       <mapping pattern="v2-bosh-gcp" type="Bash" />
+      <mapping pattern="set_log_dir" type="Bash" />
       <mapping pattern="check-for-publish-build-number-on-pivnet" type="Bash" />
       <mapping pattern="generate-example-product2" type="Bash" />
       <mapping pattern="publish-amis-with-gov" type="Bash" />
