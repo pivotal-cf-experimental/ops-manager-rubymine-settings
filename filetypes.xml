@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="fly-execute" type="Bash" />
+      <mapping pattern="" type="Bash" />
       <mapping pattern="claim_and_write_reminder_to_unclaim" type="Bash" />
       <mapping pattern="check-for-publish-build-number-on-pivnet" type="Bash" />
       <mapping pattern="run-jasmine-specs" type="Bash" />
@@ -24,6 +25,7 @@
       <mapping pattern="build-number-version-bumper" type="Bash" />
       <mapping pattern="publish-amis-with-gov" type="Bash" />
       <mapping ext="10" type="Bash" />
+      <mapping ext="0" type="Bash" />
       <mapping ext="12" type="Bash" />
       <mapping pattern="Dockerfile-for-bosh-compilation" type="Dockerfile" />
       <mapping pattern="init_d_nginx" type="PLAIN_TEXT" />
@@ -32,14 +34,13 @@
       <mapping pattern="pre_build_aws-gov" type="PLAIN_TEXT" />
       <mapping pattern="create-release-images-with-gov" type="PLAIN_TEXT" />
       <mapping pattern="dell_azure_stack" type="PLAIN_TEXT" />
-      <mapping pattern="monit" type="PLAIN_TEXT" />
       <mapping pattern="priority-units" type="PLAIN_TEXT" />
       <mapping pattern="haiku" type="PLAIN_TEXT" />
       <mapping pattern="public_succeeded" type="PLAIN_TEXT" />
       <mapping pattern="profile" type="PLAIN_TEXT" />
       <mapping pattern="create-release-images-without-gov" type="PLAIN_TEXT" />
       <mapping pattern="deps" type="PLAIN_TEXT" />
-      <mapping pattern="profile" type="PLAIN_TEXT" />
+      <mapping pattern="monit" type="PLAIN_TEXT" />
       <mapping pattern="interfaces" type="PLAIN_TEXT" />
       <mapping pattern="stack_succeeded" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
