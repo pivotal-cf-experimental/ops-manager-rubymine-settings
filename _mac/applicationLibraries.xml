@@ -9624,11 +9624,13 @@
     </library>
     <library name="ffi-yajl (v2.3.1, ruby-2.3.4-p301) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi-yajl/2.3.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ffi-yajl-2.3.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ffi-yajl-2.3.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ffi-yajl-2.3.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi-yajl/2.3.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ffi-yajl-2.3.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ffi-yajl-2.3.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/ffi-yajl-2.3.1/lib" />
@@ -14956,10 +14958,12 @@
     </library>
     <library name="libyajl2 (v1.2.0, ruby-2.3.4-p301) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/libyajl2/1.2.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/libyajl2-1.2.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/libyajl2-1.2.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/libyajl2/1.2.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/libyajl2-1.2.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.4/gems/libyajl2-1.2.0/lib" />
       </SOURCES>
