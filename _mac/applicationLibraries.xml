@@ -22178,6 +22178,7 @@
     </library>
     <library name="yajl-ruby (v1.2.3, ruby-2.3.4-p301) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/yajl-ruby/1.2.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.2.3/script" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.2.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.2.3/benchmark" />
@@ -22185,6 +22186,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.2.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/yajl-ruby/1.2.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.2.3/script" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.2.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.2.3/benchmark" />
