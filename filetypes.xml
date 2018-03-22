@@ -12,6 +12,7 @@
       <mapping pattern="run_ops_manager_on_docker" type="Bash" />
       <mapping pattern="capture-dpkg" type="Bash" />
       <mapping pattern="generate-example-product2" type="Bash" />
+      <mapping pattern="teardown-azure" type="Bash" />
       <mapping pattern="build-image" type="Bash" />
       <mapping pattern="download_dpkg_files" type="Bash" />
       <mapping pattern="generate_component" type="Bash" />
