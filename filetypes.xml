@@ -17,6 +17,7 @@
       <mapping pattern="download_dpkg_files" type="Bash" />
       <mapping pattern="generate_component" type="Bash" />
       <mapping pattern="run_upgrade_specs_on_vbox_on_docker" type="Bash" />
+      <mapping pattern="remove_state_file_from_s3" type="Bash" />
       <mapping pattern="generate-release-metadata-internal" type="Bash" />
       <mapping pattern="run_upgrade_specs_on_vbox" type="Bash" />
       <mapping pattern="target_docker_cli_to_docker_machine" type="Bash" />
