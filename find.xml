@@ -6,7 +6,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.rb</mask>
       <mask>*.r</mask>
       <mask>*.h</mask>
       <mask>*.ha</mask>
@@ -36,6 +35,7 @@
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
