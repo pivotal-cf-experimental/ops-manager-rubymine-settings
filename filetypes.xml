@@ -23,6 +23,7 @@
       <mapping pattern="build-azure-upgrade-tfvars" type="Bash" />
       <mapping pattern="run_upgrade_specs_on_vbox" type="Bash" />
       <mapping pattern="target_docker_cli_to_docker_machine" type="Bash" />
+      <mapping pattern="ryslog_conf_writer" type="Bash" />
       <mapping pattern="update_stemcell" type="Bash" />
       <mapping pattern="publish-google-images-internal-only" type="Bash" />
       <mapping pattern="make_tmp_version_file" type="Bash" />
