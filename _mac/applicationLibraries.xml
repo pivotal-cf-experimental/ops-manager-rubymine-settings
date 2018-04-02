@@ -10756,6 +10756,34 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.53.0/bin" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.54.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.54.0/config" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.54.0/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.54.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.54.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.54.0/config" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.54.0/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.54.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.54.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.54.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.54.0/config" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.54.0/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.54.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.54.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.54.0/config" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.54.0/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.54.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.54.0/bin" />
+      </SOURCES>
+    </library>
     <library name="ruby-debug-ide (v0.6.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ruby-debug-ide-0.6.0/ext" />
