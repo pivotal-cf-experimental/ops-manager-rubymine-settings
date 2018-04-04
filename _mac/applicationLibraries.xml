@@ -9994,11 +9994,13 @@
     </library>
     <library name="redcarpet (v3.3.4, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/redcarpet/3.3.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/redcarpet-3.3.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/redcarpet-3.3.4/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/redcarpet-3.3.4/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/redcarpet/3.3.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/redcarpet-3.3.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/redcarpet-3.3.4/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/redcarpet-3.3.4/lib" />
