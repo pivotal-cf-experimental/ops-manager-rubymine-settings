@@ -26,6 +26,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="zsh" type="PLAIN_TEXT" />
+      <mapping ext="12" type="PLAIN_TEXT" />
       <mapping pattern="make_version_file" type="Ruby" />
       <mapping pattern="stories_since_release" type="Ruby" />
       <mapping pattern="installation_version" type="Ruby" />
