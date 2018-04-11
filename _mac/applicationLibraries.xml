@@ -5632,11 +5632,13 @@
     </library>
     <library name="ffi-yajl (v2.3.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/ffi-yajl/2.3.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-yajl-2.3.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-yajl-2.3.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-yajl-2.3.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/ffi-yajl/2.3.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-yajl-2.3.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-yajl-2.3.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-yajl-2.3.1/lib" />
@@ -9084,10 +9086,12 @@
     </library>
     <library name="libyajl2 (v1.2.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/libyajl2/1.2.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/libyajl2-1.2.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/libyajl2-1.2.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/libyajl2/1.2.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/libyajl2-1.2.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/libyajl2-1.2.0/lib" />
       </SOURCES>
@@ -18000,6 +18004,7 @@
     </library>
     <library name="yajl-ruby (v1.2.3, ruby-2.0.0-p648) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/yajl-ruby/1.2.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.2.3/script" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.2.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.2.3/benchmark" />
@@ -18007,6 +18012,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.2.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/yajl-ruby/1.2.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.2.3/script" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.2.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.2.3/benchmark" />
