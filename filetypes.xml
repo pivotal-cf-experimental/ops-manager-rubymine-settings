@@ -1,72 +1,75 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="" type="Bash" />
-      <mapping pattern="build-azure-tfvars" type="Bash" />
-      <mapping pattern="delete-me-print-uname" type="Bash" />
-      <mapping pattern="update_stemcell" type="Bash" />
-      <mapping pattern="target_docker_cli_to_docker_machine" type="Bash" />
+      <mapping pattern="generate-example-product2" type="Bash" />
       <mapping pattern="run-jasmine-specs" type="Bash" />
       <mapping pattern="get-full-build-number" type="Bash" />
-      <mapping pattern="claim_and_write_reminder_to_unclaim" type="Bash" />
-      <mapping pattern="generate-example-product2" type="Bash" />
-      <mapping pattern="teardown-azure" type="Bash" />
+      <mapping pattern="delete-me-print-uname" type="Bash" />
       <mapping pattern="get-cred" type="Bash" />
-      <mapping pattern="capture-dpkg" type="Bash" />
-      <mapping pattern="build-image" type="Bash" />
-      <mapping pattern="download_dpkg_files" type="Bash" />
       <mapping pattern="v2-bosh-gcp" type="Bash" />
-      <mapping pattern="generate_component" type="Bash" />
-      <mapping pattern="run_upgrade_specs_on_vbox_on_docker" type="Bash" />
-      <mapping pattern="build-azure-upgrade-tfvars" type="Bash" />
-      <mapping pattern="run_upgrade_specs_on_vbox" type="Bash" />
-      <mapping pattern="run_ops_manager_on_docker" type="Bash" />
-      <mapping pattern="generate-release-metadata-internal" type="Bash" />
-      <mapping pattern="remove_state_file_from_s3" type="Bash" />
-      <mapping pattern="check-for-publish-build-number-on-pivnet" type="Bash" />
+      <mapping pattern="build-image" type="Bash" />
       <mapping pattern="fly-execute" type="Bash" />
-      <mapping pattern="publish-google-images-internal-only" type="Bash" />
+      <mapping pattern="download_dpkg_files" type="Bash" />
       <mapping pattern="make_tmp_version_file" type="Bash" />
+      <mapping pattern="target_docker_cli_to_docker_machine" type="Bash" />
+      <mapping pattern="remove_state_file_from_s3" type="Bash" />
+      <mapping pattern="build-azure-tfvars" type="Bash" />
+      <mapping pattern="run_upgrade_specs_on_vbox_on_docker" type="Bash" />
+      <mapping pattern="update_stemcell" type="Bash" />
+      <mapping pattern="capture-dpkg" type="Bash" />
+      <mapping pattern="build-azure-upgrade-tfvars" type="Bash" />
       <mapping pattern="build-number-version-bumper" type="Bash" />
+      <mapping pattern="check-for-publish-build-number-on-pivnet" type="Bash" />
+      <mapping pattern="run_upgrade_specs_on_vbox" type="Bash" />
       <mapping pattern="publish-amis-with-gov" type="Bash" />
+      <mapping pattern="teardown-azure" type="Bash" />
+      <mapping pattern="claim_and_write_reminder_to_unclaim" type="Bash" />
+      <mapping pattern="generate-release-metadata-internal" type="Bash" />
+      <mapping pattern="generate_component" type="Bash" />
+      <mapping pattern="publish-google-images-internal-only" type="Bash" />
+      <mapping pattern="run_ops_manager_on_docker" type="Bash" />
+      <mapping pattern="" type="Bash" />
+      <mapping ext="12" type="Bash" />
       <mapping ext="10" type="Bash" />
       <mapping ext="1" type="Bash" />
       <mapping ext="0" type="Bash" />
-      <mapping ext="12" type="Bash" />
       <mapping pattern="Dockerfile-for-bosh-compilation" type="Dockerfile" />
+      <mapping pattern="public_succeeded" type="PLAIN_TEXT" />
+      <mapping pattern="haiku" type="PLAIN_TEXT" />
+      <mapping pattern="create-release-images-without-gov" type="PLAIN_TEXT" />
+      <mapping pattern="pre_build_aws-gov" type="PLAIN_TEXT" />
+      <mapping pattern="stack_succeeded" type="PLAIN_TEXT" />
+      <mapping pattern="run-ci-specs" type="PLAIN_TEXT" />
+      <mapping pattern="monit" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="interfaces" type="PLAIN_TEXT" />
       <mapping pattern=".pretterrc" type="PLAIN_TEXT" />
       <mapping pattern="deliver-stories" type="PLAIN_TEXT" />
-      <mapping pattern="init_d_nginx" type="PLAIN_TEXT" />
-      <mapping pattern="pre_build_aws-gov" type="PLAIN_TEXT" />
-      <mapping pattern="prepare-environment-with-vm-shepherd" type="PLAIN_TEXT" />
-      <mapping pattern="create-release-images-with-gov" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="dell_azure_stack" type="PLAIN_TEXT" />
-      <mapping pattern="run-ci-specs" type="PLAIN_TEXT" />
+      <mapping pattern="prepare-environment-with-vm-shepherd" type="PLAIN_TEXT" />
       <mapping pattern="priority-units" type="PLAIN_TEXT" />
-      <mapping pattern="haiku" type="PLAIN_TEXT" />
-      <mapping pattern="public_succeeded" type="PLAIN_TEXT" />
-      <mapping pattern="create-release-images-without-gov" type="PLAIN_TEXT" />
-      <mapping pattern="deps" type="PLAIN_TEXT" />
-      <mapping pattern="monit" type="PLAIN_TEXT" />
-      <mapping pattern="interfaces" type="PLAIN_TEXT" />
-      <mapping pattern="stack_succeeded" type="PLAIN_TEXT" />
-      <mapping pattern="profile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="dirs" type="PLAIN_TEXT" />
+      <mapping pattern="create-release-images-with-gov" type="PLAIN_TEXT" />
       <mapping pattern="master/run-ci-specs" type="PLAIN_TEXT" />
+      <mapping pattern="init_d_nginx" type="PLAIN_TEXT" />
       <mapping pattern="stack_failed" type="PLAIN_TEXT" />
-      <mapping ext="ca" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping pattern="deps" type="PLAIN_TEXT" />
+      <mapping pattern="profile" type="PLAIN_TEXT" />
+      <mapping pattern="dirs" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="ca" type="PLAIN_TEXT" />
       <mapping ext="zsh" type="PLAIN_TEXT" />
+      <mapping pattern="*_spec.rb" type="Ruby" />
       <mapping pattern="opsman_stemcell_version" type="Ruby" />
-      <mapping pattern="stories_since_release" type="Ruby" />
-      <mapping pattern="installation_version" type="Ruby" />
       <mapping pattern="make_version_file" type="Ruby" />
-      <mapping pattern="upgrade_compiled_release_from_dk" type="Ruby" />
+      <mapping pattern="installation_version" type="Ruby" />
       <mapping pattern="upgrade_stemcells" type="Ruby" />
+      <mapping pattern="upgrade_compiled_release_from_dk" type="Ruby" />
+      <mapping pattern="stories_since_release" type="Ruby" />
+      <removed_mapping pattern="spec" type="Ruby" />
       <mapping ext="ovf" type="XML" />
+      <mapping pattern="spec" type="YAML" />
     </extensionMap>
   </component>
 </application>
