@@ -7,6 +7,7 @@
       <mapping pattern="delete-me-print-uname" type="Bash" />
       <mapping pattern="get-cred" type="Bash" />
       <mapping pattern="v2-bosh-gcp" type="Bash" />
+      <mapping pattern="run_clean_install_specs_on_vbox_on_docker" type="Bash" />
       <mapping pattern="build-image" type="Bash" />
       <mapping pattern="fly-execute" type="Bash" />
       <mapping pattern="download_dpkg_files" type="Bash" />
