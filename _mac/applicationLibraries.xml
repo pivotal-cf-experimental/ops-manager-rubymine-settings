@@ -728,6 +728,26 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/annotate-2.7.2/bin" />
       </SOURCES>
     </library>
+    <library name="ansi (v1.5.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ansi-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ansi-1.5.0/demo" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ansi-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ansi-1.5.0/demo" />
+      </SOURCES>
+    </library>
+    <library name="ansi (v1.5.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ansi-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ansi-1.5.0/demo" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ansi-1.5.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ansi-1.5.0/demo" />
+      </SOURCES>
+    </library>
     <library name="archive-zip (v0.11.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/archive-zip-0.11.0/lib" />
@@ -2280,6 +2300,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/chromedriver-helper-1.2.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/chromedriver-helper-1.2.0/concourse" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/chromedriver-helper-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="chronic (v0.10.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/chronic-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/chronic-0.10.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="chronic (v0.10.2, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/chronic-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/chronic-0.10.2/lib" />
       </SOURCES>
     </library>
     <library name="chunky_png (v1.3.8, ruby-2.0.0-p648) [gem]">
@@ -8156,6 +8192,42 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/paint-2.0.1/data" />
       </SOURCES>
     </library>
+    <library name="papertrail (v0.10.4, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/papertrail-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/papertrail-0.10.4/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/papertrail-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/papertrail-0.10.4/bin" />
+      </SOURCES>
+    </library>
+    <library name="papertrail (v0.10.4, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/papertrail-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/papertrail-0.10.4/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/papertrail-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/papertrail-0.10.4/bin" />
+      </SOURCES>
+    </library>
+    <library name="papertrail-cli (v0.9.14, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/papertrail-cli-0.9.14" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/papertrail-cli-0.9.14" />
+      </SOURCES>
+    </library>
+    <library name="papertrail-cli (v0.9.14, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/papertrail-cli-0.9.14" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/papertrail-cli-0.9.14" />
+      </SOURCES>
+    </library>
     <library name="parallel (v1.11.2, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/parallel-1.11.2/lib" />
@@ -10078,6 +10150,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-3.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec (v3.7.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-3.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-3.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec (v3.7.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-3.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-3.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-core (v3.5.4, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.5.4/lib" />
@@ -10126,6 +10214,46 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.6.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.6.0/exe" />
+      </SOURCES>
+    </library>
+    <library name="rspec-core (v3.7.0, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.7.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.7.0/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.7.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.7.0/exe" />
+      </SOURCES>
+    </library>
+    <library name="rspec-core (v3.7.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.7.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.7.0/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.7.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.7.0/exe" />
+      </SOURCES>
+    </library>
+    <library name="rspec-core (v3.7.1, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.7.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.7.1/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.7.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.7.1/exe" />
+      </SOURCES>
+    </library>
+    <library name="rspec-core (v3.7.1, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.7.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.7.1/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.7.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.7.1/exe" />
       </SOURCES>
     </library>
     <library name="rspec-expectations (v3.5.0, ruby-2.0.0-p648) [gem]">
