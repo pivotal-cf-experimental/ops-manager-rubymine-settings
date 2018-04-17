@@ -912,18 +912,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/addressable-2.4.0/data" />
       </SOURCES>
     </library>
-    <library name="addressable (v2.5.0, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/addressable-2.5.0/tasks" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/addressable-2.5.0/data" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/addressable-2.5.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/addressable-2.5.0/tasks" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/addressable-2.5.0/data" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/addressable-2.5.0/lib" />
-      </SOURCES>
-    </library>
     <library name="addressable (v2.5.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/addressable-2.5.1/lib" />
@@ -1338,14 +1326,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ast-2.3.0/lib" />
       </SOURCES>
     </library>
-    <library name="ast (v2.4.0, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ast-2.4.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ast-2.4.0/lib" />
-      </SOURCES>
-    </library>
     <library name="attr_encrypted (v3.0.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/attr_encrypted-3.0.0/certs" />
@@ -1556,14 +1536,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-2.11.14/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk (v2.11.19, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-2.11.19/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-2.11.19/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk (v2.2.28, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-2.2.28/lib" />
@@ -1682,18 +1654,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.14/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.14/apis" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.14/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-core (v2.11.19, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.19/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.19/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.19/apis" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.19/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.19/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.19/apis" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v2.2.0, ruby-2.0.0-p648) [gem]">
@@ -1850,14 +1810,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-resources-2.11.14/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-resources (v2.11.19, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-resources-2.11.19/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-resources-2.11.19/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-resources (v2.2.0, ruby-2.0.0-p648) [gem]">
@@ -2488,34 +2440,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/blobstore_client-1.3262.24.0/config" />
       </SOURCES>
     </library>
-    <library name="bosh-template (v1.3262.24.0, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh-template-1.3262.24.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh-template-1.3262.24.0/bin" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh-template-1.3262.24.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh-template-1.3262.24.0/bin" />
-      </SOURCES>
-    </library>
-    <library name="bosh_cli (v1.3262.26.0, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_cli-1.3262.26.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_cli-1.3262.26.0/bin" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_cli-1.3262.26.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_cli-1.3262.26.0/bin" />
-      </SOURCES>
-    </library>
-    <library name="bosh_common (v1.3262.24.0, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_common-1.3262.24.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_common-1.3262.24.0/lib" />
-      </SOURCES>
-    </library>
     <library name="brakeman (v3.4.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/brakeman-3.4.1/lib" />
@@ -2800,16 +2724,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/capybara-2.15.4/lib" />
       </SOURCES>
     </library>
-    <library name="capybara (v2.18.0, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/capybara-2.18.0/.yard" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/capybara-2.18.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/capybara-2.18.0/.yard" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/capybara-2.18.0/lib" />
-      </SOURCES>
-    </library>
     <library name="capybara (v2.5.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/capybara-2.5.0/lib" />
@@ -3000,16 +2914,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/cf-uaa-lib-3.9.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="cf-uaac (v3.1.7, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/cf-uaac-3.1.7/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/cf-uaac-3.1.7/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/cf-uaac-3.1.7/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/cf-uaac-3.1.7/lib" />
       </SOURCES>
     </library>
     <library name="cf-uaac (v3.4.0, ruby-2.0.0-p648) [gem]">
@@ -5430,14 +5334,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/fakefs-0.11.2/lib" />
       </SOURCES>
     </library>
-    <library name="fakefs (v0.13.3, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/fakefs-0.13.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/fakefs-0.13.3/lib" />
-      </SOURCES>
-    </library>
     <library name="fakefs (v0.8.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/fakefs-0.8.1/lib" />
@@ -5508,14 +5404,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/faraday-0.13.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="faraday (v0.14.0, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/faraday-0.14.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/faraday-0.14.0/lib" />
       </SOURCES>
     </library>
     <library name="faraday (v0.9.2, ruby-2.0.0-p648) [gem]">
@@ -7918,14 +7806,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/hashdiff-0.3.6/lib" />
-      </SOURCES>
-    </library>
-    <library name="hashdiff (v0.3.7, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/hashdiff-0.3.7/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/hashdiff-0.3.7/lib" />
       </SOURCES>
     </library>
     <library name="hashery (v2.1.2, ruby-2.0.0-p648) [gem]">
@@ -11612,24 +11492,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nio4r-2.3.0/tasks" />
       </SOURCES>
     </library>
-    <library name="nokogiri (v1.7.0.1, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.7.0.1/patches" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.7.0.1/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.7.0.1/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.7.0.1/suppressions" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.7.0.1/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.7.0.1/tasks" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.7.0.1/patches" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.7.0.1/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.7.0.1/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.7.0.1/suppressions" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.7.0.1/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.7.0.1/tasks" />
-      </SOURCES>
-    </library>
     <library name="nokogiri (v1.7.2, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.7.2/bin" />
@@ -12344,16 +12206,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/parser-2.4.0.2/bin" />
       </SOURCES>
     </library>
-    <library name="parser (v2.5.0.4, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/parser-2.5.0.4/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/parser-2.5.0.4/bin" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/parser-2.5.0.4/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/parser-2.5.0.4/bin" />
-      </SOURCES>
-    </library>
     <library name="parslet (v1.8.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/parslet-1.8.0/example" />
@@ -12922,16 +12774,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/pry-0.11.2/lib" />
       </SOURCES>
     </library>
-    <library name="pry (v0.11.3, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/pry-0.11.3/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/pry-0.11.3/bin" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/pry-0.11.3/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/pry-0.11.3/bin" />
-      </SOURCES>
-    </library>
     <library name="pry-rails (v0.3.4, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/pry-rails-0.3.4/lib" />
@@ -13120,18 +12962,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/public_suffix-3.0.1/data" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/public_suffix-3.0.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/public_suffix-3.0.1/bin" />
-      </SOURCES>
-    </library>
-    <library name="public_suffix (v3.0.2, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/public_suffix-3.0.2/data" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/public_suffix-3.0.2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/public_suffix-3.0.2/bin" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/public_suffix-3.0.2/data" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/public_suffix-3.0.2/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/public_suffix-3.0.2/bin" />
       </SOURCES>
     </library>
     <library name="quiet_assets (v1.1.0, ruby-2.0.0-p648) [gem]">
@@ -13928,16 +13758,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rainbow-2.1.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="rainbow (v2.2.1, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rainbow-2.2.1/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rainbow-2.2.1/ext" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rainbow-2.2.1/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rainbow-2.2.1/ext" />
       </SOURCES>
     </library>
     <library name="rainbow (v2.2.2, ruby-2.0.0-p648) [gem]">
@@ -15670,20 +15490,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.38.0/assets" />
       </SOURCES>
     </library>
-    <library name="rubocop (v0.47.1, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.47.1/config" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.47.1/assets" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.47.1/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.47.1/bin" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.47.1/config" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.47.1/assets" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.47.1/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.47.1/bin" />
-      </SOURCES>
-    </library>
     <library name="rubocop (v0.49.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.49.1/assets" />
@@ -15850,20 +15656,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.52.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.52.1/config" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.52.1/assets" />
-      </SOURCES>
-    </library>
-    <library name="rubocop (v0.54.0, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.54.0/config" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.54.0/assets" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.54.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.54.0/bin" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.54.0/config" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.54.0/assets" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.54.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.54.0/bin" />
       </SOURCES>
     </library>
     <library name="ruby-debug-ide (v0.6.0, ruby-2.0.0-p648) [gem]">
@@ -17864,16 +17656,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/unicode-display_width-1.0.2/data" />
       </SOURCES>
     </library>
-    <library name="unicode-display_width (v1.1.3, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/unicode-display_width-1.1.3/data" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/unicode-display_width-1.1.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/unicode-display_width-1.1.3/data" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/unicode-display_width-1.1.3/lib" />
-      </SOURCES>
-    </library>
     <library name="unicode-display_width (v1.2.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/unicode-display_width-1.2.1/data" />
@@ -18168,16 +17950,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/webmock-3.0.1/minitest" />
       </SOURCES>
     </library>
-    <library name="webmock (v3.3.0, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/webmock-3.3.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/webmock-3.3.0/minitest" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/webmock-3.3.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/webmock-3.3.0/minitest" />
-      </SOURCES>
-    </library>
     <library name="websocket-driver (v0.6.5, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/websocket-driver/0.6.5" />
@@ -18354,14 +18126,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/xpath-2.1.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="xpath (v3.0.0, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/xpath-3.0.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/xpath-3.0.0/lib" />
       </SOURCES>
     </library>
     <library name="xray (v1.1, ruby-2.0.0-p648) [gem]">
