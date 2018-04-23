@@ -33,6 +33,7 @@
       <mapping ext="10" type="Bash" />
       <mapping ext="0" type="Bash" />
       <mapping ext="12" type="Bash" />
+      <mapping pattern="Dockerfile-for-manifest-generation" type="Dockerfile" />
       <mapping pattern="Dockerfile-for-bosh-compilation" type="Dockerfile" />
       <mapping pattern="dell_azure_stack" type="PLAIN_TEXT" />
       <mapping pattern="init_d_nginx" type="PLAIN_TEXT" />
