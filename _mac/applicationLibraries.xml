@@ -2896,6 +2896,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/capybara-2.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="capybara (v3.0.2, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/capybara-3.0.2/.yard" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/capybara-3.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/capybara-3.0.2/.yard" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/capybara-3.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="capybara-selenium (v0.0.6, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/capybara-selenium-0.0.6/lib" />
@@ -14048,6 +14058,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rack-test-0.8.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-test (v1.0.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rack-test-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rack-test-1.0.0/lib" />
       </SOURCES>
     </library>
     <library name="rails (v4.2.10, ruby-2.0.0-p648) [gem]">
