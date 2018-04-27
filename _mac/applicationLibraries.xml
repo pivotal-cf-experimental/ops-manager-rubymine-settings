@@ -5116,12 +5116,14 @@
     </library>
     <library name="ffi (v1.9.10, ruby-2.3.4-p301) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.10" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.10/gen" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.10/libtest" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.10/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.10/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.10" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.10/gen" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.10/libtest" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.10/lib" />
@@ -5248,12 +5250,14 @@
     </library>
     <library name="ffi (v1.9.21, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.21" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.21/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.21/libtest" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.21/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.21/gen" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.21" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.21/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.21/libtest" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.21/ext" />
@@ -8090,6 +8094,7 @@
     </library>
     <library name="json (v1.8.3, ruby-2.3.4-p301) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-1.8.3/data" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-1.8.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-1.8.3/tests" />
@@ -8099,6 +8104,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-1.8.3/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-1.8.3/data" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-1.8.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-1.8.3/tests" />
@@ -10824,6 +10830,7 @@
     </library>
     <library name="nokogiri (v1.7.2, ruby-2.3.4-p301) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.7.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.7.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.7.2/patches" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.7.2/lib" />
@@ -10832,6 +10839,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.7.2/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.7.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.7.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.7.2/patches" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.7.2/lib" />
@@ -13260,11 +13268,13 @@
     </library>
     <library name="rb-fsevent (v0.9.7, ruby-2.3.4-p301) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.7" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rb-fsevent-0.9.7/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rb-fsevent-0.9.7/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rb-fsevent-0.9.7/bin" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.9.7" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rb-fsevent-0.9.7/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rb-fsevent-0.9.7/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rb-fsevent-0.9.7/bin" />
@@ -13590,11 +13600,13 @@
     </library>
     <library name="redcarpet (v3.3.4, ruby-2.3.4-p301) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/redcarpet/3.3.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/redcarpet-3.3.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/redcarpet-3.3.4/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/redcarpet-3.3.4/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/redcarpet/3.3.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/redcarpet-3.3.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/redcarpet-3.3.4/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/redcarpet-3.3.4/lib" />
