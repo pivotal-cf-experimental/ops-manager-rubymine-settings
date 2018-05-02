@@ -2188,6 +2188,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/azure_mgmt_compute-0.10.0/lib" />
       </SOURCES>
     </library>
+    <library name="azure_mgmt_compute (v0.17.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/azure_mgmt_compute-0.17.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/azure_mgmt_compute-0.17.0/lib" />
+      </SOURCES>
+    </library>
     <library name="azure_mgmt_network (v0.10.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/azure_mgmt_network-0.10.0/lib" />
@@ -2218,6 +2226,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/azure_mgmt_network-0.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="azure_mgmt_network (v0.16.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/azure_mgmt_network-0.16.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/azure_mgmt_network-0.16.0/lib" />
       </SOURCES>
     </library>
     <library name="azure_mgmt_resources (v0.10.0, ruby-2.0.0-p648) [gem]">
@@ -2252,6 +2268,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/azure_mgmt_resources-0.10.0/lib" />
       </SOURCES>
     </library>
+    <library name="azure_mgmt_resources (v0.16.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/azure_mgmt_resources-0.16.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/azure_mgmt_resources-0.16.0/lib" />
+      </SOURCES>
+    </library>
     <library name="azure_mgmt_storage (v0.10.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/azure_mgmt_storage-0.10.0/lib" />
@@ -2282,6 +2306,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/azure_mgmt_storage-0.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="azure_mgmt_storage (v0.16.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/azure_mgmt_storage-0.16.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/azure_mgmt_storage-0.16.0/lib" />
       </SOURCES>
     </library>
     <library name="backports (v3.6.7, ruby-2.0.0-p648) [gem]">
@@ -4818,6 +4850,18 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/domain_name-0.5.20170404/tool" />
       </SOURCES>
     </library>
+    <library name="domain_name (v0.5.20180417, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/domain_name-0.5.20180417/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/domain_name-0.5.20180417/tool" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/domain_name-0.5.20180417/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/domain_name-0.5.20180417/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/domain_name-0.5.20180417/tool" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/domain_name-0.5.20180417/data" />
+      </SOURCES>
+    </library>
     <library name="em-http-request (v1.1.5, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/em-http-request-1.1.5/benchmarks" />
@@ -5174,6 +5218,7 @@
     </library>
     <library name="eventmachine (v1.2.5, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/eventmachine/1.2.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/eventmachine-1.2.5/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/eventmachine-1.2.5/java" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/eventmachine-1.2.5/rakelib" />
@@ -5181,6 +5226,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/eventmachine-1.2.5/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/eventmachine/1.2.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/eventmachine-1.2.5/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/eventmachine-1.2.5/java" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/eventmachine-1.2.5/rakelib" />
@@ -5564,6 +5610,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/faraday-0.12.1/lib" />
       </SOURCES>
     </library>
+    <library name="faraday (v0.12.2, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/faraday-0.12.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/faraday-0.12.2/lib" />
+      </SOURCES>
+    </library>
     <library name="faraday (v0.13.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/faraday-0.13.1/lib" />
@@ -5894,11 +5948,13 @@
     </library>
     <library name="ffi (v1.9.23, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.23" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.23/samples" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.23/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.23/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.23" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.23/samples" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.23/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.23/lib" />
@@ -8354,12 +8410,14 @@
     </library>
     <library name="http_parser.rb (v0.6.0, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/http_parser.rb-0.6.0/tasks" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/http_parser.rb-0.6.0/bench" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/http_parser.rb-0.6.0/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/http_parser.rb-0.6.0/tasks" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/http_parser.rb-0.6.0/bench" />
@@ -9142,6 +9200,7 @@
     </library>
     <library name="json (v1.8.6, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-1.8.6/diagrams" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-1.8.6/tests" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-1.8.6/lib" />
@@ -9151,6 +9210,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-1.8.6/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-1.8.6/diagrams" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-1.8.6/tests" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-1.8.6/lib" />
@@ -9268,6 +9328,7 @@
     </library>
     <library name="json_pure (v1.8.6, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json_pure/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json_pure-1.8.6/java" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json_pure-1.8.6/data" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json_pure-1.8.6/tools" />
@@ -9277,6 +9338,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json_pure-1.8.6/tests" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json_pure/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json_pure-1.8.6/java" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json_pure-1.8.6/data" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json_pure-1.8.6/tools" />
@@ -11010,6 +11072,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ms_rest-0.6.4/lib" />
       </SOURCES>
     </library>
+    <library name="ms_rest (v0.7.2, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ms_rest-0.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ms_rest-0.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="ms_rest_azure (v0.10.6, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ms_rest_azure-0.10.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ms_rest_azure-0.10.6/lib" />
+      </SOURCES>
+    </library>
     <library name="ms_rest_azure (v0.7.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ms_rest_azure-0.7.0/lib" />
@@ -11326,11 +11404,13 @@
     </library>
     <library name="mysql2 (v0.4.9, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/mysql2/0.4.9" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/mysql2-0.4.9/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/mysql2-0.4.9/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/mysql2-0.4.9/support" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/mysql2/0.4.9" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/mysql2-0.4.9/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/mysql2-0.4.9/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/mysql2-0.4.9/support" />
@@ -18610,6 +18690,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/unf_ext-0.0.7.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/unf_ext-0.0.7.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="unf_ext (v0.0.7.5, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/unf_ext-0.0.7.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/unf_ext-0.0.7.5/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/unf_ext-0.0.7.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/unf_ext-0.0.7.5/ext" />
       </SOURCES>
     </library>
     <library name="unicode-display_width (v1.0.2, ruby-2.0.0-p648) [gem]">
