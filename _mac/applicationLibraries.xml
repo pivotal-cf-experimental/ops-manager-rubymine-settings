@@ -2304,6 +2304,7 @@
     </library>
     <library name="eventmachine (v1.2.3, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/eventmachine/1.2.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/eventmachine-1.2.3/rakelib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/eventmachine-1.2.3/java" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/eventmachine-1.2.3/tests" />
@@ -2311,6 +2312,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/eventmachine-1.2.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/eventmachine/1.2.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/eventmachine-1.2.3/rakelib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/eventmachine-1.2.3/java" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/eventmachine-1.2.3/tests" />
@@ -2684,12 +2686,14 @@
     </library>
     <library name="ffi (v1.9.21, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.21" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.21/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.21/libtest" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.21/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.21/gen" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi/1.9.21" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.21/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.21/libtest" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-1.9.21/ext" />
@@ -5012,11 +5016,13 @@
     </library>
     <library name="mysql2 (v0.4.6, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/mysql2/0.4.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/mysql2-0.4.6/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/mysql2-0.4.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/mysql2-0.4.6/support" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/mysql2/0.4.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/mysql2-0.4.6/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/mysql2-0.4.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/mysql2-0.4.6/support" />
@@ -6882,11 +6888,13 @@
     </library>
     <library name="redcarpet (v3.4.0, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/redcarpet/3.4.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/redcarpet-3.4.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/redcarpet-3.4.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/redcarpet-3.4.0/bin" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/redcarpet/3.4.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/redcarpet-3.4.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/redcarpet-3.4.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/redcarpet-3.4.0/bin" />
