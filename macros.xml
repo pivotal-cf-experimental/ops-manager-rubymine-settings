@@ -1,27 +1,9 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="Run all tests in file">
+    <macro name="Run All Tests in File">
       <action id="EditorTextEnd" />
       <action id="RunClass" />
       <action id="Back" />
     </macro>
-    <macro name="block_paren">
-      <typing text-keycode="0:1">(</typing>
-      <action id="EditorLeft" />
-      <action id="EditorDelete" />
-      <action id="ReformatCode" />
-    </macro>
-    <macro name="&lt;noname&gt;">
-      <typing text-keycode="66:1;76:0;79:0;67:0;75:0;82:0;65:0;73:0;78:0;46:0;80:0;82:0;79:0;84:0;79:0;84:0;89:0;80:0;69:0;46:0">Blockrain.prototype.</typing>
-      <action id="EditorNextWord" />
-      <action id="EditorRightWithSelection" />
-      <typing text-keycode="32:0;61:0">&amp;#x20;=</typing>
-      <action id="EditorLineEnd" />
-      <action id="EditorBackSpace" />
-      <typing text-keycode="59:0">;</typing>
-      <action id="EditorDown" />
-      <action id="EditorLineStart" />
-    </macro>
-    <macro name="open_keyboard_shortcuts" />
   </component>
 </application>
