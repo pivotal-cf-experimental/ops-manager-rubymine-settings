@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="provision-azure-stack-environment" type="Bash" />
       <mapping ext="ova" type="XML" />
     </extensionMap>
   </component>
