@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="provision-azure-stack-environment" type="Bash" />
       <mapping ext="ova" type="XML" />
+      <mapping pattern="blue" type="YAML" />
     </extensionMap>
   </component>
 </application>
