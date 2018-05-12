@@ -1,4 +1,7 @@
 <code_scheme name="Default" version="173">
+  <JSCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+  </JSCodeStyleSettings>
   <Ruby>
     <option name="INDENT_WHEN_CASES" value="true" />
   </Ruby>
@@ -14,6 +17,8 @@
   </codeStyleSettings>
   <codeStyleSettings language="ruby">
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+    <option name="SPACE_WITHIN_BRACES" value="true" />
+    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="USE_RELATIVE_INDENTS" value="false" />
