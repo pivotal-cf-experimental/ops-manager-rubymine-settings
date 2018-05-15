@@ -18,5 +18,6 @@
     <mask>*.mxml</mask>
     <mask>*.rb</mask>
     <mask>*spec.js</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
