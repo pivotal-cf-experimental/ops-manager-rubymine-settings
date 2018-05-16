@@ -3236,11 +3236,13 @@
     </library>
     <library name="ffi-yajl (v2.3.1, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi-yajl/2.3.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-yajl-2.3.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-yajl-2.3.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-yajl-2.3.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/ffi-yajl/2.3.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-yajl-2.3.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-yajl-2.3.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ffi-yajl-2.3.1/lib" />
@@ -4210,6 +4212,7 @@
     </library>
     <library name="gherkin (v2.12.2, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/gherkin/2.12.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/gherkin-2.12.2/ragel" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/gherkin-2.12.2/features" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/gherkin-2.12.2/js" />
@@ -4218,6 +4221,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/gherkin-2.12.2/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/gherkin/2.12.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/gherkin-2.12.2/ragel" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/gherkin-2.12.2/features" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/gherkin-2.12.2/js" />
@@ -5190,10 +5194,12 @@
     </library>
     <library name="libyajl2 (v1.2.0, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/libyajl2/1.2.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/libyajl2-1.2.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/libyajl2-1.2.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/libyajl2/1.2.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/libyajl2-1.2.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/libyajl2-1.2.0/lib" />
       </SOURCES>
@@ -8320,14 +8326,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-3.5.0/lib" />
       </SOURCES>
     </library>
-    <library name="rspec (v3.6.0, ruby-2.3.3-p222) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-3.6.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-3.6.0/lib" />
-      </SOURCES>
-    </library>
     <library name="rspec-core (v3.4.4, ruby-2.3.6-p384) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.4.4/lib" />
@@ -8356,16 +8354,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.5.4/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.5.4/exe" />
-      </SOURCES>
-    </library>
-    <library name="rspec-core (v3.6.0, ruby-2.3.3-p222) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.6.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.6.0/exe" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.6.0/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rspec-core-3.6.0/exe" />
       </SOURCES>
     </library>
     <library name="rspec-expectations (v3.4.0, ruby-2.3.6-p384) [gem]">
@@ -10298,6 +10286,7 @@
     </library>
     <library name="yajl-ruby (v1.2.3, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/yajl-ruby/1.2.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.2.3/script" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.2.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.2.3/benchmark" />
@@ -10305,6 +10294,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.2.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/yajl-ruby/1.2.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.2.3/script" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.2.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.2.3/benchmark" />
@@ -10314,6 +10304,7 @@
     </library>
     <library name="yajl-ruby (v1.3.1, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/yajl-ruby/1.3.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.3.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.3.1/script" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.3.1/benchmark" />
@@ -10321,6 +10312,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.3.1/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/yajl-ruby/1.3.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.3.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.3.1/script" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.3.1/benchmark" />
