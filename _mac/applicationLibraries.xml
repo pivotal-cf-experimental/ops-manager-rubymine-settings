@@ -2150,6 +2150,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/cookiejar-0.3.3/lib" />
       </SOURCES>
     </library>
+    <library name="cowsay (v0.3.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/cowsay-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/cowsay-0.3.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/cowsay-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/cowsay-0.3.0/bin" />
+      </SOURCES>
+    </library>
     <library name="crack (v0.4.3, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/crack-0.4.3/lib" />
@@ -5294,6 +5304,20 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/logging-2.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="lolcat (v99.9.11, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/lolcat-99.9.11/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/lolcat-99.9.11/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/lolcat-99.9.11/ass" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/lolcat-99.9.11/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/lolcat-99.9.11/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/lolcat-99.9.11/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/lolcat-99.9.11/ass" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/lolcat-99.9.11/man" />
+      </SOURCES>
+    </library>
     <library name="loofah (v2.2.2, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/loofah-2.2.2/lib" />
@@ -5336,6 +5360,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/mail-2.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="manpages (v0.6.1, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/manpages-0.6.1/rbenv" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/manpages-0.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/manpages-0.6.1/rbenv" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/manpages-0.6.1/lib" />
       </SOURCES>
     </library>
     <library name="memoist (v0.14.0, ruby-2.3.6-p384) [gem]">
@@ -6658,6 +6692,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/padrino-support-0.13.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="paint (v2.0.1, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/paint-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/paint-2.0.1/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/paint-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/paint-2.0.1/data" />
       </SOURCES>
     </library>
     <library name="papertrail (v0.10.4, ruby-2.3.3-p222) [gem]">
