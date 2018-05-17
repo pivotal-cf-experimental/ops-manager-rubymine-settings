@@ -18,5 +18,6 @@
     <mask>*.rb</mask>
     <mask>*spec.js</mask>
     <mask>*.js</mask>
+    <mask>*.</mask>
   </component>
 </application>
