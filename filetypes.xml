@@ -1,7 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="provision-azure-stack-environment" type="Bash" />
       <mapping ext="ova" type="XML" />
+      <mapping pattern="cerulean" type="YAML" />
+      <mapping pattern="cobalt" type="YAML" />
+      <mapping pattern="blue" type="YAML" />
     </extensionMap>
   </component>
 </application>
