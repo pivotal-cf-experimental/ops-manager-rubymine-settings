@@ -16700,6 +16700,7 @@
     </library>
     <library name="json_pure (v1.8.6, ruby-2.4.4-p296) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json_pure/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json_pure-1.8.6/java" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json_pure-1.8.6/data" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json_pure-1.8.6/tools" />
@@ -16709,6 +16710,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json_pure-1.8.6/tests" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json_pure/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json_pure-1.8.6/java" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json_pure-1.8.6/data" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json_pure-1.8.6/tools" />
