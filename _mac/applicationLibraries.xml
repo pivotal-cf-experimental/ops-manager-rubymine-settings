@@ -2166,6 +2166,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-2.11.51/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk (v2.11.55, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-2.11.55/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-2.11.55/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.2.28, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-2.2.28/lib" />
@@ -2624,6 +2632,18 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.51/apis" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.51/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.51/bin" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v2.11.55, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.55/apis" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.55/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.55/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.55/apis" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.55/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.55/bin" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v2.2.0, ruby-2.0.0-p648) [gem]">
@@ -3452,6 +3472,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-resources-2.11.51/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resources (v2.11.55, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-resources-2.11.55/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-resources-2.11.55/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-resources (v2.2.0, ruby-2.0.0-p648) [gem]">
@@ -4836,6 +4864,62 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/blobstore_client-1.3262.24.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/blobstore_client-1.3262.24.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/blobstore_client-1.3262.24.0/config" />
+      </SOURCES>
+    </library>
+    <library name="bosh-template (v1.3098.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh-template-1.3098.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh-template-1.3098.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh-template-1.3098.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh-template-1.3098.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bosh-template (v1.3262.24.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh-template-1.3262.24.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh-template-1.3262.24.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh-template-1.3262.24.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh-template-1.3262.24.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="bosh_cli (v1.3098.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_cli-1.3098.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_cli-1.3098.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_cli-1.3098.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_cli-1.3098.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bosh_cli (v1.3262.26.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_cli-1.3262.26.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_cli-1.3262.26.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_cli-1.3262.26.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_cli-1.3262.26.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="bosh_common (v1.3098.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_common-1.3098.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_common-1.3098.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bosh_common (v1.3262.24.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_common-1.3262.24.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_common-1.3262.24.0/lib" />
       </SOURCES>
     </library>
     <library name="brakeman (v3.4.1, ruby-2.0.0-p648) [gem]">
