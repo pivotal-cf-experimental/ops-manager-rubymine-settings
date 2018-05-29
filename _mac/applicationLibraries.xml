@@ -944,6 +944,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-cloudformation-1.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-cloudformation (v1.5.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-cloudformation-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-cloudformation-1.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-cloudfront (v1.2.0, ruby-2.3.6-p384) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-cloudfront-1.2.0/lib" />
@@ -1022,6 +1030,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-codebuild-1.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-codebuild (v1.9.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-codebuild-1.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-codebuild-1.9.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-codecommit (v1.3.0, ruby-2.3.6-p384) [gem]">
@@ -1244,6 +1260,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-3.21.1/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-core (v3.21.2, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-3.21.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-3.21.2/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-costandusagereportservice (v1.0.1, ruby-2.3.6-p384) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-costandusagereportservice-1.0.1/lib" />
@@ -1348,6 +1372,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-ecs-1.12.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-ecs (v1.13.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-ecs-1.13.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-ecs-1.13.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-efs (v1.0.1, ruby-2.3.6-p384) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-efs-1.0.1/lib" />
@@ -1386,6 +1418,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-elasticloadbalancingv2-1.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-elasticloadbalancingv2 (v1.9.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-elasticloadbalancingv2-1.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-elasticloadbalancingv2-1.9.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-elasticsearchservice (v1.5.0, ruby-2.3.6-p384) [gem]">
@@ -1498,6 +1538,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-inspector-1.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-inspector (v1.4.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-inspector-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-inspector-1.4.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-iot (v1.6.0, ruby-2.3.6-p384) [gem]">
@@ -1796,6 +1844,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-rds-1.18.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-rds (v1.19.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-rds-1.19.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-rds-1.19.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-redshift (v1.2.0, ruby-2.3.6-p384) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-redshift-1.2.0/lib" />
@@ -1950,6 +2006,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-s3-1.12.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-s3 (v1.13.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-s3-1.13.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-s3-1.13.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-sagemaker (v1.8.0, ruby-2.3.6-p384) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-sagemaker-1.8.0/lib" />
@@ -1972,6 +2036,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-secretsmanager-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-secretsmanager (v1.6.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-secretsmanager-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-secretsmanager-1.6.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-serverlessapplicationrepository (v1.2.0, ruby-2.3.6-p384) [gem]">
@@ -7726,11 +7798,13 @@
     </library>
     <library name="nio4r (v2.3.0, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nio4r/2.3.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nio4r-2.3.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nio4r-2.3.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nio4r-2.3.0/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nio4r/2.3.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nio4r-2.3.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nio4r-2.3.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nio4r-2.3.0/tasks" />
