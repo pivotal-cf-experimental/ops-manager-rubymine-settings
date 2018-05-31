@@ -728,6 +728,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-partitions-1.87.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.88.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-partitions-1.88.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-partitions-1.88.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v1.60.2, ruby-2.3.6-p384) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-1.60.2/lib" />
@@ -878,6 +886,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-appstream-1.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-appstream (v1.8.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-appstream-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-appstream-1.8.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-appsync (v1.2.0, ruby-2.3.6-p384) [gem]">
@@ -1118,6 +1134,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-configservice-1.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-configservice (v1.11.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-configservice-1.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-configservice-1.11.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-connect (v1.0.0, ruby-2.3.6-p384) [gem]">
@@ -1512,6 +1536,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-glue-1.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-glue (v1.8.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-glue-1.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-glue-1.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-greengrass (v1.3.0, ruby-2.3.6-p384) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-greengrass-1.3.0/lib" />
@@ -1574,6 +1606,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-iot-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-iot (v1.7.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-iot-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-iot-1.7.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-iot1clickdevicesservice (v1.0.0, ruby-2.3.6-p384) [gem]">
@@ -1832,6 +1872,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-organizations-1.9.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-pi (v1.0.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-pi-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-pi-1.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-pinpoint (v1.4.0, ruby-2.3.6-p384) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-pinpoint-1.4.0/lib" />
@@ -2008,6 +2056,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-resources-3.16.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-resources-3.16.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resources (v3.17.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-resources-3.17.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-resources-3.17.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-resources-3.17.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-resources-3.17.0/bin" />
       </SOURCES>
     </library>
     <library name="aws-sdk-route53 (v1.9.0, ruby-2.3.6-p384) [gem]">
