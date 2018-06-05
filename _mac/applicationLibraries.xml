@@ -13094,6 +13094,7 @@
     </library>
     <library name="eventmachine (v1.2.7, ruby-2.4.4-p296) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/eventmachine/1.2.7" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/eventmachine-1.2.7/java" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/eventmachine-1.2.7/rakelib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/eventmachine-1.2.7/tests" />
@@ -13101,6 +13102,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/eventmachine-1.2.7/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/eventmachine/1.2.7" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/eventmachine-1.2.7/java" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/eventmachine-1.2.7/rakelib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/eventmachine-1.2.7/tests" />
@@ -18342,6 +18344,7 @@
     </library>
     <library name="json_pure (v1.8.6, ruby-2.4.4-p296) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json_pure/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json_pure-1.8.6/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json_pure-1.8.6/java" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json_pure-1.8.6/ext" />
@@ -18351,6 +18354,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json_pure-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json_pure/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json_pure-1.8.6/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json_pure-1.8.6/java" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json_pure-1.8.6/ext" />
@@ -28916,12 +28920,14 @@
     </library>
     <library name="thin (v1.7.2, ruby-2.4.4-p296) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/thin/1.7.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/thin-1.7.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/thin-1.7.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/thin-1.7.2/example" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/thin-1.7.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/thin/1.7.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/thin-1.7.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/thin-1.7.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/thin-1.7.2/example" />
