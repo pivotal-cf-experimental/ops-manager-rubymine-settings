@@ -1650,6 +1650,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-2.11.58/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk (v2.11.62, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-2.11.62/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-2.11.62/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk (v2.11.62, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-2.11.62/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-2.11.62/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk (v2.11.62, ruby-2.4.4-p296) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-2.11.62/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-2.11.62/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.2.28, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-2.2.28/lib" />
@@ -2860,6 +2884,42 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.58/apis" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.58/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.58/bin" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v2.11.62, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.62/apis" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.62/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.62/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.62/apis" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.62/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.62/bin" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v2.11.62, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.62/apis" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.62/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.62/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.62/apis" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.62/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.62/bin" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v2.11.62, ruby-2.4.4-p296) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.62/apis" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.62/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.62/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.62/apis" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.62/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.62/bin" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v2.2.0, ruby-2.3.3-p222) [gem]">
@@ -5200,6 +5260,30 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-resources-2.11.58/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resources (v2.11.62, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-resources-2.11.62/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-resources-2.11.62/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resources (v2.11.62, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-resources-2.11.62/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-resources-2.11.62/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resources (v2.11.62, ruby-2.4.4-p296) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-resources-2.11.62/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-resources-2.11.62/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-resources (v2.2.0, ruby-2.3.3-p222) [gem]">
@@ -16410,11 +16494,13 @@
     </library>
     <library name="nio4r (v2.1.0, ruby-2.4.4-p296) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.1.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nio4r-2.1.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nio4r-2.1.0/tasks" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nio4r-2.1.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.1.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nio4r-2.1.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nio4r-2.1.0/tasks" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nio4r-2.1.0/lib" />
