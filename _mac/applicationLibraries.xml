@@ -23260,6 +23260,7 @@
     </library>
     <library name="json (v1.8.6, ruby-2.4.4-p296) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-1.8.6/diagrams" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-1.8.6/tests" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-1.8.6/lib" />
@@ -23269,6 +23270,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-1.8.6/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-1.8.6/diagrams" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-1.8.6/tests" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-1.8.6/lib" />
