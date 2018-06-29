@@ -13774,10 +13774,12 @@
     </library>
     <library name="fast_blank (v1.0.0, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/fast_blank/1.0.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fast_blank-1.0.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fast_blank-1.0.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/fast_blank/1.0.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fast_blank-1.0.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fast_blank-1.0.0/lib" />
       </SOURCES>
@@ -24124,12 +24126,14 @@
     </library>
     <library name="puma (v3.11.4, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/3.11.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/puma-3.11.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/puma-3.11.4/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/puma-3.11.4/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/puma-3.11.4/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/puma/3.11.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/puma-3.11.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/puma-3.11.4/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/puma-3.11.4/lib" />
@@ -25758,11 +25762,13 @@
     </library>
     <library name="rb-fsevent (v0.10.3, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.10.3/lib" />
@@ -26276,11 +26282,13 @@
     </library>
     <library name="redcarpet (v3.2.3, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/redcarpet/3.2.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/redcarpet-3.2.3/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/redcarpet-3.2.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/redcarpet-3.2.3/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/redcarpet/3.2.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/redcarpet-3.2.3/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/redcarpet-3.2.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/redcarpet-3.2.3/ext" />
@@ -29620,10 +29628,12 @@
     </library>
     <library name="therubyracer (v0.12.3, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/therubyracer/0.12.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/therubyracer-0.12.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/therubyracer-0.12.3/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/therubyracer/0.12.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/therubyracer-0.12.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/therubyracer-0.12.3/ext" />
       </SOURCES>
