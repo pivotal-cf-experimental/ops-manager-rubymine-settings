@@ -15214,6 +15214,7 @@
     </library>
     <library name="eventmachine (v1.2.3, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/eventmachine/1.2.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/eventmachine-1.2.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/eventmachine-1.2.3/tests" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/eventmachine-1.2.3/lib" />
@@ -15221,6 +15222,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/eventmachine-1.2.3/java" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/eventmachine/1.2.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/eventmachine-1.2.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/eventmachine-1.2.3/tests" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/eventmachine-1.2.3/lib" />
@@ -24208,11 +24210,13 @@
     </library>
     <library name="mysql2 (v0.4.6, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/mysql2/0.4.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.6/support" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.6/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/mysql2/0.4.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.6/support" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.6/lib" />
@@ -34350,12 +34354,14 @@
     </library>
     <library name="thin (v1.7.0, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/thin/1.7.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/thin-1.7.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/thin-1.7.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/thin-1.7.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/thin-1.7.0/example" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/thin/1.7.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/thin-1.7.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/thin-1.7.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/thin-1.7.0/lib" />
