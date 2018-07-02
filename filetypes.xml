@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="ssh_onto_opsmanager_vm" type="Bash" />
       <mapping pattern="provision-azure-stack-environment" type="Bash" />
+      <mapping pattern="*.md.erb" type="Markdown" />
       <mapping ext="tgz" type="PLAIN_TEXT" />
       <mapping ext="ova" type="XML" />
       <mapping pattern="cobalt" type="YAML" />
