@@ -1806,6 +1806,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/blobstore_client-1.3262.24.0/lib" />
       </SOURCES>
     </library>
+    <library name="bosh-template (v1.3262.24.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh-template-1.3262.24.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh-template-1.3262.24.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bosh_cli (v1.3262.26.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_cli-1.3262.26.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_cli-1.3262.26.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="bosh_common (v1.3262.24.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_common-1.3262.24.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_common-1.3262.24.0/lib" />
+      </SOURCES>
+    </library>
     <library name="brakeman (v3.6.2, ruby-2.5.1-p57) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/brakeman-3.6.2/lib" />
@@ -1910,12 +1934,28 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/cf-uaa-lib-3.2.5/lib" />
       </SOURCES>
     </library>
+    <library name="cf-uaa-lib (v3.6.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/cf-uaa-lib-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/cf-uaa-lib-3.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="cf-uaa-lib (v3.9.0, ruby-2.5.1-p57) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/cf-uaa-lib-3.9.0/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/cf-uaa-lib-3.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="cf-uaac (v3.4.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/cf-uaac-3.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/cf-uaac-3.4.0/lib" />
       </SOURCES>
     </library>
     <library name="cf-uaac (v4.0.0, ruby-2.5.1-p57) [gem]">
@@ -2326,6 +2366,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/erubis-2.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="eventmachine (v1.0.9.1, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/eventmachine-1.0.9.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/eventmachine-1.0.9.1/lib" />
       </SOURCES>
     </library>
     <library name="eventmachine (v1.2.3, ruby-2.5.1-p57) [gem]">
@@ -3156,6 +3204,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-1.8.6/lib" />
       </SOURCES>
     </library>
+    <library name="json_pure (v1.8.3, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json_pure-1.8.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json_pure-1.8.3/lib" />
+      </SOURCES>
+    </library>
     <library name="json_pure (v1.8.6, ruby-2.5.1-p57) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json_pure-1.8.6/lib" />
@@ -3772,6 +3828,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.8.2/lib" />
       </SOURCES>
     </library>
+    <library name="nokogiri (v1.8.4, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.8.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.8.4/lib" />
+      </SOURCES>
+    </library>
     <library name="oauth2 (v1.4.0, ruby-2.5.1-p57) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/oauth2-1.4.0/lib" />
@@ -4090,6 +4154,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/quiet_assets-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack (v1.5.5, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rack-1.5.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rack-1.5.5/lib" />
       </SOURCES>
     </library>
     <library name="rack (v1.6.4, ruby-2.5.1-p57) [gem]">
