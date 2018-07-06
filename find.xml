@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.rb" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,10 +16,10 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*_spec.rb</mask>
-      <mask>*.rb</mask>
       <mask>*.sh</mask>
       <mask>*.js</mask>
       <mask>*spec.rb</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>
