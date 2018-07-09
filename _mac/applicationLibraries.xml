@@ -298,14 +298,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/activesupport-5.0.4/lib" />
       </SOURCES>
     </library>
-    <library name="activesupport (v5.1.2, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/activesupport-5.1.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/activesupport-5.1.2/lib" />
-      </SOURCES>
-    </library>
     <library name="activesupport (v5.1.4, ruby-2.3.6-p384) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/activesupport-5.1.4/lib" />
@@ -718,14 +710,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-2.10.82/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk (v2.11.38, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-2.11.38/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-2.11.38/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk (v2.2.28, ruby-2.3.6-p384) [gem]">
@@ -1394,14 +1378,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.10.82/lib" />
-      </SOURCES>
-    </library>
-    <library name="aws-sdk-core (v2.11.38, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.38/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-core-2.11.38/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v2.2.0, ruby-2.5.1-p57) [gem]">
@@ -2816,14 +2792,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-resources-2.10.82/lib" />
       </SOURCES>
     </library>
-    <library name="aws-sdk-resources (v2.11.38, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-resources-2.11.38/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-resources-2.11.38/lib" />
-      </SOURCES>
-    </library>
     <library name="aws-sdk-resources (v2.2.0, ruby-2.5.1-p57) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-resources-2.2.0/lib" />
@@ -3730,30 +3698,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bookbindery-10.1.14/master_middleman" />
       </SOURCES>
     </library>
-    <library name="bosh-template (v1.3262.24.0, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh-template-1.3262.24.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh-template-1.3262.24.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="bosh_cli (v1.3262.26.0, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_cli-1.3262.26.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_cli-1.3262.26.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="bosh_common (v1.3262.24.0, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_common-1.3262.24.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/bosh_common-1.3262.24.0/lib" />
-      </SOURCES>
-    </library>
     <library name="brakeman (v3.6.2, ruby-2.3.6-p384) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/brakeman-3.6.2/bundle" />
@@ -3894,14 +3838,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/capybara-3.0.3/.yard" />
       </SOURCES>
     </library>
-    <library name="capybara (v3.1.0, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/capybara-3.1.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/capybara-3.1.0/lib" />
-      </SOURCES>
-    </library>
     <library name="capybara-selenium (v0.0.6, ruby-2.3.6-p384) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/capybara-selenium-0.0.6/lib" />
@@ -3948,14 +3884,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/cf-uaa-lib-3.13.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="cf-uaa-lib (v3.14.3, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/cf-uaa-lib-3.14.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/cf-uaa-lib-3.14.3/lib" />
       </SOURCES>
     </library>
     <library name="cf-uaa-lib (v3.2.5, ruby-2.5.1-p57) [gem]">
@@ -4040,14 +3968,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/chefspec-4.6.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="childprocess (v0.7.1, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/childprocess-0.7.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/childprocess-0.7.1/lib" />
       </SOURCES>
     </library>
     <library name="childprocess (v0.8.0, ruby-2.3.6-p384) [gem]">
@@ -5166,14 +5086,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/fakefs-0.11.0/lib" />
       </SOURCES>
     </library>
-    <library name="fakefs (v0.11.3, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/fakefs-0.11.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/fakefs-0.11.3/lib" />
-      </SOURCES>
-    </library>
     <library name="fakefs (v0.13.3, ruby-2.3.6-p384) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fakefs-0.13.3/lib" />
@@ -5252,14 +5164,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/faraday-0.15.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="faraday (v0.15.2, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/faraday-0.15.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/faraday-0.15.2/lib" />
       </SOURCES>
     </library>
     <library name="faraday-cookie_jar (v0.0.6, ruby-2.3.6-p384) [gem]">
@@ -10258,14 +10162,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubocop-0.55.0/assets" />
       </SOURCES>
     </library>
-    <library name="rubocop (v0.56.0, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.56.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubocop-0.56.0/lib" />
-      </SOURCES>
-    </library>
     <library name="ruby-debug-ide (v0.6.0, ruby-2.3.6-p384) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ruby-debug-ide-0.6.0/ext" />
@@ -10530,22 +10426,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/selenium-webdriver-3.11.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="selenium-webdriver (v3.12.0, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/selenium-webdriver-3.12.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/selenium-webdriver-3.12.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="selenium-webdriver (v3.4.4, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/selenium-webdriver-3.4.4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/selenium-webdriver-3.4.4/lib" />
       </SOURCES>
     </library>
     <library name="selenium-webdriver (v3.7.0, ruby-2.3.6-p384) [gem]">
@@ -11524,14 +11404,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/xmlrpc-0.3.0/bin" />
       </SOURCES>
     </library>
-    <library name="xmlrpc (v0.3.0, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/xmlrpc-0.3.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/xmlrpc-0.3.0/lib" />
-      </SOURCES>
-    </library>
     <library name="xpath (v2.0.0, ruby-2.3.6-p384) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/xpath-2.0.0/lib" />
@@ -11600,14 +11472,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/xray-1.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="yajl-ruby (v1.2.2, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.2.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/yajl-ruby-1.2.2/lib" />
       </SOURCES>
     </library>
     <library name="yajl-ruby (v1.2.3, ruby-2.5.1-p57) [gem]">
