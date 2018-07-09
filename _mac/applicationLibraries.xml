@@ -34340,36 +34340,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/bin" />
       </SOURCES>
     </library>
-    <library name="stackprof (v0.2.10, ruby-2.3.6-p384) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/vendor" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/bin" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/vendor" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/bin" />
-      </SOURCES>
-    </library>
-    <library name="stackprof (v0.2.10, ruby-2.4.4-p296) [gem]">
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/stackprof/0.2.10" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/vendor" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/bin" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/stackprof/0.2.10" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/vendor" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/ext" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/bin" />
-      </SOURCES>
-    </library>
     <library name="stackprof (v0.2.10, ruby-2.5.1-p57) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/vendor" />
@@ -34440,6 +34410,34 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.11/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.11/vendor" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.11/lib" />
+      </SOURCES>
+    </library>
+    <library name="stackprof (v0.2.12, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/vendor" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/vendor" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/lib" />
+      </SOURCES>
+    </library>
+    <library name="stackprof (v0.2.12, ruby-2.4.4-p296) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/vendor" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/vendor" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/lib" />
       </SOURCES>
     </library>
     <library name="temple (v0.8.0, ruby-2.0.0-p648) [gem]">
