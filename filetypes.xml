@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="*.md.erb" type="Markdown" />
+      <mapping pattern="deps" type="PLAIN_TEXT" />
       <mapping ext="tgz" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="ova" type="XML" />
