@@ -14824,11 +14824,9 @@
     </library>
     <library name="ffi (v1.9.10, ruby-2.4.4-p296) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.10" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.10/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.10" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.10/lib" />
       </SOURCES>
     </library>
@@ -23180,11 +23178,9 @@
     </library>
     <library name="rb-fsevent (v0.9.7, ruby-2.4.4-p296) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.9.7" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.9.7/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.9.7" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.9.7/lib" />
       </SOURCES>
     </library>
@@ -23552,11 +23548,9 @@
     </library>
     <library name="redcarpet (v3.3.4, ruby-2.4.4-p296) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/redcarpet/3.3.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/redcarpet-3.3.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/redcarpet/3.3.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/redcarpet-3.3.4/lib" />
       </SOURCES>
     </library>
