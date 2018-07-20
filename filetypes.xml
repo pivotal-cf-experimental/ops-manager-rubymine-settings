@@ -5,6 +5,7 @@
       <mapping pattern="provision-azure-stack-environment" type="Bash" />
       <mapping pattern="*.md.erb" type="Markdown" />
       <mapping pattern="deps" type="PLAIN_TEXT" />
+      <mapping pattern="list-stories-since-last-release" type="PLAIN_TEXT" />
       <mapping pattern="init_d_tempest_scheduler" type="PLAIN_TEXT" />
       <mapping ext="tgz" type="PLAIN_TEXT" />
       <mapping ext="d" type="PLAIN_TEXT" />
