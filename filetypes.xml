@@ -10,6 +10,7 @@
       <mapping ext="tgz" type="PLAIN_TEXT" />
       <mapping ext="d" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping pattern="build_image" type="Ruby" />
       <mapping ext="ova" type="XML" />
       <mapping pattern="cobalt" type="YAML" />
       <mapping pattern="blue" type="YAML" />
