@@ -41876,6 +41876,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/omniauth-uaa-oauth2-319ed4ba2315/lib" />
       </SOURCES>
     </library>
+    <library name="omniauth-uaa-oauth2 (v0.0.6@319ed4, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/omniauth-uaa-oauth2-319ed4ba2315/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/omniauth-uaa-oauth2-319ed4ba2315/lib" />
+      </SOURCES>
+    </library>
     <library name="omniauth-uaa-oauth2 (v0.0.6@319ed4, ruby-2.3.4-p301) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/omniauth-uaa-oauth2-319ed4ba2315/lib" />
@@ -41900,7 +41908,23 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/omniauth-uaa-oauth2-319ed4ba2315/lib" />
       </SOURCES>
     </library>
+    <library name="omniauth-uaa-oauth2 (v0.0.6@319ed4, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/omniauth-uaa-oauth2-319ed4ba2315/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/omniauth-uaa-oauth2-319ed4ba2315/lib" />
+      </SOURCES>
+    </library>
     <library name="omniauth-uaa-oauth2 (v0.0.6@f892fd, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/omniauth-uaa-oauth2-f892fd3415f9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/omniauth-uaa-oauth2-f892fd3415f9/lib" />
+      </SOURCES>
+    </library>
+    <library name="omniauth-uaa-oauth2 (v0.0.6@f892fd, ruby-2.2.4-p230) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/omniauth-uaa-oauth2-f892fd3415f9/lib" />
       </CLASSES>
@@ -41961,6 +41985,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/omniauth-uaa-oauth2-f892fd3415f9/spec" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/omniauth-uaa-oauth2-f892fd3415f9/examples" />
       </excluded>
+    </library>
+    <library name="omniauth-uaa-oauth2 (v0.0.6@f892fd, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/omniauth-uaa-oauth2-f892fd3415f9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/omniauth-uaa-oauth2-f892fd3415f9/lib" />
+      </SOURCES>
     </library>
     <library name="openssl (v2.0.7, ruby-2.0.0-p648) [gem]">
       <CLASSES>
@@ -55283,6 +55315,66 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.4.3/ci" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.4.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="vm_shepherd (v3.5.0@23b458, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/vm_shepherd-23b458a292b8/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/vm_shepherd-23b458a292b8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/vm_shepherd-23b458a292b8/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/vm_shepherd-23b458a292b8/lib" />
+      </SOURCES>
+    </library>
+    <library name="vm_shepherd (v3.5.0@23b458, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/vm_shepherd-23b458a292b8/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/vm_shepherd-23b458a292b8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/vm_shepherd-23b458a292b8/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/vm_shepherd-23b458a292b8/lib" />
+      </SOURCES>
+    </library>
+    <library name="vm_shepherd (v3.5.0@23b458, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/vm_shepherd-23b458a292b8/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/vm_shepherd-23b458a292b8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/vm_shepherd-23b458a292b8/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/vm_shepherd-23b458a292b8/lib" />
+      </SOURCES>
+    </library>
+    <library name="vm_shepherd (v3.5.0@23b458, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/vm_shepherd-23b458a292b8/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/vm_shepherd-23b458a292b8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/vm_shepherd-23b458a292b8/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/vm_shepherd-23b458a292b8/lib" />
+      </SOURCES>
+    </library>
+    <library name="vm_shepherd (v3.5.0@23b458, ruby-2.4.4-p296) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/vm_shepherd-23b458a292b8/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/vm_shepherd-23b458a292b8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/vm_shepherd-23b458a292b8/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/vm_shepherd-23b458a292b8/lib" />
+      </SOURCES>
+    </library>
+    <library name="vm_shepherd (v3.5.0@23b458, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/vm_shepherd-23b458a292b8/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/vm_shepherd-23b458a292b8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/vm_shepherd-23b458a292b8/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/vm_shepherd-23b458a292b8/lib" />
       </SOURCES>
     </library>
     <library name="web-console (v3.5.1, ruby-2.0.0-p648) [gem]">
