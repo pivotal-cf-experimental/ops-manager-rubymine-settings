@@ -16,5 +16,6 @@
     <mask>*.mxml</mask>
     <mask>*</mask>
     <mask>*.rb</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
