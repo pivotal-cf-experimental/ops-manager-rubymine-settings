@@ -15,6 +15,7 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*</mask>
+    <mask>*.scss</mask>
     <mask>*.rb</mask>
     <mask>*.haml</mask>
   </component>
