@@ -1,11 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="ssh_onto_opsmanager_vm" type="Bash" />
-      <mapping pattern="provision-azure-stack-environment" type="Bash" />
       <mapping pattern="*.md.erb" type="Markdown" />
       <mapping pattern="deps" type="PLAIN_TEXT" />
       <mapping pattern="list-stories-since-last-release" type="PLAIN_TEXT" />
+      <mapping pattern="run-appliance-spec" type="PLAIN_TEXT" />
       <mapping pattern="init_d_tempest_scheduler" type="PLAIN_TEXT" />
       <mapping ext="tgz" type="PLAIN_TEXT" />
       <mapping ext="d" type="PLAIN_TEXT" />
@@ -15,6 +14,8 @@
       <mapping pattern="cobalt" type="YAML" />
       <mapping pattern="blue" type="YAML" />
       <mapping pattern="cerulean" type="YAML" />
+      <mapping pattern="provision-azure-stack-environment" type="Bash" />
+      <mapping pattern="ssh_onto_opsmanager_vm" type="Bash" />
     </extensionMap>
   </component>
 </application>
