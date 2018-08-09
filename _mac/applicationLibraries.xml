@@ -40514,6 +40514,46 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/net-ssh-5.0.1/support" />
       </SOURCES>
     </library>
+    <library name="net-ssh (v5.0.2, ruby-2.0.0-p648) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/net-ssh-5.0.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/net-ssh-5.0.2/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/net-ssh-5.0.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/net-ssh-5.0.2/support" />
+      </SOURCES>
+    </library>
+    <library name="net-ssh (v5.0.2, ruby-2.3.4-p301) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/net-ssh-5.0.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/net-ssh-5.0.2/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/net-ssh-5.0.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/net-ssh-5.0.2/support" />
+      </SOURCES>
+    </library>
+    <library name="net-ssh (v5.0.2, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/net-ssh-5.0.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/net-ssh-5.0.2/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/net-ssh-5.0.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/net-ssh-5.0.2/support" />
+      </SOURCES>
+    </library>
+    <library name="net-ssh (v5.0.2, ruby-2.4.4-p296) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/net-ssh-5.0.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/net-ssh-5.0.2/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/net-ssh-5.0.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/net-ssh-5.0.2/support" />
+      </SOURCES>
+    </library>
     <library name="net-ssh-gateway (v2.0.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/net-ssh-gateway-2.0.0/lib" />
