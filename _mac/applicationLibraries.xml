@@ -212,6 +212,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/activesupport-4.2.5.1/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v5.0.4, ruby-2.3.3-p222) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/activesupport-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/activesupport-5.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v5.0.4, ruby-2.4.4-p296) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/activesupport-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/activesupport-5.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="activesupport (v5.1.4, ruby-2.3.3-p222) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/activesupport-5.1.4/lib" />
@@ -11586,6 +11602,38 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/i18n-0.7.0/gemfiles" />
       </excluded>
     </library>
+    <library name="i18n (v0.8.4, ruby-2.3.3-p222) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/i18n-0.8.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/i18n-0.8.4/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/i18n-0.8.4/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/i18n-0.8.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/i18n-0.8.4/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/i18n-0.8.4/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/i18n-0.8.4/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/i18n-0.8.4/gemfiles" />
+      </excluded>
+    </library>
+    <library name="i18n (v0.8.4, ruby-2.4.4-p296) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/i18n-0.8.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/i18n-0.8.4/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/i18n-0.8.4/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/i18n-0.8.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/i18n-0.8.4/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/i18n-0.8.4/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/i18n-0.8.4/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/i18n-0.8.4/gemfiles" />
+      </excluded>
+    </library>
     <library name="i18n (v0.9.1, ruby-2.3.3-p222) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/i18n-0.9.1/lib" />
@@ -13564,6 +13612,32 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rubies/ruby-2.4.4/lib/ruby/gems/2.4.0/gems/minitest-5.10.1/test" />
+      </excluded>
+    </library>
+    <library name="minitest (v5.10.2, ruby-2.3.3-p222) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/minitest-5.10.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/minitest-5.10.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/minitest-5.10.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/minitest-5.10.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/minitest-5.10.2/test" />
+      </excluded>
+    </library>
+    <library name="minitest (v5.10.2, ruby-2.4.4-p296) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/minitest-5.10.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/minitest-5.10.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/minitest-5.10.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/minitest-5.10.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/minitest-5.10.2/test" />
       </excluded>
     </library>
     <library name="minitest (v5.10.3, ruby-2.3.3-p222) [gem]" type="ruby">
@@ -19250,6 +19324,32 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/tzinfo-1.2.2/test" />
+      </excluded>
+    </library>
+    <library name="tzinfo (v1.2.3, ruby-2.3.3-p222) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/tzinfo-1.2.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/tzinfo-1.2.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/tzinfo-1.2.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/tzinfo-1.2.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/tzinfo-1.2.3/test" />
+      </excluded>
+    </library>
+    <library name="tzinfo (v1.2.3, ruby-2.4.4-p296) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/tzinfo-1.2.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/tzinfo-1.2.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/tzinfo-1.2.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/tzinfo-1.2.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/tzinfo-1.2.3/test" />
       </excluded>
     </library>
     <library name="tzinfo (v1.2.4, ruby-2.3.3-p222) [gem]" type="ruby">
