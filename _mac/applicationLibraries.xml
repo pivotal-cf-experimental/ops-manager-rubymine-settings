@@ -1693,6 +1693,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-partitions-1.97.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.98.0, ruby-2.4.4-p296) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-partitions-1.98.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-partitions-1.98.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v1.60.2, ruby-2.3.3-p222) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/aws-sdk-1.60.2/lib" />
@@ -3643,6 +3651,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-core-3.24.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v3.24.1, ruby-2.4.4-p296) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-core-3.24.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-core-3.24.1/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-costandusagereportservice (v1.0.1, ruby-2.3.3-p222) [gem]" type="ruby">
