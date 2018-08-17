@@ -33027,6 +33027,7 @@
     </library>
     <library name="json_pure (v1.8.3, ruby-2.3.3-p222) [gem]" type="ruby">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json_pure/1.8.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json_pure-1.8.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json_pure-1.8.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json_pure-1.8.3/data" />
@@ -33036,6 +33037,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json_pure-1.8.3/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/json_pure/1.8.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json_pure-1.8.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json_pure-1.8.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json_pure-1.8.3/data" />
