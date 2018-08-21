@@ -106,6 +106,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/activesupport-5.0.7/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v5.1.6, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/activesupport-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/activesupport-5.1.6/lib" />
+      </SOURCES>
+    </library>
     <library name="addressable (v2.4.0, ruby-2.3.6-p384) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/addressable-2.4.0/data" />
@@ -2385,6 +2393,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/i18n-0.8.6/gemfiles" />
       </excluded>
     </library>
+    <library name="i18n (v0.9.5, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/i18n-0.9.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/i18n-0.9.5/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/i18n-0.9.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/i18n-0.9.5/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="io-console (v0.4.5, ruby-2.3.6-p384) [gem]">
       <CLASSES />
       <SOURCES />
@@ -2652,6 +2670,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/listen-3.0.8/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/listen-3.0.8/bin" />
+      </SOURCES>
+    </library>
+    <library name="listen (v3.1.5, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/listen-3.1.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/listen-3.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/listen-3.1.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/listen-3.1.5/lib" />
       </SOURCES>
     </library>
     <library name="logging (v1.8.2, ruby-2.4.4-p296) [gem]">
@@ -4481,6 +4509,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/ruby-prof-0.15.9/examples" />
       </excluded>
     </library>
+    <library name="ruby_dep (v1.5.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby_dep-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/ruby_dep-1.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="sass (v3.4.22, ruby-2.3.6-p384) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sass-3.4.22/extra" />
@@ -4535,6 +4571,28 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sass-3.4.25/extra" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sass-3.4.25/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sass-3.4.25/bin" />
+      </SOURCES>
+    </library>
+    <library name="sass (v3.5.7, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sass-3.5.7/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sass-3.5.7/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sass-3.5.7/extra" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sass-3.5.7/rails" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sass-3.5.7/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sass-3.5.7/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sass-3.5.7/extra" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sass-3.5.7/rails" />
+      </SOURCES>
+    </library>
+    <library name="sass-listen (v4.0.0, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sass-listen-4.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sass-listen-4.0.0/lib" />
       </SOURCES>
     </library>
     <library name="sassc (v1.12.1, ruby-2.3.6-p384) [gem]">
