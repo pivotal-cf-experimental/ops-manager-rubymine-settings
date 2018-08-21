@@ -717,11 +717,13 @@
     </library>
     <library name="byebug (v10.0.2, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/10.0.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/byebug-10.0.2/exe" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/byebug-10.0.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/byebug-10.0.2/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/byebug/10.0.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/byebug-10.0.2/exe" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/byebug-10.0.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/byebug-10.0.2/ext" />
@@ -2630,11 +2632,13 @@
     </library>
     <library name="libv8 (v3.16.14.19, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/libv8/3.16.14.19" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/libv8-3.16.14.19-x86_64-darwin-17/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/libv8-3.16.14.19-x86_64-darwin-17/vendor" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/libv8-3.16.14.19-x86_64-darwin-17/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/libv8/3.16.14.19" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/libv8-3.16.14.19-x86_64-darwin-17/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/libv8-3.16.14.19-x86_64-darwin-17/vendor" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/libv8-3.16.14.19-x86_64-darwin-17/lib" />
@@ -4756,10 +4760,12 @@
     </library>
     <library name="therubyracer (v0.12.3, ruby-2.3.6-p384) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/therubyracer/0.12.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/therubyracer-0.12.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/therubyracer-0.12.3/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/therubyracer/0.12.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/therubyracer-0.12.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/therubyracer-0.12.3/ext" />
       </SOURCES>
