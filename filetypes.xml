@@ -6,6 +6,7 @@
       <mapping pattern="*.md.erb" type="Markdown" />
       <mapping pattern="deps" type="PLAIN_TEXT" />
       <mapping pattern="list-stories-since-last-release" type="PLAIN_TEXT" />
+      <mapping pattern="fake-stemcell-version-semver" type="PLAIN_TEXT" />
       <mapping pattern="extract-image-from-pivnet-resource" type="PLAIN_TEXT" />
       <mapping pattern="init_d_tempest_scheduler" type="PLAIN_TEXT" />
       <mapping ext="tgz" type="PLAIN_TEXT" />
