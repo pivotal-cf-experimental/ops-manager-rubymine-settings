@@ -30409,6 +30409,36 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.4/generated" />
       </SOURCES>
     </library>
+    <library name="google-api-client (v0.23.5, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/generated" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/generated" />
+      </SOURCES>
+    </library>
+    <library name="google-api-client (v0.23.5, ruby-2.4.4-p296) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/generated" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/generated" />
+      </SOURCES>
+    </library>
+    <library name="google-api-client (v0.23.5, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/generated" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/generated" />
+      </SOURCES>
+    </library>
     <library name="googleauth (v0.5.1, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/googleauth-0.5.1/lib" />
