@@ -25099,11 +25099,9 @@
     </library>
     <library name="eventmachine (v1.2.5, ruby-2.5.1-p57) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/eventmachine/1.2.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/eventmachine-1.2.5/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/eventmachine/1.2.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/eventmachine-1.2.5/lib" />
       </SOURCES>
     </library>
@@ -26387,11 +26385,9 @@
     </library>
     <library name="ffi (v1.9.18, ruby-2.5.1-p57) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.18/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/ffi/1.9.18" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.18/lib" />
       </SOURCES>
     </library>
@@ -30599,6 +30595,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/googleauth-0.6.5/lib" />
       </SOURCES>
     </library>
+    <library name="googleauth (v0.6.6, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/googleauth-0.6.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/googleauth-0.6.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="googleauth (v0.6.6, ruby-2.4.4-p296) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/googleauth-0.6.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/googleauth-0.6.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="googleauth (v0.6.6, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/googleauth-0.6.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/googleauth-0.6.6/lib" />
+      </SOURCES>
+    </library>
     <library name="haml (v4.0.7, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/haml-4.0.7/lib" />
@@ -31461,11 +31481,9 @@
     </library>
     <library name="http_parser.rb (v0.6.0, ruby-2.5.1-p57) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/http_parser.rb-0.6.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/http_parser.rb/0.6.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/http_parser.rb-0.6.0/lib" />
       </SOURCES>
     </library>
@@ -32799,11 +32817,9 @@
     </library>
     <library name="json (v1.8.6, ruby-2.5.1-p57) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/json/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json-1.8.6/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/json/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json-1.8.6/lib" />
       </SOURCES>
     </library>
@@ -32994,11 +33010,9 @@
     </library>
     <library name="json_pure (v1.8.6, ruby-2.5.1-p57) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/json_pure/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json_pure-1.8.6/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/json_pure/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json_pure-1.8.6/lib" />
       </SOURCES>
     </library>
@@ -36460,11 +36474,9 @@
     </library>
     <library name="mysql2 (v0.4.9, ruby-2.5.1-p57) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/mysql2/0.4.9" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.9/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/mysql2/0.4.9" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.9/lib" />
       </SOURCES>
     </library>
@@ -37698,11 +37710,9 @@
     </library>
     <library name="nokogiri (v1.8.4, ruby-2.5.1-p57) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.4/lib" />
       </SOURCES>
     </library>
@@ -49042,6 +49052,30 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="vm_shepherd (v3.6.0, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="vm_shepherd (v3.6.0, ruby-2.4.4-p296) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="vm_shepherd (v3.6.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/lib" />
       </SOURCES>
     </library>
     <library name="web-console (v2.3.0, ruby-2.3.6-p384) [gem]">
