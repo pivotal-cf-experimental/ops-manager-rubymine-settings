@@ -24304,6 +24304,72 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.6.0/examples" />
       </excluded>
     </library>
+    <library name="fog-google (v1.7.1, ruby-2.3.3-p222) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/examples" />
+      </excluded>
+    </library>
+    <library name="fog-google (v1.7.1, ruby-2.3.6-p384) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/examples" />
+      </excluded>
+    </library>
+    <library name="fog-google (v1.7.1, ruby-2.4.4-p296) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.7.1/examples" />
+      </excluded>
+    </library>
     <library name="fog-json (v1.0.2, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-json-1.0.2/lib" />
@@ -26571,6 +26637,69 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.4/samples" />
       </excluded>
     </library>
+    <library name="google-api-client (v0.23.5, ruby-2.3.3-p222) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/rakelib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/samples" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/generated" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/rakelib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/samples" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/generated" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/rakelib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/samples" />
+      </excluded>
+    </library>
+    <library name="google-api-client (v0.23.5, ruby-2.3.6-p384) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/rakelib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/samples" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/generated" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/rakelib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/samples" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/generated" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/rakelib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/samples" />
+      </excluded>
+    </library>
+    <library name="google-api-client (v0.23.5, ruby-2.4.4-p296) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/rakelib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/samples" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/generated" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/rakelib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/samples" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/generated" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/rakelib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/google-api-client-0.23.5/samples" />
+      </excluded>
+    </library>
     <library name="google-api-client (v0.8.6, ruby-2.4.4-p296) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/google-api-client-0.8.6/lib" />
@@ -26692,6 +26821,32 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/googleauth-0.6.2/spec" />
+      </excluded>
+    </library>
+    <library name="googleauth (v0.6.6, ruby-2.3.3-p222) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/googleauth-0.6.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/googleauth-0.6.6/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/googleauth-0.6.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/googleauth-0.6.6/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/googleauth-0.6.6/spec" />
+      </excluded>
+    </library>
+    <library name="googleauth (v0.6.6, ruby-2.4.4-p296) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/googleauth-0.6.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/googleauth-0.6.6/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/googleauth-0.6.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/googleauth-0.6.6/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/googleauth-0.6.6/spec" />
       </excluded>
     </library>
     <library name="haml (v4.0.7, ruby-2.0.0-p648) [gem]">
@@ -31683,6 +31838,32 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-3.1/test" />
       </excluded>
     </library>
+    <library name="mime-types (v3.2.2, ruby-2.3.3-p222) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-3.2.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-3.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-3.2.2/test" />
+      </excluded>
+    </library>
+    <library name="mime-types (v3.2.2, ruby-2.4.4-p296) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-3.2.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-3.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-3.2.2/test" />
+      </excluded>
+    </library>
     <library name="mime-types-data (v3.2015.1120, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-data-3.2015.1120/lib" />
@@ -31799,6 +31980,38 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-data-3.2016.0521/data" />
+      </excluded>
+    </library>
+    <library name="mime-types-data (v3.2018.0812, ruby-2.3.3-p222) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-data-3.2018.0812/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-data-3.2018.0812/types" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-data-3.2018.0812/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-data-3.2018.0812/types" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-data-3.2018.0812/types" />
+      </excluded>
+    </library>
+    <library name="mime-types-data (v3.2018.0812, ruby-2.4.4-p296) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-data-3.2018.0812/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-data-3.2018.0812/types" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-data-3.2018.0812/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-data-3.2018.0812/types" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mime-types-data-3.2018.0812/types" />
       </excluded>
     </library>
     <library name="mini_mime (v1.0.0, ruby-2.0.0-p648) [gem]">
@@ -34624,6 +34837,54 @@
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-0.9.6/spec" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-0.9.6/autotest" />
+      </excluded>
+    </library>
+    <library name="os (v1.0.0, ruby-2.3.3-p222) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-1.0.0/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-1.0.0/autotest" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-1.0.0/autotest" />
+      </excluded>
+    </library>
+    <library name="os (v1.0.0, ruby-2.3.6-p384) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-1.0.0/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-1.0.0/autotest" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-1.0.0/autotest" />
+      </excluded>
+    </library>
+    <library name="os (v1.0.0, ruby-2.4.4-p296) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-1.0.0/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-1.0.0/autotest" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/os-1.0.0/autotest" />
       </excluded>
     </library>
     <library name="padrino-helpers (v0.13.1, ruby-2.0.0-p648) [gem]">
@@ -43460,6 +43721,44 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/signet-0.8.1/website" />
       </excluded>
     </library>
+    <library name="signet (v0.9.0, ruby-2.3.3-p222) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/signet-0.9.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/signet-0.9.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/signet-0.9.0/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/signet-0.9.0/website" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/signet-0.9.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/signet-0.9.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/signet-0.9.0/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/signet-0.9.0/website" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/signet-0.9.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/signet-0.9.0/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/signet-0.9.0/website" />
+      </excluded>
+    </library>
+    <library name="signet (v0.9.0, ruby-2.4.4-p296) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/signet-0.9.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/signet-0.9.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/signet-0.9.0/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/signet-0.9.0/website" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/signet-0.9.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/signet-0.9.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/signet-0.9.0/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/signet-0.9.0/website" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/signet-0.9.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/signet-0.9.0/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/signet-0.9.0/website" />
+      </excluded>
+    </library>
     <library name="slop (v3.6.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/slop-3.6.0/lib" />
@@ -46360,6 +46659,54 @@
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.5.0/ci" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.5.0/spec" />
+      </excluded>
+    </library>
+    <library name="vm_shepherd (v3.6.0, ruby-2.3.3-p222) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/spec" />
+      </excluded>
+    </library>
+    <library name="vm_shepherd (v3.6.0, ruby-2.3.6-p384) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/spec" />
+      </excluded>
+    </library>
+    <library name="vm_shepherd (v3.6.0, ruby-2.4.4-p296) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.0/spec" />
       </excluded>
     </library>
     <library name="web-console (v2.3.0, ruby-2.4.4-p296) [gem]">
