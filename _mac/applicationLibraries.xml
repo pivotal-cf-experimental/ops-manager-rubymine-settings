@@ -24045,6 +24045,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/middleman-sprockets-4.0.0.rc.1/lib" />
       </SOURCES>
     </library>
+    <library name="middleman-sprockets (v4.1.1, ruby-2.3.6-p384) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/middleman-sprockets-4.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/middleman-sprockets-4.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="middleman-sprockets (v4.1.1, ruby-2.4.4-p296) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/middleman-sprockets-4.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/middleman-sprockets-4.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="middleman-syntax (v2.1.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/middleman-syntax-2.1.0/fixtures" />
