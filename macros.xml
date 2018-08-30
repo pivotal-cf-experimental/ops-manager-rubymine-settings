@@ -1,6 +1,6 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="Run All Tests in File">
+    <macro name="Run all tests in file">
       <action id="EditorTextEnd" />
       <action id="RunClass" />
       <action id="Back" />
