@@ -9,6 +9,7 @@
       <mapping pattern=".rspec_parallel_units" type="PLAIN_TEXT" />
       <mapping pattern="run-appliance-spec" type="PLAIN_TEXT" />
       <mapping pattern="init_d_tempest_scheduler" type="PLAIN_TEXT" />
+      <mapping pattern=".rspec_parallel_features" type="PLAIN_TEXT" />
       <mapping ext="tgz" type="PLAIN_TEXT" />
       <mapping ext="d" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
