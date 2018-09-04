@@ -30777,6 +30777,7 @@
     </library>
     <library name="eventmachine (v1.2.7, ruby-2.4.4-p296) [gem]" type="ruby">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/eventmachine/1.2.7" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/eventmachine-1.2.7/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/eventmachine-1.2.7/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/eventmachine-1.2.7/docs" />
@@ -30786,6 +30787,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/eventmachine-1.2.7/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/eventmachine/1.2.7" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/eventmachine-1.2.7/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/eventmachine-1.2.7/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/eventmachine-1.2.7/docs" />
@@ -32106,11 +32108,13 @@
     </library>
     <library name="fast_blank (v1.0.0, ruby-2.4.4-p296) [gem]" type="ruby">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/fast_blank/1.0.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fast_blank-1.0.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fast_blank-1.0.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fast_blank-1.0.0/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/fast_blank/1.0.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fast_blank-1.0.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fast_blank-1.0.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fast_blank-1.0.0/spec" />
@@ -32790,11 +32794,13 @@
     </library>
     <library name="ffi (v1.9.25, ruby-2.4.4-p296) [gem]" type="ruby">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.25/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.25/samples" />
@@ -54882,11 +54888,13 @@
     </library>
     <library name="rb-fsevent (v0.10.3, ruby-2.4.4-p296) [gem]" type="ruby">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.10.3/lib" />
@@ -61535,6 +61543,7 @@
     </library>
     <library name="stackprof (v0.2.12, ruby-2.4.4-p296) [gem]" type="ruby">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/stackprof/0.2.12" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/lib" />
@@ -61542,6 +61551,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/vendor" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/stackprof/0.2.12" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/lib" />
@@ -62174,12 +62184,14 @@
     </library>
     <library name="thin (v1.7.2, ruby-2.4.4-p296) [gem]" type="ruby">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/thin/1.7.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/thin-1.7.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/thin-1.7.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/thin-1.7.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/thin-1.7.2/example" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/thin/1.7.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/thin-1.7.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/thin-1.7.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/thin-1.7.2/lib" />
