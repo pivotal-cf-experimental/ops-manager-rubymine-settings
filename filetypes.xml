@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="ssh_onto_opsmanager_vm" type="Bash" />
       <mapping pattern="provision-azure-stack-environment" type="Bash" />
+      <mapping ext="12" type="Bash" />
       <mapping pattern="*.md.erb" type="Markdown" />
       <mapping pattern="deps" type="PLAIN_TEXT" />
       <mapping pattern="list-stories-since-last-release" type="PLAIN_TEXT" />
