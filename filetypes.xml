@@ -14,6 +14,7 @@
       <mapping ext="d" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping pattern="build_image" type="Ruby" />
+      <mapping pattern="auto_bump_minor_versions" type="Ruby" />
       <mapping ext="ova" type="XML" />
       <mapping pattern="cobalt" type="YAML" />
       <mapping pattern="blue" type="YAML" />
