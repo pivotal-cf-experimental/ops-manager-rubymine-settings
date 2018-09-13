@@ -61235,6 +61235,54 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="rubyzip (v1.2.2, ruby-2.3.3-p222) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/samples" />
+      </excluded>
+    </library>
+    <library name="rubyzip (v1.2.2, ruby-2.3.6-p384) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/samples" />
+      </excluded>
+    </library>
+    <library name="rubyzip (v1.2.2, ruby-2.4.4-p296) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/samples" />
+      </excluded>
+    </library>
     <library name="rufus-lru (v1.1.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rufus-lru-1.1.0/lib" />
