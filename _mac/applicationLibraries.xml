@@ -56006,6 +56006,26 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/parallel_tests-2.22.0/bin" />
       </SOURCES>
     </library>
+    <library name="parallel_tests (v2.22.1@11c41a, ruby-2.4.4-p296) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/parallel_tests-11c41a037b2c/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/parallel_tests-11c41a037b2c/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/parallel_tests-11c41a037b2c/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/parallel_tests-11c41a037b2c/bin" />
+      </SOURCES>
+    </library>
+    <library name="parallel_tests (v2.22.1@11c41a, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/parallel_tests-11c41a037b2c/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/parallel_tests-11c41a037b2c/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/parallel_tests-11c41a037b2c/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/parallel_tests-11c41a037b2c/bin" />
+      </SOURCES>
+    </library>
     <library name="parser (v2.3.0.6, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/parser-2.3.0.6/lib" />
