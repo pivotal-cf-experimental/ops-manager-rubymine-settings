@@ -36658,9 +36658,11 @@
     </library>
     <library name="json_pure (v1.8.6, ruby-2.5.1-p57) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/json_pure/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json_pure-1.8.6/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/json_pure/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json_pure-1.8.6/lib" />
       </SOURCES>
     </library>
