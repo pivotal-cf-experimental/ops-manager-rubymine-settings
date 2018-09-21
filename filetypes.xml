@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="ssh_onto_opsmanager_vm" type="Bash" />
+      <mapping pattern="auto_bump_versions_and_commit" type="Bash" />
+      <mapping pattern="commit-and-slack-version-changes" type="Bash" />
       <mapping pattern="provision-azure-stack-environment" type="Bash" />
       <mapping pattern="mspecs" type="Bash" />
       <mapping ext="12" type="Bash" />
@@ -10,6 +12,7 @@
       <mapping pattern="list-stories-since-last-release" type="PLAIN_TEXT" />
       <mapping pattern=".rspec_parallel_units" type="PLAIN_TEXT" />
       <mapping pattern="run-appliance-spec" type="PLAIN_TEXT" />
+      <mapping pattern="poseidon" type="PLAIN_TEXT" />
       <mapping pattern="init_d_tempest_scheduler" type="PLAIN_TEXT" />
       <mapping pattern=".rspec_parallel_features" type="PLAIN_TEXT" />
       <mapping ext="tgz" type="PLAIN_TEXT" />
@@ -18,9 +21,12 @@
       <mapping pattern="build_image" type="Ruby" />
       <mapping pattern="auto_bump_minor_versions" type="Ruby" />
       <mapping ext="ova" type="XML" />
+      <mapping pattern="athena" type="YAML" />
       <mapping pattern="cobalt" type="YAML" />
       <mapping pattern="blue" type="YAML" />
       <mapping pattern="cerulean" type="YAML" />
+      <mapping pattern="artemis" type="YAML" />
+      <mapping pattern="hades" type="YAML" />
     </extensionMap>
   </component>
 </application>
