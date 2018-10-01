@@ -53374,6 +53374,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/parallel_tests-2.19.0/bin" />
       </SOURCES>
     </library>
+    <library name="parallel_tests (v2.22.1@11c41a, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/parallel_tests-11c41a037b2c/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/parallel_tests-11c41a037b2c/lib" />
+      </SOURCES>
+    </library>
     <library name="parallel_tests (v2.22.1@11c41a, ruby-2.3.3-p222) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/parallel_tests-11c41a037b2c/bin" />
@@ -53431,21 +53439,24 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/parallel_tests-11c41a037b2c/spec" />
       </excluded>
     </library>
-    <library name="parallel_tests (v2.22.1@11c41a, ruby-2.2.4-p230) [gem]">
+    <library name="parallel_tests (v2.22.1@11c41a, ruby-2.4.4-p296) [gem]" type="ruby">
       <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/parallel_tests-11c41a037b2c/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/parallel_tests-11c41a037b2c/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/parallel_tests-11c41a037b2c/.git" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/parallel_tests-11c41a037b2c/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/parallel_tests-11c41a037b2c/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/parallel_tests-11c41a037b2c/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/parallel_tests-11c41a037b2c/.git" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/parallel_tests-11c41a037b2c/spec" />
       </SOURCES>
-    </library>
-    <library name="parallel_tests (v2.22.1@11c41a, ruby-2.4.4-p296) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/parallel_tests-11c41a037b2c/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/parallel_tests-11c41a037b2c/lib" />
-      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/parallel_tests-11c41a037b2c/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/parallel_tests-11c41a037b2c/.git" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/parallel_tests-11c41a037b2c/spec" />
+      </excluded>
     </library>
     <library name="parallel_tests (v2.22.1@11c41a, ruby-2.5.1-p57) [gem]">
       <CLASSES>
@@ -63478,6 +63489,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/rubyzip-1.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="rubyzip (v1.2.2, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rubyzip (v1.2.2, ruby-2.3.3-p222) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/lib" />
@@ -63536,6 +63555,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/samples" />
       </excluded>
     </library>
+    <library name="rubyzip (v1.2.2, ruby-2.4.4-p296) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/samples" />
+      </excluded>
+    </library>
     <library name="rubyzip (v1.2.2, ruby-2.5.1-p57) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/lib" />
@@ -63544,22 +63579,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/samples" />
-      </SOURCES>
-    </library>
-    <library name="rubyzip (v1.2.2, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="rubyzip (v1.2.2, ruby-2.4.4-p296) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rubyzip-1.2.2/lib" />
       </SOURCES>
     </library>
     <library name="rubyzip (v1.2.2, ruby-2.5.1-p57) [gem]">
@@ -65539,6 +65558,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/test" />
       </excluded>
     </library>
+    <library name="stackprof (v0.2.12, ruby-2.2.4-p230) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/vendor" />
+      </SOURCES>
+    </library>
     <library name="stackprof (v0.2.12, ruby-2.3.3-p222) [gem]" type="ruby">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/bin" />
@@ -65606,6 +65635,29 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/test" />
       </excluded>
     </library>
+    <library name="stackprof (v0.2.12, ruby-2.4.4-p296) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/stackprof/0.2.12" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/stackprof/0.2.12" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/test" />
+      </excluded>
+    </library>
     <library name="stackprof (v0.2.12, ruby-2.5.1-p57) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/vendor" />
@@ -65618,6 +65670,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/lib" />
+      </SOURCES>
+    </library>
+    <library name="stackprof (v0.2.12, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/vendor" />
       </SOURCES>
     </library>
     <library name="stackprof (v0.2.8, ruby-2.0.0-p648) [gem]">
@@ -65660,36 +65722,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/stackprof-0.2.8/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/stackprof-0.2.8/vendor" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/stackprof-0.2.8/lib" />
-      </SOURCES>
-    </library>
-    <library name="stackprof (v0.2.12, ruby-2.2.4-p230) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/vendor" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/vendor" />
-      </SOURCES>
-    </library>
-    <library name="stackprof (v0.2.12, ruby-2.4.4-p296) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/vendor" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/vendor" />
-      </SOURCES>
-    </library>
-    <library name="stackprof (v0.2.12, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/vendor" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.12/vendor" />
       </SOURCES>
     </library>
     <library name="syslog-logger (v1.6.8, ruby-2.0.0-p648) [gem]">
