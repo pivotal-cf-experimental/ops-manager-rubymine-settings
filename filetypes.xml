@@ -4,6 +4,7 @@
       <mapping pattern="ssh_onto_opsmanager_vm" type="Bash" />
       <mapping pattern="provision-azure-stack-environment" type="Bash" />
       <mapping pattern="transfer-ami-to-china" type="Bash" />
+      <mapping pattern="clean-aws-cp-to-china-env" type="Bash" />
       <mapping ext="glue" type="Bash" />
       <mapping ext="testing" type="Bash" />
       <mapping pattern="*.md.erb" type="Markdown" />
