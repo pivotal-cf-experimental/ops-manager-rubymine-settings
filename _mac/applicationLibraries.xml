@@ -50127,6 +50127,74 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mustache-1.0.5/man" />
       </SOURCES>
     </library>
+    <library name="mysql2 (v0.4.10, ruby-2.3.3-p222) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/support" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/support" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/support" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/examples" />
+      </excluded>
+    </library>
+    <library name="mysql2 (v0.4.10, ruby-2.3.6-p384) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/support" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/support" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/support" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/examples" />
+      </excluded>
+    </library>
+    <library name="mysql2 (v0.4.10, ruby-2.4.4-p296) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/mysql2/0.4.10" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/support" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/mysql2/0.4.10" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/support" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/support" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.10/examples" />
+      </excluded>
+    </library>
     <library name="mysql2 (v0.4.3, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/mysql2-0.4.3/ext" />
