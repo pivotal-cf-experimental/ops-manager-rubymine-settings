@@ -49283,6 +49283,7 @@
     </library>
     <library name="nokogiri (v1.8.5, ruby-2.4.4-p296) [gem]" type="ruby">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.5/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.5/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.5/lib" />
@@ -49292,6 +49293,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.5/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.5/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.5/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.5/lib" />
