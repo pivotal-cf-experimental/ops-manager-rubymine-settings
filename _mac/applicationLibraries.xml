@@ -29785,11 +29785,9 @@
     </library>
     <library name="nokogiri (v1.8.4, ruby-2.3.3-p222) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.4/lib" />
       </SOURCES>
     </library>
@@ -29827,6 +29825,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.8.4/tasks" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nokogiri-1.8.4/patches" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.8.5, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.5/lib" />
       </SOURCES>
     </library>
     <library name="oauth2 (v1.4.0, ruby-2.0.0-p648) [gem]">
