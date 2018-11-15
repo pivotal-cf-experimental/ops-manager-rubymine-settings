@@ -2879,6 +2879,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-partitions-1.111.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.113.0, ruby-2.4.4-p296) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-partitions-1.113.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-partitions-1.113.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-partitions (v1.87.0, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-partitions-1.87.0/lib" />
@@ -10757,6 +10765,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-ec2-1.56.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-ec2 (v1.57.0, ruby-2.4.4-p296) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-ec2-1.57.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-ec2-1.57.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-ecr (v1.3.0, ruby-2.0.0-p648) [gem]">
