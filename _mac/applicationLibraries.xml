@@ -34356,7 +34356,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json_pure/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json_pure-1.8.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json_pure-1.8.6/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json_pure-1.8.6/data" />
@@ -34366,7 +34365,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json_pure-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json_pure/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json_pure-1.8.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json_pure-1.8.6/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json_pure-1.8.6/data" />
@@ -45111,72 +45109,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-3.6.0/lib" />
       </SOURCES>
     </library>
-    <library name="rspec (v3.7.0, ruby-2.0.0-p648) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-3.7.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-3.7.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec (v3.7.0, ruby-2.4.4-p296) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-3.7.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-3.7.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec (v3.7.0, ruby-2.5.1-p57) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-3.7.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-3.7.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec (v3.8.0, ruby-2.0.0-p648) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-3.8.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-3.8.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec (v3.8.0, ruby-2.4.4-p296) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-3.8.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-3.8.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec (v3.8.0, ruby-2.5.1-p57) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-3.8.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-3.8.0/lib" />
-      </SOURCES>
-    </library>
     <library name="rspec-core (v3.5.4, ruby-2.0.0-p648) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -45271,150 +45203,6 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.6.0/exe" />
-      </excluded>
-    </library>
-    <library name="rspec-core (v3.7.0, ruby-2.0.0-p648) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.0/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.0/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.0/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.0/exe" />
-      </excluded>
-    </library>
-    <library name="rspec-core (v3.7.0, ruby-2.4.4-p296) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.0/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.0/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.0/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.0/exe" />
-      </excluded>
-    </library>
-    <library name="rspec-core (v3.7.0, ruby-2.5.1-p57) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.0/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.0/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.0/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.0/exe" />
-      </excluded>
-    </library>
-    <library name="rspec-core (v3.7.1, ruby-2.0.0-p648) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.1/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.1/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.1/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.1/exe" />
-      </excluded>
-    </library>
-    <library name="rspec-core (v3.7.1, ruby-2.4.4-p296) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.1/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.1/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.1/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.1/exe" />
-      </excluded>
-    </library>
-    <library name="rspec-core (v3.7.1, ruby-2.5.1-p57) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.1/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.1/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.1/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.7.1/exe" />
-      </excluded>
-    </library>
-    <library name="rspec-core (v3.8.0, ruby-2.0.0-p648) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.8.0/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.8.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.8.0/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.8.0/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.8.0/exe" />
-      </excluded>
-    </library>
-    <library name="rspec-core (v3.8.0, ruby-2.4.4-p296) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.8.0/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.8.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.8.0/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.8.0/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.8.0/exe" />
-      </excluded>
-    </library>
-    <library name="rspec-core (v3.8.0, ruby-2.5.1-p57) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.8.0/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.8.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.8.0/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.8.0/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-core-3.8.0/exe" />
       </excluded>
     </library>
     <library name="rspec-expectations (v3.5.0, ruby-2.0.0-p648) [gem]" type="rubylib">
@@ -45832,39 +45620,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-rails-3.6.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec-rails (v3.7.2, ruby-2.0.0-p648) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-rails-3.7.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-rails-3.7.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec-rails (v3.7.2, ruby-2.4.4-p296) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-rails-3.7.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-rails-3.7.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec-rails (v3.7.2, ruby-2.5.1-p57) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="3" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-rails-3.7.2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rspec-rails-3.7.2/lib" />
       </SOURCES>
     </library>
     <library name="rspec-support (v3.5.0, ruby-2.0.0-p648) [gem]" type="rubylib">
