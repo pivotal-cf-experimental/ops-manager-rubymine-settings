@@ -22959,40 +22959,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bookbindery-10.1.14/master_middleman" />
       </excluded>
     </library>
-    <library name="bosh-template (v1.3262.24.0, ruby-2.4.4-p296) [gem]" type="ruby">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bosh-template-1.3262.24.0/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bosh-template-1.3262.24.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bosh-template-1.3262.24.0/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bosh-template-1.3262.24.0/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bosh-template-1.3262.24.0/bin" />
-      </excluded>
-    </library>
-    <library name="bosh_cli (v1.3262.26.0, ruby-2.4.4-p296) [gem]" type="ruby">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bosh_cli-1.3262.26.0/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bosh_cli-1.3262.26.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bosh_cli-1.3262.26.0/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bosh_cli-1.3262.26.0/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bosh_cli-1.3262.26.0/bin" />
-      </excluded>
-    </library>
-    <library name="bosh_common (v1.3262.24.0, ruby-2.4.4-p296) [gem]" type="ruby">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bosh_common-1.3262.24.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bosh_common-1.3262.24.0/lib" />
-      </SOURCES>
-    </library>
     <library name="brakeman (v3.6.2, ruby-2.0.0-p648) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/brakeman-3.6.2/bundle" />
