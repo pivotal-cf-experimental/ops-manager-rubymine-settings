@@ -17,7 +17,7 @@
     <mask>*.js</mask>
     <mask>*.yml</mask>
     <mask>*spec.rb</mask>
-    <mask>*.rb</mask>
     <mask>*.md</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
