@@ -59455,6 +59455,94 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.1/exe" />
       </excluded>
     </library>
+    <library name="rake (v12.3.2, ruby-2.0.0-p648) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/exe" />
+      </excluded>
+    </library>
+    <library name="rake (v12.3.2, ruby-2.2.4-p230) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/exe" />
+      </excluded>
+    </library>
+    <library name="rake (v12.3.2, ruby-2.4.4-p296) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/exe" />
+      </excluded>
+    </library>
+    <library name="rake (v12.3.2, ruby-2.5.1-p57) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rake-12.3.2/exe" />
+      </excluded>
+    </library>
     <library name="range_operators (v0.1.1, ruby-2.0.0-p648) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
