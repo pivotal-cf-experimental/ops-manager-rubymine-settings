@@ -26681,6 +26681,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json_pure/1.8.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json_pure-1.8.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json_pure-1.8.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json_pure-1.8.3/data" />
@@ -26690,6 +26691,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json_pure-1.8.3/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json_pure/1.8.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json_pure-1.8.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json_pure-1.8.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json_pure-1.8.3/data" />
@@ -30327,7 +30329,6 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/mysql2/0.4.9" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.9/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.9/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.9/spec" />
@@ -30335,7 +30336,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.9/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/mysql2/0.4.9" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.9/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.9/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.9/spec" />
