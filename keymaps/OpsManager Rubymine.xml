@@ -25,4 +25,7 @@
   <action id="Macro.Run all tests in file">
     <keyboard-shortcut first-keystroke="ctrl meta alt r" />
   </action>
+  <action id="Macro.RunAllTests">
+    <keyboard-shortcut first-keystroke="ctrl meta alt r" />
+  </action>
 </keymap>
