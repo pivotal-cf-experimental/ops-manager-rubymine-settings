@@ -4695,6 +4695,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-codedeploy-1.12.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-codedeploy (v1.13.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-codedeploy-1.13.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-codedeploy-1.13.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-codedeploy (v1.5.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -6190,6 +6201,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-dlm-1.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-docdb (v1.0.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-docdb-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-docdb-1.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-dynamodb (v1.10.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -7169,6 +7191,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-emr-1.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-emr (v1.9.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-emr-1.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-emr-1.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-firehose (v1.10.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -7904,6 +7937,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-iot-1.21.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-iot (v1.22.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-iot-1.22.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-iot-1.22.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-iot (v1.6.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
@@ -9215,6 +9259,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-mediaconvert-1.18.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-mediaconvert (v1.19.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-mediaconvert-1.19.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-mediaconvert-1.19.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-mediaconvert (v1.3.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -10447,6 +10502,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-rdsdataservice-1.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-rdsdataservice (v1.1.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-rdsdataservice-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-rdsdataservice-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-redshift (v1.11.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -10478,6 +10544,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-redshift-1.17.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-redshift (v1.18.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-redshift-1.18.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-redshift-1.18.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-redshift (v1.2.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
@@ -11009,6 +11086,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-resources-3.36.0/bin" />
       </excluded>
     </library>
+    <library name="aws-sdk-resources (v3.37.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-resources-3.37.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-resources-3.37.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-resources-3.37.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-resources-3.37.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-resources-3.37.0/bin" />
+      </excluded>
+    </library>
     <library name="aws-sdk-robomaker (v1.0.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -11240,6 +11333,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-s3-1.30.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-s3 (v1.30.1, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-s3-1.30.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-s3-1.30.1/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-s3control (v1.1.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -11304,6 +11408,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-sagemaker-1.27.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-sagemaker (v1.28.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-sagemaker-1.28.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-sagemaker-1.28.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-sagemaker (v1.8.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
@@ -12261,6 +12376,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-storagegateway-1.13.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-storagegateway (v1.14.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-storagegateway-1.14.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-storagegateway-1.14.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-storagegateway (v1.3.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
