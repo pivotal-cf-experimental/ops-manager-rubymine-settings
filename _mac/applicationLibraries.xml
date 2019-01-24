@@ -22797,6 +22797,7 @@
     </library>
     <library name="json (v2.1.0, ruby-2.4.4-p296) [gem]" type="ruby">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.1.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-2.1.0/data" />
@@ -22807,6 +22808,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-2.1.0/references" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.1.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/json-2.1.0/data" />
@@ -27339,6 +27341,7 @@
     </library>
     <library name="nio4r (v2.3.1, ruby-2.4.4-p296) [gem]" type="ruby">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nio4r-2.3.1/spec" />
@@ -27346,6 +27349,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nio4r-2.3.1/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.6/gems/nio4r-2.3.1/spec" />
