@@ -3395,6 +3395,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-partitions-1.131.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.136.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-partitions-1.136.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-partitions-1.136.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-partitions (v1.87.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -6333,6 +6344,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-core-3.45.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-core (v3.46.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-core-3.46.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-core-3.46.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-costandusagereportservice (v1.0.1, chruby: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -7156,6 +7178,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-ec2-1.66.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-ec2 (v1.67.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-ec2-1.67.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-ec2-1.67.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-ecr (v1.10.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
