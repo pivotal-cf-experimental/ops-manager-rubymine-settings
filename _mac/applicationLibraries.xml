@@ -22505,6 +22505,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/erubi-1.7.1/test" />
       </excluded>
     </library>
+    <library name="erubi (v1.8.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/erubi-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/erubi-1.8.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/erubi-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/erubi-1.8.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/erubi-1.8.0/test" />
+      </excluded>
+    </library>
     <library name="erubis (v2.7.0, chruby: ruby-2.2.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -32171,6 +32187,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/i18n-1.5.1/lib" />
       </SOURCES>
     </library>
+    <library name="i18n (v1.5.3, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/i18n-1.5.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/i18n-1.5.3/lib" />
+      </SOURCES>
+    </library>
     <library name="inflecto (v0.0.2, chruby: ruby-2.2.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -33156,6 +33183,24 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/jquery-rails-4.3.1/test" />
+      </excluded>
+    </library>
+    <library name="jquery-rails (v4.3.3, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/jquery-rails-4.3.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/jquery-rails-4.3.3/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/jquery-rails-4.3.3/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/jquery-rails-4.3.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/jquery-rails-4.3.3/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/jquery-rails-4.3.3/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/jquery-rails-4.3.3/test" />
       </excluded>
     </library>
     <library name="json (v1.8.1, chruby: ruby-2.2.4) [gem]" type="rubylib">
