@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="commit-and-slack-version-changes" type="Bash" />
+      <mapping pattern="copy-and-rename-release-files" type="Bash" />
       <mapping pattern="copy-awscn-release-files" type="Bash" />
       <mapping pattern="generate-aws-pdf-and-yml" type="Bash" />
       <mapping pattern="publish-amis-for-cn" type="Bash" />
