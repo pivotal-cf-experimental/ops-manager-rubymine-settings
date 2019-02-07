@@ -10,6 +10,7 @@
       <mapping pattern="ssh_onto_opsmanager_vm" type="Bash" />
       <mapping pattern="provision-azure-stack-environment" type="Bash" />
       <mapping pattern="auto_bump_versions_and_commit" type="Bash" />
+      <mapping pattern="send-slack-message-for-make-pivnet-release-public" type="Bash" />
       <mapping ext="12" type="Bash" />
       <mapping pattern="send-slack-message-for-china-release-to-admins" type="C#" />
       <mapping pattern="Dockerfile-for-bosh-compilation" type="Dockerfile" />
