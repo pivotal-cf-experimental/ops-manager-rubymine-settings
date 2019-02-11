@@ -35859,11 +35859,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/bootsnap/1.3.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bootsnap-1.3.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bootsnap-1.3.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bootsnap-1.3.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/bootsnap/1.3.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bootsnap-1.3.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bootsnap-1.3.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bootsnap-1.3.2/lib" />
@@ -61746,6 +61748,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/msgpack/1.2.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/msgpack-1.2.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/msgpack-1.2.6/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/msgpack-1.2.6/spec" />
@@ -61753,6 +61756,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/msgpack-1.2.6/doclib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs20/msgpack/1.2.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/msgpack-1.2.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/msgpack-1.2.6/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/msgpack-1.2.6/spec" />
