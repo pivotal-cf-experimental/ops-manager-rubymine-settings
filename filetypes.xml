@@ -7,6 +7,7 @@
       <mapping pattern="generate-aws-pdf-and-yml" type="Bash" />
       <mapping pattern="publish-amis-for-cn" type="Bash" />
       <mapping pattern="mspecs" type="Bash" />
+      <mapping pattern="override-google-terraform-provider" type="Bash" />
       <mapping pattern="ssh_onto_opsmanager_vm" type="Bash" />
       <mapping pattern="provision-azure-stack-environment" type="Bash" />
       <mapping pattern="auto_bump_versions_and_commit" type="Bash" />
