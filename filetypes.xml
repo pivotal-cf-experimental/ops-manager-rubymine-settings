@@ -16,6 +16,7 @@
       <mapping pattern="send-slack-message-for-china-release-to-admins" type="C#" />
       <mapping pattern="Dockerfile-for-bosh-compilation" type="Dockerfile" />
       <mapping pattern="*.md.erb" type="Markdown" />
+      <mapping pattern="state-file-exists" type="PLAIN_TEXT" />
       <mapping pattern="init_d_tempest_scheduler" type="PLAIN_TEXT" />
       <mapping pattern="poseidon" type="PLAIN_TEXT" />
       <mapping pattern="list-stories-since-last-release" type="PLAIN_TEXT" />
