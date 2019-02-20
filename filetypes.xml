@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="send-published-to-pivnet-message" type="Bash" />
       <mapping pattern="commit-and-slack-version-changes" type="Bash" />
       <mapping pattern="copy-and-rename-release-files" type="Bash" />
       <mapping pattern="copy-awscn-release-files" type="Bash" />
