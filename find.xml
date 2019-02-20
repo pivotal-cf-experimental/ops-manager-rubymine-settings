@@ -16,5 +16,6 @@
     <mask>*.rb</mask>
     <mask>*_spec.rb</mask>
     <mask>*.yml</mask>
+    <mask>opsmanager-*.yml</mask>
   </component>
 </application>
