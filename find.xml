@@ -15,9 +15,10 @@
     <mask>*.mxml</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
-    <mask>*.rb</mask>
     <mask>*_spec.rb</mask>
     <mask>opsmanager-*.yml</mask>
     <mask>*.yml</mask>
+    <mask>*.rake</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
