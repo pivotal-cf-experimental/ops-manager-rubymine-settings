@@ -1352,6 +1352,28 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-partitions-1.136.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.140.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-partitions-1.140.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-partitions-1.140.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-partitions (v1.141.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-partitions-1.141.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-partitions-1.141.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-partitions (v1.87.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -3603,6 +3625,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-core-3.46.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-core (v3.46.2, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-core-3.46.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-core-3.46.2/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-costandusagereportservice (v1.0.1, chruby: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -4362,6 +4395,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-ec2-1.67.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-ec2 (v1.70.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-ec2-1.70.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-ec2-1.70.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-ecr (v1.10.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -4833,6 +4877,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-elasticloadbalancingv2-1.20.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-elasticloadbalancingv2 (v1.21.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-elasticloadbalancingv2-1.21.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/aws-sdk-elasticloadbalancingv2-1.21.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-elasticloadbalancingv2 (v1.8.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
@@ -10674,6 +10729,13 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/builder-3.2.3/rakelib" />
       </excluded>
     </library>
+    <library name="bundle (v0.0.1, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="bundler (v1.14.6, chruby: ruby-2.2.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -10732,6 +10794,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.16.2/exe" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.16.2/man" />
+      </excluded>
+    </library>
+    <library name="bundler (v2.0.1, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-2.0.1/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-2.0.1/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-2.0.1/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-2.0.1/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-2.0.1/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-2.0.1/man" />
       </excluded>
     </library>
     <library name="bundler-audit (v0.5.0, chruby: ruby-2.2.4) [gem]" type="rubylib">
@@ -22012,11 +22093,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/1.1.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/pg-1.1.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/pg-1.1.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/pg-1.1.0/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/1.1.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/pg-1.1.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/pg-1.1.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/pg-1.1.0/spec" />
