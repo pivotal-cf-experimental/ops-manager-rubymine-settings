@@ -29,7 +29,6 @@
       <mapping pattern=".rspec_parallel_units" type="PLAIN_TEXT" />
       <mapping ext="tgz" type="PLAIN_TEXT" />
       <mapping ext="d" type="PLAIN_TEXT" />
-      <mapping ext="tf" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping pattern="auto_bump_minor_versions" type="Ruby" />
       <mapping pattern="build_image" type="Ruby" />
