@@ -8,16 +8,11 @@
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.as</mask>
-    <mask>*.mxml</mask>
     <mask>*.js</mask>
-    <mask>*.scss</mask>
-    <mask>*_spec.rb</mask>
-    <mask>opsmanager-*.yml</mask>
-    <mask>*.yml</mask>
-    <mask>*.rake</mask>
-    <mask>*.haml</mask>
-    <mask>*.rb</mask>
+    <mask>*.as</mask>
     <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.rb</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
