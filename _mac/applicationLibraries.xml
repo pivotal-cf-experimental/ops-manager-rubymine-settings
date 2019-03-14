@@ -46200,6 +46200,32 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/terminal-table-1.4.5/examples" />
       </excluded>
     </library>
+    <library name="test-prof (v0.7.5, ruby-2.3.6-p384) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/test-prof-0.7.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/test-prof-0.7.5/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/test-prof-0.7.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/test-prof-0.7.5/assets" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/test-prof-0.7.5/assets" />
+      </excluded>
+    </library>
+    <library name="test-prof (v0.7.5, ruby-2.4.4-p296) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/test-prof-0.7.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/test-prof-0.7.5/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/test-prof-0.7.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/test-prof-0.7.5/assets" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/test-prof-0.7.5/assets" />
+      </excluded>
+    </library>
     <library name="test-unit (v3.0.8, chruby: ruby-2.2.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.2.4/lib/ruby/gems/2.2.0/gems/test-unit-3.0.8/doc" />
