@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="send-published-to-pivnet-message" type="Bash" />
       <mapping pattern="commit-and-slack-version-changes" type="Bash" />
       <mapping pattern="copy-and-rename-release-files" type="Bash" />
       <mapping pattern="copy-awscn-release-files" type="Bash" />
       <mapping pattern="generate-aws-pdf-and-yml" type="Bash" />
+      <mapping pattern="send-published-to-pivnet-message" type="Bash" />
       <mapping pattern="publish-amis-for-cn" type="Bash" />
       <mapping pattern="mspecs" type="Bash" />
       <mapping pattern="run-stories-since-last-release" type="Bash" />
@@ -20,15 +20,16 @@
       <mapping pattern="*.md.erb" type="Markdown" />
       <mapping pattern="state-file-exists" type="PLAIN_TEXT" />
       <mapping pattern="init_d_tempest_scheduler" type="PLAIN_TEXT" />
+      <mapping pattern=".rspec_parallel_units" type="PLAIN_TEXT" />
       <mapping pattern="poseidon" type="PLAIN_TEXT" />
       <mapping pattern="list-stories-since-last-release" type="PLAIN_TEXT" />
       <mapping pattern="run-appliance-spec" type="PLAIN_TEXT" />
       <mapping pattern="deps" type="PLAIN_TEXT" />
       <mapping pattern=".rspec_parallel_features" type="PLAIN_TEXT" />
       <mapping pattern="bump-build-number-with-semver" type="PLAIN_TEXT" />
-      <mapping pattern=".rspec_parallel_units" type="PLAIN_TEXT" />
       <mapping ext="tgz" type="PLAIN_TEXT" />
       <mapping ext="d" type="PLAIN_TEXT" />
+      <mapping ext="tf" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping pattern="auto_bump_minor_versions" type="Ruby" />
       <mapping pattern="build_image" type="Ruby" />
@@ -36,8 +37,8 @@
       <mapping pattern="hades" type="YAML" />
       <mapping pattern="cerulean" type="YAML" />
       <mapping pattern="athena" type="YAML" />
-      <mapping pattern="blue" type="YAML" />
       <mapping pattern="artemis" type="YAML" />
+      <mapping pattern="blue" type="YAML" />
       <mapping pattern="cobalt" type="YAML" />
     </extensionMap>
   </component>
