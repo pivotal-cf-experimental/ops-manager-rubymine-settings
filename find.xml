@@ -14,5 +14,6 @@
     <mask>*.mxml</mask>
     <mask>*.rb</mask>
     <mask>*.yml</mask>
+    <mask>*.rb,!*spec.rb</mask>
   </component>
 </application>
