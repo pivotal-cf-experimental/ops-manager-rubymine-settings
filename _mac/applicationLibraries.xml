@@ -19452,6 +19452,34 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-1.14.6/man" />
       </excluded>
     </library>
+    <library name="bundler (v1.15.4, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.15.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.15.4/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.15.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.15.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.15.4/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.15.4/task" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.15.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.15.4/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.15.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.15.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.15.4/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.15.4/task" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.15.4/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.15.4/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.15.4/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.15.4/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.15.4/task" />
+      </excluded>
+    </library>
     <library name="bundler (v1.16.0, chruby: ruby-2.2.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -19542,6 +19570,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.16.2/exe" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.16.2/man" />
+      </excluded>
+    </library>
+    <library name="bundler (v1.16.6, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.16.6/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.16.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.16.6/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.16.6/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.16.6/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.16.6/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.16.6/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-1.16.6/man" />
       </excluded>
     </library>
     <library name="bundler (v2.0.1, chruby: ruby-2.4.4) [gem]" type="rubylib">
