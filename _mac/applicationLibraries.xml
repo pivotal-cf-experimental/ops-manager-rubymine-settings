@@ -27687,6 +27687,31 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.9.0/examples" />
       </excluded>
     </library>
+    <library name="fog-google (v1.9.1, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.9.1/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.9.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.9.1/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.9.1/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.9.1/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.9.1/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.9.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.9.1/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.9.1/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.9.1/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.9.1/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.9.1/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.9.1/tasks" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-google-1.9.1/examples" />
+      </excluded>
+    </library>
     <library name="fog-json (v1.0.2, chruby: ruby-2.2.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -38627,6 +38652,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.1/patches" />
+      </excluded>
+    </library>
+    <library name="nokogiri (v1.10.2, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.2" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.2/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.2/patches" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.2" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.2/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.2/patches" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.2/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.2/patches" />
       </excluded>
     </library>
     <library name="nokogiri (v1.6.7.2, chruby: ruby-2.3.0) [gem]" type="rubylib">
@@ -52750,6 +52799,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.1/ci" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.1/spec" />
+      </excluded>
+    </library>
+    <library name="vm_shepherd (v3.6.2, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.2/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.2/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.2/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.2/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/vm_shepherd-3.6.2/spec" />
       </excluded>
     </library>
     <library name="web-console (v2.3.0, chruby: ruby-2.2.4) [gem]" type="rubylib">
