@@ -25983,6 +25983,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.21" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.21/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.21/gen" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.21/lib" />
@@ -25990,6 +25991,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.21/libtest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.21" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.21/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.21/gen" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.21/lib" />
@@ -38490,6 +38492,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nio4r-2.3.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nio4r-2.3.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nio4r-2.3.0/spec" />
@@ -38497,6 +38500,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nio4r-2.3.0/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nio4r-2.3.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nio4r-2.3.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nio4r-2.3.0/spec" />
@@ -39049,6 +39053,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.2/lib" />
@@ -39058,6 +39063,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.2/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.2/lib" />
@@ -49787,6 +49793,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/stackprof/0.2.10" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/lib" />
@@ -49794,6 +49801,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/vendor" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/stackprof/0.2.10" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/stackprof-0.2.10/lib" />
