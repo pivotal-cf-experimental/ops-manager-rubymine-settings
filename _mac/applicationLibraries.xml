@@ -1107,7 +1107,7 @@
     </library>
     <library name="bigdecimal (v1.3.4, chruby: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES />
       <SOURCES />
@@ -1486,6 +1486,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-2.0.1/exe" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/bundler-2.0.1/man" />
+      </excluded>
+    </library>
+    <library name="bundler (v2.0.1, chruby: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bundler-2.0.1/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bundler-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bundler-2.0.1/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bundler-2.0.1/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bundler-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bundler-2.0.1/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bundler-2.0.1/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bundler-2.0.1/man" />
       </excluded>
     </library>
     <library name="bundler-audit (v0.5.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
@@ -2482,7 +2501,7 @@
     </library>
     <library name="did_you_mean (v1.2.0, chruby: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/did_you_mean-1.2.0/doc" />
@@ -3156,11 +3175,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.25/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.25/samples" />
@@ -3172,7 +3193,7 @@
     </library>
     <library name="fiddle (v1.0.0, chruby: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES />
       <SOURCES />
@@ -4452,7 +4473,7 @@
     </library>
     <library name="io-console (v0.4.6, chruby: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES />
       <SOURCES />
@@ -4725,6 +4746,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.1.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json-2.1.0/data" />
@@ -4735,6 +4757,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json-2.1.0/references" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.1.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json-2.1.0/data" />
@@ -4756,7 +4779,7 @@
     </library>
     <library name="json (v2.1.0, chruby: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/json/add" />
@@ -5834,7 +5857,7 @@
     </library>
     <library name="minitest (v5.10.3, chruby: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/minitest-5.10.3/lib" />
@@ -6366,7 +6389,7 @@
     </library>
     <library name="net-telnet (v0.1.1, chruby: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/net-telnet-0.1.1/bin" />
@@ -6495,12 +6518,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.1/patches" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.1/lib" />
@@ -6718,7 +6743,7 @@
     </library>
     <library name="openssl (v2.1.0, chruby: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES />
       <SOURCES />
@@ -7184,7 +7209,7 @@
     </library>
     <library name="power_assert (v1.1.1, chruby: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/power_assert-1.1.1/bin" />
@@ -7489,7 +7514,7 @@
     </library>
     <library name="psych (v3.0.2, chruby: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/psych/json" />
@@ -8174,7 +8199,7 @@
     </library>
     <library name="rake (v12.3.0, chruby: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/bin" />
@@ -8258,11 +8283,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.9.8/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.9.8/lib" />
@@ -8459,7 +8486,7 @@
     </library>
     <library name="rdoc (v6.0.1, chruby: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/rdoc/rd" />
@@ -9726,7 +9753,7 @@
     </library>
     <library name="test-unit (v3.2.7, chruby: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/test-unit-3.2.7/doc" />
@@ -10336,7 +10363,7 @@
     </library>
     <library name="webrick (v1.4.2, chruby: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/2.5.0/webrick/httpauth" />
@@ -10417,7 +10444,7 @@
     </library>
     <library name="xmlrpc (v0.3.0, chruby: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
-        <option name="version" value="3" />
+        <option name="version" value="4" />
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/xmlrpc-0.3.0/bin" />
