@@ -26120,6 +26120,50 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/azure_mgmt_storage-0.17.3/lib" />
       </SOURCES>
     </library>
+    <library name="babel-source (v5.8.35, ruby-2.3.6-p384) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/babel-source-5.8.35/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/babel-source-5.8.35/lib" />
+      </SOURCES>
+    </library>
+    <library name="babel-source (v5.8.35, ruby-2.4.4-p296) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/babel-source-5.8.35/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/babel-source-5.8.35/lib" />
+      </SOURCES>
+    </library>
+    <library name="babel-transpiler (v0.7.0, ruby-2.3.6-p384) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/babel-transpiler-0.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/babel-transpiler-0.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="babel-transpiler (v0.7.0, ruby-2.4.4-p296) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/babel-transpiler-0.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/babel-transpiler-0.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="backports (v3.11.0, ruby-2.3.6-p384) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -28491,6 +28535,38 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/concurrent-ruby-1.1.5/ext" />
+      </excluded>
+    </library>
+    <library name="connection_pool (v2.2.2, ruby-2.3.6-p384) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/connection_pool-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/connection_pool-2.2.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/connection_pool-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/connection_pool-2.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/connection_pool-2.2.2/test" />
+      </excluded>
+    </library>
+    <library name="connection_pool (v2.2.2, ruby-2.4.4-p296) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/connection_pool-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/connection_pool-2.2.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/connection_pool-2.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/connection_pool-2.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/connection_pool-2.2.2/test" />
       </excluded>
     </library>
     <library name="contracts (v0.12.0, ruby-2.3.6-p384) [gem]" type="rubylib">
@@ -41768,6 +41844,38 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rack-mini-profiler-0.10.5/lib" />
       </SOURCES>
     </library>
+    <library name="rack-proxy (v0.6.5, ruby-2.3.6-p384) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rack-proxy-0.6.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rack-proxy-0.6.5/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rack-proxy-0.6.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rack-proxy-0.6.5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rack-proxy-0.6.5/test" />
+      </excluded>
+    </library>
+    <library name="rack-proxy (v0.6.5, ruby-2.4.4-p296) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rack-proxy-0.6.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rack-proxy-0.6.5/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rack-proxy-0.6.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rack-proxy-0.6.5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rack-proxy-0.6.5/test" />
+      </excluded>
+    </library>
     <library name="rack-rewrite (v1.5.1, ruby-2.3.6-p384) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -43195,6 +43303,28 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.4.4/lib/ruby/2.4.0/rdoc/markdown" />
         <root url="file://$USER_HOME$/.rubies/ruby-2.4.4/lib/ruby/2.4.0/rdoc/generator" />
       </excluded>
+    </library>
+    <library name="react-rails (v2.5.0, ruby-2.3.6-p384) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/react-rails-2.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/react-rails-2.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="react-rails (v2.5.0, ruby-2.4.4-p296) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/react-rails-2.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/react-rails-2.5.0/lib" />
+      </SOURCES>
     </library>
     <library name="redcarpet (v3.2.3, ruby-2.3.6-p384) [gem]" type="rubylib">
       <properties>
@@ -47810,6 +47940,56 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webmock-3.4.2/spec" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webmock-3.4.2/test" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webmock-3.4.2/minitest" />
+      </excluded>
+    </library>
+    <library name="webpacker (v4.0.2, ruby-2.3.6-p384) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/package" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/package" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/package" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/gemfiles" />
+      </excluded>
+    </library>
+    <library name="webpacker (v4.0.2, ruby-2.4.4-p296) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/package" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/package" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/package" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webpacker-4.0.2/gemfiles" />
       </excluded>
     </library>
     <library name="websocket-driver (v0.6.5, ruby-2.3.6-p384) [gem]" type="rubylib">
