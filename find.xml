@@ -13,8 +13,8 @@
     <mask>*.mxml</mask>
     <mask>*spec.rb</mask>
     <mask>*.rb</mask>
-    <mask>*.rb,!*spec.rb</mask>
     <mask>*.html</mask>
     <mask>!*.json,!*.go</mask>
+    <mask>*.rb,!*spec.rb</mask>
   </component>
 </application>
