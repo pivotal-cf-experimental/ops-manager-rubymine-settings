@@ -18,15 +18,25 @@
       <mapping pattern="send-slack-message-for-china-release-to-admins" type="C#" />
       <mapping pattern="Dockerfile-for-bosh-compilation" type="Dockerfile" />
       <mapping pattern="*.md.erb" type="Markdown" />
+      <mapping pattern="bush" type="PLAIN_TEXT" />
+      <mapping pattern="shiba" type="PLAIN_TEXT" />
+      <mapping pattern="soma" type="PLAIN_TEXT" />
       <mapping pattern="state-file-exists" type="PLAIN_TEXT" />
       <mapping pattern="init_d_tempest_scheduler" type="PLAIN_TEXT" />
       <mapping pattern=".rspec_parallel_units" type="PLAIN_TEXT" />
+      <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="poseidon" type="PLAIN_TEXT" />
       <mapping pattern="list-stories-since-last-release" type="PLAIN_TEXT" />
+      <mapping pattern="build-openstack-tfvars" type="PLAIN_TEXT" />
+      <mapping pattern="chinatown" type="PLAIN_TEXT" />
       <mapping pattern="run-appliance-spec" type="PLAIN_TEXT" />
+      <mapping pattern="nobhill" type="PLAIN_TEXT" />
       <mapping pattern="deps" type="PLAIN_TEXT" />
       <mapping pattern=".rspec_parallel_features" type="PLAIN_TEXT" />
+      <mapping pattern="dogpatch" type="PLAIN_TEXT" />
       <mapping pattern="bump-build-number-with-semver" type="PLAIN_TEXT" />
+      <mapping pattern="nopa" type="PLAIN_TEXT" />
+      <mapping pattern="garfield" type="PLAIN_TEXT" />
       <mapping ext="tgz" type="PLAIN_TEXT" />
       <mapping ext="d" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
