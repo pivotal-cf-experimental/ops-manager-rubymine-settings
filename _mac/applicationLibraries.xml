@@ -18869,10 +18869,12 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/jaro_winkler/1.5.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/jaro_winkler-1.5.1-x86_64-darwin-17/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/jaro_winkler-1.5.1-x86_64-darwin-17/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/jaro_winkler/1.5.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/jaro_winkler-1.5.1-x86_64-darwin-17/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/jaro_winkler-1.5.1-x86_64-darwin-17/lib" />
       </SOURCES>
@@ -19058,6 +19060,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/json-1.8.6/data" />
@@ -19067,6 +19070,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/json-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/json-1.8.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/json-1.8.6/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/json-1.8.6/data" />
@@ -19172,6 +19176,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.2.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json-2.2.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json-2.2.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json-2.2.0/java" />
@@ -19181,6 +19186,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json-2.2.0/references" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/json/2.2.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json-2.2.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json-2.2.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/json-2.2.0/java" />
@@ -21800,12 +21806,14 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.9.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/nokogiri-1.9.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/nokogiri-1.9.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/nokogiri-1.9.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/nokogiri-1.9.1/patches" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.9.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/nokogiri-1.9.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/nokogiri-1.9.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/nokogiri-1.9.1/lib" />
