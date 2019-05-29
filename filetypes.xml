@@ -1,45 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="commit-and-slack-version-changes" type="Bash" />
-      <mapping pattern="copy-and-rename-release-files" type="Bash" />
-      <mapping pattern="copy-awscn-release-files" type="Bash" />
-      <mapping pattern="generate-aws-pdf-and-yml" type="Bash" />
-      <mapping pattern="send-published-to-pivnet-message" type="Bash" />
-      <mapping pattern="publish-amis-for-cn" type="Bash" />
-      <mapping pattern="mspecs" type="Bash" />
-      <mapping pattern="run-stories-since-last-release" type="Bash" />
-      <mapping pattern="override-google-terraform-provider" type="Bash" />
-      <mapping pattern="ssh_onto_opsmanager_vm" type="Bash" />
-      <mapping pattern="provision-azure-stack-environment" type="Bash" />
-      <mapping pattern="auto_bump_versions_and_commit" type="Bash" />
-      <mapping pattern="send-slack-message-for-make-pivnet-release-public" type="Bash" />
-      <mapping ext="12" type="Bash" />
-      <mapping pattern="send-slack-message-for-china-release-to-admins" type="C#" />
-      <mapping pattern="Dockerfile-for-bosh-compilation" type="Dockerfile" />
-      <mapping pattern="*.md.erb" type="Markdown" />
-      <mapping pattern="state-file-exists" type="PLAIN_TEXT" />
-      <mapping pattern="init_d_tempest_scheduler" type="PLAIN_TEXT" />
-      <mapping pattern=".rspec_parallel_units" type="PLAIN_TEXT" />
-      <mapping pattern="poseidon" type="PLAIN_TEXT" />
-      <mapping pattern="list-stories-since-last-release" type="PLAIN_TEXT" />
-      <mapping pattern="copy-module-override-files" type="PLAIN_TEXT" />
-      <mapping pattern="run-appliance-spec" type="PLAIN_TEXT" />
-      <mapping pattern="deps" type="PLAIN_TEXT" />
-      <mapping pattern=".rspec_parallel_features" type="PLAIN_TEXT" />
-      <mapping pattern="bump-build-number-with-semver" type="PLAIN_TEXT" />
-      <mapping ext="tgz" type="PLAIN_TEXT" />
-      <mapping ext="d" type="PLAIN_TEXT" />
-      <mapping ext="service" type="PLAIN_TEXT" />
-      <mapping pattern="auto_bump_minor_versions" type="Ruby" />
-      <mapping pattern="build_image" type="Ruby" />
-      <mapping ext="ova" type="XML" />
-      <mapping pattern="hades" type="YAML" />
-      <mapping pattern="cerulean" type="YAML" />
-      <mapping pattern="athena" type="YAML" />
-      <mapping pattern="artemis" type="YAML" />
-      <mapping pattern="blue" type="YAML" />
-      <mapping pattern="cobalt" type="YAML" />
+      <mapping ext="dockerfile" type="Dockerfile" />
     </extensionMap>
   </component>
 </application>
