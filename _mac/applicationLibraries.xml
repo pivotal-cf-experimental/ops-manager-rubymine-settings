@@ -14695,7 +14695,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json_pure/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/json_pure-1.8.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/json_pure-1.8.6/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/json_pure-1.8.6/data" />
@@ -14705,7 +14704,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/json_pure-1.8.6/diagrams" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/json_pure/1.8.6" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/json_pure-1.8.6/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/json_pure-1.8.6/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/json_pure-1.8.6/data" />
@@ -18157,7 +18155,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.7.0.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/nokogiri-1.7.0.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/nokogiri-1.7.0.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/nokogiri-1.7.0.1/lib" />
@@ -18167,7 +18164,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/nokogiri-1.7.0.1/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/nokogiri/1.7.0.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/nokogiri-1.7.0.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/nokogiri-1.7.0.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/nokogiri-1.7.0.1/lib" />
@@ -18514,6 +18510,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.6.0.pre.build.000/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.6.0.pre.build.000/exe" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.6.0.pre.build.000/defaults" />
+      </excluded>
+    </library>
+    <library name="ops-manifest (v2.7.0.pre.build.39, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.7.0.pre.build.39/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.7.0.pre.build.39/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.7.0.pre.build.39/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.7.0.pre.build.39/vendor" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.7.0.pre.build.39/defaults" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.7.0.pre.build.39/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.7.0.pre.build.39/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.7.0.pre.build.39/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.7.0.pre.build.39/vendor" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.7.0.pre.build.39/defaults" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.7.0.pre.build.39/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.7.0.pre.build.39/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.7.0.pre.build.39/defaults" />
       </excluded>
     </library>
     <library name="os (v0.9.6, chruby: ruby-2.4.4) [gem]" type="rubylib">
