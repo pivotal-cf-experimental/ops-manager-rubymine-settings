@@ -40843,6 +40843,62 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/gemfiles" />
       </excluded>
     </library>
+    <library name="fog (v1.34.0, ruby-2.3.6-p384) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/benchs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/benchs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/benchs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/gemfiles" />
+      </excluded>
+    </library>
+    <library name="fog (v1.34.0, ruby-2.4.4-p296) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/benchs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/benchs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/tests" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/benchs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-1.34.0/gemfiles" />
+      </excluded>
+    </library>
     <library name="fog-atmos (v0.1.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
