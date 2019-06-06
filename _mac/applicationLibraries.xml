@@ -42398,6 +42398,56 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/playbooks" />
       </excluded>
     </library>
+    <library name="fog-openstack (v0.1.31, ruby-2.3.6-p384) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/examples" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/playbooks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/examples" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/playbooks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/examples" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/playbooks" />
+      </excluded>
+    </library>
+    <library name="fog-openstack (v0.1.31, ruby-2.4.4-p296) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/examples" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/playbooks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/examples" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/playbooks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/docs" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/examples" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fog-openstack-0.1.31/playbooks" />
+      </excluded>
+    </library>
     <library name="fog-powerdns (v0.1.1, ruby-2.3.6-p384) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
