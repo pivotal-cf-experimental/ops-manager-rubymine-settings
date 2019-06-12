@@ -16,5 +16,6 @@
     <mask>*.rb</mask>
     <mask>*.rb,!*spec.rb</mask>
     <mask>*.yml</mask>
+    <mask>*.haml</mask>
   </component>
 </application>
