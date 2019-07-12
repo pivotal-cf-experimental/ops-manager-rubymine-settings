@@ -15,9 +15,9 @@
     <mask>*.mxml</mask>
     <mask>*.scss</mask>
     <mask>*spec.js</mask>
-    <mask>*.js</mask>
     <mask>*spec.rb</mask>
     <mask>*.rb,!*spec.rb</mask>
     <mask>*.rb</mask>
+    <mask>*.js</mask>
   </component>
 </application>
