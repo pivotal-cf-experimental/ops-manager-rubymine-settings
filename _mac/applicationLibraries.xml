@@ -17449,7 +17449,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/mysql2/0.4.9" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.9/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.9/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.9/spec" />
@@ -17457,7 +17456,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.9/examples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/mysql2/0.4.9" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.9/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.9/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/mysql2-0.4.9/spec" />
@@ -18404,7 +18402,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.5/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.5/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.5/lib" />
@@ -18414,7 +18411,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.5/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.8.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.5/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.5/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.8.5/lib" />
