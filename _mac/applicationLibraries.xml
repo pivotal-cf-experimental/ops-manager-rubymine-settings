@@ -10601,6 +10601,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/erubis-2.7.0/benchmark" />
       </excluded>
     </library>
+    <library name="et-orbi (v1.2.1, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/et-orbi-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/et-orbi-1.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="eventmachine (v1.0.9.1, chruby: ruby-2.2.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12870,6 +12881,17 @@
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/formatador-0.2.5/tests" />
       </excluded>
+    </library>
+    <library name="fugit (v1.2.3, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fugit-1.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/fugit-1.2.3/lib" />
+      </SOURCES>
     </library>
     <library name="globalid (v0.4.1, chruby: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
@@ -19026,6 +19048,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/parallel_tests-2.25.0/bin" />
       </excluded>
     </library>
+    <library name="parse-cron (v0.1.4, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/parse-cron-0.1.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/parse-cron-0.1.4/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/parse-cron-0.1.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/parse-cron-0.1.4/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/parse-cron-0.1.4/spec" />
+      </excluded>
+    </library>
     <library name="parser (v2.3.0.6, chruby: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -20231,6 +20269,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.0.3/data" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.0.3/test" />
       </excluded>
+    </library>
+    <library name="raabro (v1.1.6, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/raabro-1.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/raabro-1.1.6/lib" />
+      </SOURCES>
     </library>
     <library name="rack (v1.5.5, chruby: ruby-2.2.4) [gem]" type="rubylib">
       <properties>
