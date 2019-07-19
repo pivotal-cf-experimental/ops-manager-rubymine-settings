@@ -34680,6 +34680,38 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/capybara-3.10.1/spec" />
       </excluded>
     </library>
+    <library name="capybara (v3.26.0, ruby-2.3.6-p384) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/capybara-3.26.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/capybara-3.26.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/capybara-3.26.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/capybara-3.26.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/capybara-3.26.0/spec" />
+      </excluded>
+    </library>
+    <library name="capybara (v3.26.0, ruby-2.4.4-p296) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/capybara-3.26.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/capybara-3.26.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/capybara-3.26.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/capybara-3.26.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/capybara-3.26.0/spec" />
+      </excluded>
+    </library>
     <library name="capybara-selenium (v0.0.6, chruby: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -54120,11 +54152,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.21.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/pg-0.21.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/pg-0.21.0/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/0.21.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/pg-0.21.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/pg-0.21.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/pg-0.21.0/spec" />
@@ -55209,6 +55243,50 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.0.3/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.0.3/data" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.0.3/test" />
+      </excluded>
+    </library>
+    <library name="public_suffix (v3.1.1, ruby-2.3.6-p384) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.1.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.1.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.1.1/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.1.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.1.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.1.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.1.1/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.1.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.1.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.1.1/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.1.1/test" />
+      </excluded>
+    </library>
+    <library name="public_suffix (v3.1.1, ruby-2.4.4-p296) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.1.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.1.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.1.1/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.1.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.1.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.1.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.1.1/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.1.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.1.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.1.1/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/public_suffix-3.1.1/test" />
       </excluded>
     </library>
     <library name="puma (v3.11.0, ruby-2.3.6-p384) [gem]" type="rubylib">
@@ -58475,6 +58553,38 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/regexp_parser-1.2.0/test" />
+      </excluded>
+    </library>
+    <library name="regexp_parser (v1.6.0, ruby-2.3.6-p384) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/regexp_parser-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/regexp_parser-1.6.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/regexp_parser-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/regexp_parser-1.6.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/regexp_parser-1.6.0/spec" />
+      </excluded>
+    </library>
+    <library name="regexp_parser (v1.6.0, ruby-2.4.4-p296) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/regexp_parser-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/regexp_parser-1.6.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/regexp_parser-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/regexp_parser-1.6.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/regexp_parser-1.6.0/spec" />
       </excluded>
     </library>
     <library name="representable (v3.0.4, chruby: ruby-2.4.4) [gem]" type="rubylib">
