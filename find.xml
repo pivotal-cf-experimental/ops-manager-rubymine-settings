@@ -13,11 +13,11 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*spec.rb</mask>
-    <mask>*.rb</mask>
     <mask>*.yml</mask>
     <mask>*.haml</mask>
     <mask>*.rb,!*spec.rb</mask>
     <mask>*.js</mask>
+    <mask>*spec.rb</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
