@@ -52736,28 +52736,28 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="ops-manifest (v2.6.3.pre.build.164, ruby-2.4.4-p296) [gem]" type="rubylib">
+    <library name="ops-manifest (v1.0.0.pre.build.000, ruby-2.4.4-p296) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.6.3.pre.build.164/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.6.3.pre.build.164/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.6.3.pre.build.164/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.6.3.pre.build.164/vendor" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.6.3.pre.build.164/defaults" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-1.0.0.pre.build.000/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-1.0.0.pre.build.000/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-1.0.0.pre.build.000/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-1.0.0.pre.build.000/vendor" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-1.0.0.pre.build.000/defaults" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.6.3.pre.build.164/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.6.3.pre.build.164/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.6.3.pre.build.164/lib" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.6.3.pre.build.164/vendor" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.6.3.pre.build.164/defaults" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-1.0.0.pre.build.000/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-1.0.0.pre.build.000/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-1.0.0.pre.build.000/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-1.0.0.pre.build.000/vendor" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-1.0.0.pre.build.000/defaults" />
       </SOURCES>
       <excluded>
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.6.3.pre.build.164/bin" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.6.3.pre.build.164/exe" />
-        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-2.6.3.pre.build.164/defaults" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-1.0.0.pre.build.000/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-1.0.0.pre.build.000/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ops-manifest-1.0.0.pre.build.000/defaults" />
       </excluded>
     </library>
     <library name="optimist (v3.0.0, ruby-2.3.6-p384) [gem]" type="rubylib">
