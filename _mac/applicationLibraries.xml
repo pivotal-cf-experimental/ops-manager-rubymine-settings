@@ -35526,6 +35526,44 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.6.3/lib/ruby/2.6.0/bundler/compact_index_client" />
       </excluded>
     </library>
+    <library name="bundler (v2.0.2, ruby-2.3.6-p384) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-2.0.2/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-2.0.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-2.0.2/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-2.0.2/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-2.0.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-2.0.2/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-2.0.2/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-2.0.2/man" />
+      </excluded>
+    </library>
+    <library name="bundler (v2.0.2, ruby-2.4.4-p296) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-2.0.2/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-2.0.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-2.0.2/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-2.0.2/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-2.0.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-2.0.2/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-2.0.2/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/bundler-2.0.2/man" />
+      </excluded>
+    </library>
     <library name="bundler-audit (v0.5.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
