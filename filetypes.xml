@@ -3,6 +3,10 @@
     <extensionMap>
       <mapping ext="dockerfile" type="Dockerfile" />
       <mapping pattern="deps" type="PLAIN_TEXT" />
+      <mapping pattern="luna" type="PLAIN_TEXT" />
+      <mapping pattern="hyperion" type="PLAIN_TEXT" />
+      <mapping pattern="titan" type="PLAIN_TEXT" />
+      <mapping pattern="europa" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
