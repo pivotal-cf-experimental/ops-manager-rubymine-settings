@@ -13625,13 +13625,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debase/0.2.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.2.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.2.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.2.2/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/debase/0.2.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.2.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.2.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.2.2/test" />
@@ -16844,13 +16842,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.25/samples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ffi-1.9.25/samples" />
@@ -30068,14 +30064,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg/0.20.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/pg-0.20.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/pg-0.20.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/pg-0.20.0/spec" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/pg-0.20.0/sample" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/pg/0.20.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/pg-0.20.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/pg-0.20.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.2.4/gems/pg-0.20.0/spec" />
@@ -33601,13 +33595,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.9.8/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/rb-fsevent-0.9.8/lib" />
