@@ -14,8 +14,8 @@
     <mask>*spec.js</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
-    <mask>*.rb</mask>
     <mask>*.rb,!*spec.rb</mask>
     <mask>*spec.rb</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
