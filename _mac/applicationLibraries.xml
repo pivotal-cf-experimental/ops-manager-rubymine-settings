@@ -41364,6 +41364,56 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/webdrivers-4.1.1/gemfiles" />
       </excluded>
     </library>
+    <library name="webdrivers (v4.1.1, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.1/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.1/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.1/support" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.1/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.1/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.1/support" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.1/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.1/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.1/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.1/support" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.1/gemfiles" />
+      </excluded>
+    </library>
+    <library name="webdrivers (v4.1.2, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.2/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.2/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.2/support" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.2/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.2/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.2/support" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.2/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.2/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.2/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.2/support" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/webdrivers-4.1.2/gemfiles" />
+      </excluded>
+    </library>
     <library name="webmock (v3.4.1, chruby: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
