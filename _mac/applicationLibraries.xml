@@ -28799,6 +28799,25 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/bundler/gems/omniauth-uaa-oauth2-f892fd3415f9/examples" />
       </excluded>
     </library>
+    <library name="omniauth-uaa-oauth2 (v0.0.7, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/omniauth-uaa-oauth2-0.0.7/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/omniauth-uaa-oauth2-0.0.7/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/omniauth-uaa-oauth2-0.0.7/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/omniauth-uaa-oauth2-0.0.7/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/omniauth-uaa-oauth2-0.0.7/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/omniauth-uaa-oauth2-0.0.7/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/omniauth-uaa-oauth2-0.0.7/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/omniauth-uaa-oauth2-0.0.7/examples" />
+      </excluded>
+    </library>
     <library name="omniauth-uaa-oauth2 (v1.0.0@1eaf9b, chruby: ruby-2.5.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
