@@ -1,9 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="RunAllTests">
-      <action id="EditorTextStart" />
-      <action id="RunClass" />
-      <action id="Back" />
-    </macro>
-  </component>
-</application>
