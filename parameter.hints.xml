@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Ruby">
+        <added pattern="*.to(*,*,*)" />
+        <added pattern="ActionController::Parameters.fetch(key,args)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
