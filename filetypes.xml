@@ -1,9 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="run-ops-manifest-integration" type="Bash" />
-      <mapping ext="dockerfile" type="Dockerfile" />
-      <mapping pattern="labrador" type="PLAIN_TEXT" />
+      <mapping pattern="add-release-label-to-stories" type="Bash" />
     </extensionMap>
   </component>
 </application>
