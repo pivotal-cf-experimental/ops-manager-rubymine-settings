@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="deps" type="PLAIN_TEXT" />
+      <mapping ext="zsh" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
