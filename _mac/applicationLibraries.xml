@@ -1932,6 +1932,50 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/addressable-2.6.0/tasks" />
       </excluded>
     </library>
+    <library name="addressable (v2.7.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/addressable-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/addressable-2.7.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/addressable-2.7.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/addressable-2.7.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/addressable-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/addressable-2.7.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/addressable-2.7.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/addressable-2.7.0/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/addressable-2.7.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/addressable-2.7.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/addressable-2.7.0/tasks" />
+      </excluded>
+    </library>
+    <library name="addressable (v2.7.0, ruby-2.4.4-p296) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/addressable-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/addressable-2.7.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/addressable-2.7.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/addressable-2.7.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/addressable-2.7.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/addressable-2.7.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/addressable-2.7.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/addressable-2.7.0/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/addressable-2.7.0/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/addressable-2.7.0/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/addressable-2.7.0/tasks" />
+      </excluded>
+    </library>
     <library name="afm (v0.2.2, chruby: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -41243,6 +41287,38 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-3.2.2/test" />
       </excluded>
     </library>
+    <library name="mime-types (v3.3, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-3.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-3.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-3.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-3.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-3.3/test" />
+      </excluded>
+    </library>
+    <library name="mime-types (v3.3, ruby-2.4.4-p296) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-3.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-3.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-3.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-3.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-3.3/test" />
+      </excluded>
+    </library>
     <library name="mime-types-data (v3.2015.1120, chruby: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -41489,6 +41565,44 @@
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2019.0331/data" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2019.0331/types" />
+      </excluded>
+    </library>
+    <library name="mime-types-data (v3.2019.0904, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2019.0904/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2019.0904/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2019.0904/types" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2019.0904/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2019.0904/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2019.0904/types" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2019.0904/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2019.0904/types" />
+      </excluded>
+    </library>
+    <library name="mime-types-data (v3.2019.0904, ruby-2.4.4-p296) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2019.0904/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2019.0904/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2019.0904/types" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2019.0904/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2019.0904/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2019.0904/types" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2019.0904/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mime-types-data-3.2019.0904/types" />
       </excluded>
     </library>
     <library name="mimemagic (v0.3.2, chruby: ruby-2.4.4) [gem]" type="rubylib">
@@ -49919,6 +50033,81 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-3.1.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-3.1.1/data" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-3.1.1/test" />
+      </excluded>
+    </library>
+    <library name="public_suffix (v4.0.1, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/.github" />
+      </excluded>
+    </library>
+    <library name="public_suffix (v4.0.1, ruby-2.3.6-p384) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/.github" />
+      </excluded>
+    </library>
+    <library name="public_suffix (v4.0.1, ruby-2.4.4-p296) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/data" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/public_suffix-4.0.1/.github" />
       </excluded>
     </library>
     <library name="puma (v3.11.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
