@@ -8350,13 +8350,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/debase/0.2.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debase-0.2.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debase-0.2.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debase-0.2.3/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/debase/0.2.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debase-0.2.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debase-0.2.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debase-0.2.3/test" />
@@ -23133,7 +23131,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.8.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.8.5/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.8.5/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.8.5/lib" />
@@ -23143,7 +23140,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.8.5/suppressions" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.8.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.8.5/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.8.5/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.8.5/lib" />
@@ -30184,72 +30180,6 @@
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rouge-2.0.7/bin" />
       </excluded>
-    </library>
-    <library name="rspec (v3.5.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rspec-3.5.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rspec-3.5.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec (v3.5.0, ruby-2.3.6-p384) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rspec-3.5.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rspec-3.5.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec (v3.5.0, ruby-2.4.4-p296) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rspec-3.5.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rspec-3.5.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec (v3.6.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rspec-3.6.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rspec-3.6.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec (v3.6.0, ruby-2.3.6-p384) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rspec-3.6.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rspec-3.6.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec (v3.6.0, ruby-2.4.4-p296) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rspec-3.6.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rspec-3.6.0/lib" />
-      </SOURCES>
     </library>
     <library name="rspec (v3.8.0, chruby: ruby-2.2.4) [gem]" type="rubylib">
       <properties>
