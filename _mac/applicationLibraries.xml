@@ -4651,12 +4651,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/binding_of_caller/0.8.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/binding_of_caller-0.8.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/binding_of_caller-0.8.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/binding_of_caller-0.8.0/test" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/binding_of_caller-0.8.0/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/binding_of_caller/0.8.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/binding_of_caller-0.8.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/binding_of_caller-0.8.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/binding_of_caller-0.8.0/test" />
@@ -8589,11 +8591,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debug_inspector-0.0.3/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/debug_inspector/0.0.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debug_inspector-0.0.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debug_inspector-0.0.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debug_inspector-0.0.3/test" />
@@ -23131,6 +23135,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.8.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.8.5/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.8.5/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.8.5/lib" />
@@ -23140,6 +23145,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.8.5/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.8.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.8.5/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.8.5/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.8.5/lib" />
@@ -24970,6 +24976,81 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.0/doc" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.0/test" />
+      </excluded>
+    </library>
+    <library name="parser (v2.6.4.1, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/test" />
+      </excluded>
+    </library>
+    <library name="parser (v2.6.4.1, ruby-2.3.6-p384) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/test" />
+      </excluded>
+    </library>
+    <library name="parser (v2.6.4.1, ruby-2.4.4-p296) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/ci" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/parser-2.6.4.1/test" />
       </excluded>
     </library>
     <library name="parslet (v1.8.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
@@ -30180,6 +30261,28 @@
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rouge-2.0.7/bin" />
       </excluded>
+    </library>
+    <library name="rspec (v3.5.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rspec-3.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rspec-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec (v3.6.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rspec-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rspec-3.6.0/lib" />
+      </SOURCES>
     </library>
     <library name="rspec (v3.8.0, chruby: ruby-2.2.4) [gem]" type="rubylib">
       <properties>
