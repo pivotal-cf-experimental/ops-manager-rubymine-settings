@@ -17,5 +17,6 @@
     <mask>*.rb</mask>
     <mask>*spec.rb</mask>
     <mask>*.rb,!*spec.rb</mask>
+    <mask>*.rake</mask>
   </component>
 </application>
