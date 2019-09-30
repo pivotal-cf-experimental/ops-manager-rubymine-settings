@@ -12,9 +12,9 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.rb</mask>
     <mask>*spec.rb</mask>
     <mask>*.rb,!*spec.rb</mask>
     <mask>*.rake</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
