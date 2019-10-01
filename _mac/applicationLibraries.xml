@@ -23186,6 +23186,25 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/childprocess-1.0.1/spec" />
       </excluded>
     </library>
+    <library name="childprocess (v2.0.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/childprocess-2.0.0/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/childprocess-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/childprocess-2.0.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/childprocess-2.0.0/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/childprocess-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/childprocess-2.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/childprocess-2.0.0/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/childprocess-2.0.0/spec" />
+      </excluded>
+    </library>
     <library name="chromedriver-helper (v1.1.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -31409,13 +31428,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ffi-1.9.25/samples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ffi-1.9.25/samples" />
@@ -48225,6 +48242,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.8.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.8.5/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.8.5/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.8.5/lib" />
@@ -48234,6 +48252,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.8.5/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.8.5" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.8.5/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.8.5/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.8.5/lib" />
@@ -63168,6 +63187,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/selenium-webdriver-3.142.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.142.4, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/selenium-webdriver-3.142.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/selenium-webdriver-3.142.4/lib" />
       </SOURCES>
     </library>
     <library name="selenium-webdriver (v3.7.0, chruby: ruby-2.4.4) [gem]" type="rubylib">
