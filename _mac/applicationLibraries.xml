@@ -22390,6 +22390,54 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.28.0/spec" />
       </excluded>
     </library>
+    <library name="capybara (v3.29.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.29.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.29.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.29.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.29.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.29.0/spec" />
+      </excluded>
+    </library>
+    <library name="capybara (v3.29.0, ruby-2.3.6-p384) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.29.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.29.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.29.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.29.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.29.0/spec" />
+      </excluded>
+    </library>
+    <library name="capybara (v3.29.0, ruby-2.4.4-p296) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.29.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.29.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.29.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.29.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/capybara-3.29.0/spec" />
+      </excluded>
+    </library>
     <library name="capybara-selenium (v0.0.6, chruby: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
