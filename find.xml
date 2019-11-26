@@ -3,8 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.rb,!*spec.rb" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,7 +19,7 @@
     <mask>*.mxml</mask>
     <mask>*.rake</mask>
     <mask>*.rb</mask>
-    <mask>*.rb,!*spec.rb</mask>
     <mask>*spec.rb</mask>
+    <mask>*.rb,!*spec.rb</mask>
   </component>
 </application>
