@@ -48768,6 +48768,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.4/patches" />
       </excluded>
     </library>
+    <library name="nokogiri (v1.10.5, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.5" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.5/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.5/patches" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nokogiri/1.10.5" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.5/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.5/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.5/patches" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.5/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.5/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/nokogiri-1.10.5/patches" />
+      </excluded>
+    </library>
     <library name="nokogiri (v1.10.5, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
