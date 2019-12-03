@@ -3,5 +3,23 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*spec.js</mask>
+    <mask>*.scss</mask>
+    <mask>*.rb</mask>
+    <mask>*_spec.rb</mask>
+    <mask>*.js, !_spec</mask>
+    <mask>*.js, !*_spec.js</mask>
+    <mask>*.js</mask>
+    <mask>*.yml.erb</mask>
+    <mask>*.rb,!*spec.rb</mask>
+    <mask>*spec.rb</mask>
   </component>
 </application>
