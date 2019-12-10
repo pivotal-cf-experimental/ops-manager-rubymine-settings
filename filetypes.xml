@@ -1,17 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="dockerfile" type="Dockerfile" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="deps" type="PLAIN_TEXT" />
-      <mapping pattern="promote-ops-manifest-gem.yml.erb" type="PLAIN_TEXT" />
-      <mapping pattern="luna" type="PLAIN_TEXT" />
-      <mapping pattern="hyperion" type="PLAIN_TEXT" />
-      <mapping pattern="titan" type="PLAIN_TEXT" />
-      <mapping pattern="europa" type="PLAIN_TEXT" />
-      <mapping ext="new" type="PLAIN_TEXT" />
-      <mapping pattern="check-bundle-audit" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
