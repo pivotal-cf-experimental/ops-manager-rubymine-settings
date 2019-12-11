@@ -3,8 +3,11 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.rb,!*spec.rb" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -19,7 +22,7 @@
     <mask>*</mask>
     <mask>*.rb, *.haml, !*spec.rb</mask>
     <mask>*.erb</mask>
-    <mask>*.rb,!*spec.rb</mask>
     <mask>*.js</mask>
+    <mask>*.rb,!*spec.rb</mask>
   </component>
 </application>
