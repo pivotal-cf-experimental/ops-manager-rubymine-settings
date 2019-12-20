@@ -1754,6 +1754,25 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.6.3/lib/ruby/2.6.0/bundler/compact_index_client" />
       </excluded>
     </library>
+    <library name="bundler (v1.17.3, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bundler-1.17.3/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bundler-1.17.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bundler-1.17.3/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bundler-1.17.3/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bundler-1.17.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bundler-1.17.3/man" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bundler-1.17.3/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/bundler-1.17.3/man" />
+      </excluded>
+    </library>
     <library name="bundler (v2.0.1, chruby: ruby-2.4.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
