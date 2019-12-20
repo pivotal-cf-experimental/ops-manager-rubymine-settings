@@ -332,6 +332,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activesupport-5.2.3/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v5.2.4.1, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activesupport-5.2.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activesupport-5.2.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="addressable (v2.5.0, chruby: ruby-2.2.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1687,6 +1698,28 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/builder-3.2.3/doc" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/builder-3.2.3/test" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/builder-3.2.3/rakelib" />
+      </excluded>
+    </library>
+    <library name="builder (v3.2.4, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/builder-3.2.4/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/builder-3.2.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/builder-3.2.4/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/builder-3.2.4/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/builder-3.2.4/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/builder-3.2.4/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/builder-3.2.4/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/builder-3.2.4/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/builder-3.2.4/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/builder-3.2.4/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/builder-3.2.4/rakelib" />
       </excluded>
     </library>
     <library name="bundler (v1.16.6, chruby: ruby-2.2.4) [gem]" type="rubylib">
@@ -3315,6 +3348,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/erubi-1.8.0/test" />
+      </excluded>
+    </library>
+    <library name="erubi (v1.9.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/erubi-1.9.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/erubi-1.9.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/erubi-1.9.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/erubi-1.9.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/erubi-1.9.0/test" />
       </excluded>
     </library>
     <library name="erubis (v2.7.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
@@ -5218,6 +5267,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/i18n-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v1.7.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/i18n-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/i18n-1.7.0/lib" />
       </SOURCES>
     </library>
     <library name="io-console (v0.4.3, chruby: ruby-2.2.4) [gem]" type="rubylib">
@@ -7349,6 +7409,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.5/patches" />
       </excluded>
     </library>
+    <library name="nokogiri (v1.10.7, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.10.7" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.7/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.7/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.7/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.7/patches" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/nokogiri/1.10.7" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.7/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.7/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.7/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.7/patches" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.7/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.7/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.7/patches" />
+      </excluded>
+    </library>
     <library name="nokogiri (v1.7.0.1, chruby: ruby-2.2.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9109,6 +9193,31 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rake-12.3.3/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rake-12.3.3/doc" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rake-12.3.3/exe" />
+      </excluded>
+    </library>
+    <library name="rake (v13.0.1, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rake-13.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rake-13.0.1/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rake-13.0.1/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rake-13.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rake-13.0.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rake-13.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rake-13.0.1/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rake-13.0.1/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rake-13.0.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rake-13.0.1/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rake-13.0.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rake-13.0.1/doc" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rake-13.0.1/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rake-13.0.1/.github" />
       </excluded>
     </library>
     <library name="range_operators (v0.1.1, chruby: ruby-2.6.3) [gem]" type="rubylib">
