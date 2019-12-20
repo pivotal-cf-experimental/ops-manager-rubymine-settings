@@ -343,6 +343,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activesupport-5.2.4.1/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v6.0.2.1, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activesupport-6.0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/activesupport-6.0.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="addressable (v2.5.0, chruby: ruby-2.2.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -801,6 +812,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-partitions-1.203.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.258.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-partitions-1.258.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-partitions-1.258.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-partitions (v1.87.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -810,6 +832,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-partitions-1.87.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk (v2.11.419, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-sdk-2.11.419/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-sdk-2.11.419/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk (v2.2.28, chruby: ruby-2.6.3) [gem]" type="rubylib">
@@ -845,6 +878,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-sdk-cloudformation-1.25.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-cloudformation (v1.29.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-sdk-cloudformation-1.29.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-sdk-cloudformation-1.29.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-cloudformation (v1.4.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -855,6 +899,25 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-sdk-cloudformation-1.4.0/lib" />
       </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v2.11.419, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-sdk-core-2.11.419/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-sdk-core-2.11.419/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-sdk-core-2.11.419/apis" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-sdk-core-2.11.419/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-sdk-core-2.11.419/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-sdk-core-2.11.419/apis" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-sdk-core-2.11.419/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-sdk-core-2.11.419/apis" />
+      </excluded>
     </library>
     <library name="aws-sdk-core (v2.2.0, chruby: ruby-2.2.4) [gem]" type="rubylib">
       <properties>
@@ -949,6 +1012,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-sdk-core-3.63.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-core (v3.86.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-sdk-core-3.86.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-sdk-core-3.86.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-ec2 (v1.101.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -969,6 +1043,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-sdk-ec2-1.105.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-ec2 (v1.128.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-sdk-ec2-1.128.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-sdk-ec2-1.128.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-ec2 (v1.34.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
@@ -1079,6 +1164,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-sdk-kms-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resources (v2.11.419, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-sdk-resources-2.11.419/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/aws-sdk-resources-2.11.419/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-resources (v2.2.0, chruby: ruby-2.2.4) [gem]" type="rubylib">
@@ -8711,6 +8807,31 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rack-1.6.11/example" />
       </excluded>
     </library>
+    <library name="rack (v1.6.12, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rack-1.6.12/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rack-1.6.12/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rack-1.6.12/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rack-1.6.12/contrib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rack-1.6.12/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rack-1.6.12/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rack-1.6.12/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rack-1.6.12/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rack-1.6.12/contrib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rack-1.6.12/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rack-1.6.12/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rack-1.6.12/test" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rack-1.6.12/contrib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rack-1.6.12/example" />
+      </excluded>
+    </library>
     <library name="rack (v1.6.8, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -12183,6 +12304,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/xray-1.1/rails" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/xray-1.1/patches_for_mri" />
       </excluded>
+    </library>
+    <library name="zeitwerk (v2.2.2, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/zeitwerk-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/zeitwerk-2.2.2/lib" />
+      </SOURCES>
     </library>
   </component>
 </application>
