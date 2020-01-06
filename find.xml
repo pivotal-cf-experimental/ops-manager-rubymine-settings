@@ -12,12 +12,12 @@
     <mask>*.gemspec</mask>
     <mask>*.rbw</mask>
     <mask>*.jbuilder</mask>
-    <mask>*spec.rb</mask>
     <mask>*.rb</mask>
     <mask>*</mask>
     <mask>*.rb, *.haml, !*spec.rb</mask>
     <mask>*.erb</mask>
     <mask>*.js</mask>
     <mask>*.rb,!*spec.rb</mask>
+    <mask>*spec.rb</mask>
   </component>
 </application>
