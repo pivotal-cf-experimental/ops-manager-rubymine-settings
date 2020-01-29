@@ -17,9 +17,9 @@
     <mask>*</mask>
     <mask>*.rb, *.haml, !*spec.rb</mask>
     <mask>*.erb</mask>
-    <mask>*.rb</mask>
     <mask>*spec.rb</mask>
     <mask>*.rb,!*spec.rb</mask>
     <mask>*.js</mask>
+    <mask>*.rb</mask>
   </component>
 </application>
