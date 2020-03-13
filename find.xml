@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -16,8 +19,8 @@
     <mask>*.rb, *.haml, !*spec.rb</mask>
     <mask>*.erb</mask>
     <mask>*spec.rb</mask>
-    <mask>*.js</mask>
     <mask>*.rb</mask>
     <mask>*.rb,!*spec.rb</mask>
+    <mask>*.js</mask>
   </component>
 </application>
