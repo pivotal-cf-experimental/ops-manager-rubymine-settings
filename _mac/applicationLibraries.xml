@@ -1887,13 +1887,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/debase/0.2.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debase-0.2.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debase-0.2.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debase-0.2.3/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/debase/0.2.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debase-0.2.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debase-0.2.3/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debase-0.2.3/test" />
@@ -1908,11 +1906,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/debase/0.2.4.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debase-0.2.4.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debase-0.2.4.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debase-0.2.4.1/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/debase/0.2.4.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debase-0.2.4.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debase-0.2.4.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/debase-0.2.4.1/test" />
@@ -2537,11 +2537,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/fast_blank/1.0.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fast_blank-1.0.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fast_blank-1.0.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fast_blank-1.0.0/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/fast_blank/1.0.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fast_blank-1.0.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fast_blank-1.0.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/fast_blank-1.0.0/spec" />
@@ -3826,12 +3828,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/jaro_winkler/1.5.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/jaro_winkler-1.5.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/jaro_winkler-1.5.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/jaro_winkler/1.5.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/jaro_winkler-1.5.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/jaro_winkler-1.5.3/lib" />
       </SOURCES>
@@ -5210,6 +5210,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nio4r/2.4.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nio4r-2.4.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nio4r-2.4.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nio4r-2.4.0/spec" />
@@ -5217,6 +5218,7 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nio4r-2.4.0/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nio4r/2.4.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nio4r-2.4.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nio4r-2.4.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nio4r-2.4.0/spec" />
@@ -5279,14 +5281,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.7" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.7/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.7/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.7/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.7/patches" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/nokogiri/1.10.7" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.7/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.7/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/nokogiri-1.10.7/lib" />
@@ -6643,11 +6643,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rb-fsevent-0.10.3/lib" />
@@ -6662,13 +6664,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rb-fsevent-0.9.8/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/rb-fsevent/0.9.8" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rb-fsevent-0.9.8/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rb-fsevent-0.9.8/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rb-fsevent-0.9.8/lib" />
@@ -7648,11 +7648,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/sassc/2.2.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/sassc-2.2.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/sassc-2.2.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/sassc-2.2.0/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs26/sassc/2.2.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/sassc-2.2.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/sassc-2.2.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/sassc-2.2.0/test" />
