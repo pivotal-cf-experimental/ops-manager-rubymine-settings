@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.log" />
+    <option name="FILE_MASK" value="*spec.rb" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -16,10 +16,10 @@
     <mask>*</mask>
     <mask>*.rb, *.haml, !*spec.rb</mask>
     <mask>*.erb</mask>
-    <mask>*spec.rb</mask>
     <mask>*.rb</mask>
     <mask>*.rb,!*spec.rb</mask>
     <mask>*.js</mask>
     <mask>!*.log</mask>
+    <mask>*spec.rb</mask>
   </component>
 </application>
