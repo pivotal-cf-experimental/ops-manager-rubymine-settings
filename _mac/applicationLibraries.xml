@@ -1724,6 +1724,27 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.2.4.1/test" />
       </excluded>
     </library>
+    <library name="debase (v0.3.0.beta34, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/debase/0.3.0.beta34" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.3.0.beta34/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.3.0.beta34/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.3.0.beta34/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/debase/0.3.0.beta34" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.3.0.beta34/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.3.0.beta34/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.3.0.beta34/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.3.0.beta34/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.3.0.beta34/test" />
+      </excluded>
+    </library>
     <library name="debase-ruby_core_source (v0.10.5, chruby: ruby-2.4.4) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6215,6 +6236,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ruby-debug-ide-0.6.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ruby-debug-ide-0.6.0/ext" />
+      </excluded>
+    </library>
+    <library name="ruby-debug-ide (v0.8.0.beta24, chruby: ruby-2.4.4) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ruby-debug-ide-0.8.0.beta24/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ruby-debug-ide-0.8.0.beta24/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ruby-debug-ide-0.8.0.beta24/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ruby-debug-ide-0.8.0.beta24/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ruby-debug-ide-0.8.0.beta24/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ruby-debug-ide-0.8.0.beta24/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ruby-debug-ide-0.8.0.beta24/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/ruby-debug-ide-0.8.0.beta24/ext" />
       </excluded>
     </library>
     <library name="ruby-prof (v0.16.2, chruby: ruby-2.4.4) [gem]" type="rubylib">
