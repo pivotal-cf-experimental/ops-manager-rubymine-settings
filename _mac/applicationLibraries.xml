@@ -1708,13 +1708,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/debase/0.2.4.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.2.4.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.2.4.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.2.4.1/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/debase/0.2.4.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.2.4.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.2.4.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.2.4.1/test" />
@@ -1729,13 +1727,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/debase/0.3.0.beta34" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.3.0.beta34/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.3.0.beta34/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.3.0.beta34/test" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs24/debase/0.3.0.beta34" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.3.0.beta34/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.3.0.beta34/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.4.4/gems/debase-0.3.0.beta34/test" />
