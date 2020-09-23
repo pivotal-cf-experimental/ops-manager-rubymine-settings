@@ -5,6 +5,7 @@
       <mapping pattern="spade" type="PLAIN_TEXT" />
       <mapping pattern="renew-nimbus-testbed-lease" type="PLAIN_TEXT" />
       <mapping pattern="oregon" type="PLAIN_TEXT" />
+      <mapping pattern="monit" type="PLAIN_TEXT" />
       <mapping pattern="david" type="YAML" />
     </extensionMap>
   </component>
