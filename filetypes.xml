@@ -4,6 +4,7 @@
       <mapping pattern="cameron" type="PLAIN_TEXT" />
       <mapping pattern="spade" type="PLAIN_TEXT" />
       <mapping pattern="renew-nimbus-testbed-lease" type="PLAIN_TEXT" />
+      <mapping pattern="orange" type="PLAIN_TEXT" />
       <mapping pattern="oregon" type="PLAIN_TEXT" />
       <mapping pattern="monit" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
