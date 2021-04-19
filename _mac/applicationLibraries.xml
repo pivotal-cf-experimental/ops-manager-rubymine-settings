@@ -5023,6 +5023,25 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mustache-1.1.1/test" />
       </excluded>
     </library>
+    <library name="mustermann (v1.1.1, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mustermann-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mustermann-1.1.1/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mustermann-1.1.1/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mustermann-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mustermann-1.1.1/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mustermann-1.1.1/bench" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mustermann-1.1.1/spec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/mustermann-1.1.1/bench" />
+      </excluded>
+    </library>
     <library name="mysql2 (v0.4.10, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6222,6 +6241,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rack-mini-profiler-0.10.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v2.1.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rack-protection-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/rack-protection-2.1.0/lib" />
       </SOURCES>
     </library>
     <library name="rack-test (v0.6.3, chruby: ruby-2.6.3) [gem]" type="rubylib">
@@ -7495,6 +7525,17 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ruby-rc4-0.1.5/spec" />
       </excluded>
     </library>
+    <library name="ruby2_keywords (v0.0.4, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ruby2_keywords-0.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/ruby2_keywords-0.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby_dep (v1.5.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7818,6 +7859,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/simplecov-html-0.10.2/public" />
       </excluded>
     </library>
+    <library name="sinatra (v2.1.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/sinatra-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/sinatra-2.1.0/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/sinatra-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/sinatra-2.1.0/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/sinatra-2.1.0/examples" />
+      </excluded>
+    </library>
     <library name="slop (v3.6.0, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8033,6 +8090,22 @@
       </properties>
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="tilt (v2.0.10, chruby: ruby-2.6.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/tilt-2.0.10/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/tilt-2.0.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/tilt-2.0.10/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/tilt-2.0.10/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.gem/ruby/2.6.3/gems/tilt-2.0.10/bin" />
+      </excluded>
     </library>
     <library name="tilt (v2.0.8, chruby: ruby-2.6.3) [gem]" type="rubylib">
       <properties>
