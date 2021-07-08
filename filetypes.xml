@@ -8,6 +8,7 @@
       <mapping pattern="oregon" type="PLAIN_TEXT" />
       <mapping pattern="monit" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping pattern="europa" type="YAML" />
       <mapping pattern="david" type="YAML" />
     </extensionMap>
   </component>
